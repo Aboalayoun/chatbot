@@ -1,0 +1,187 @@
+
+الخطوة 1: حمل python من [https://www.python.org/downloads/](https://www.python.org/downloads/?utm_source=chatgpt.com)
+
+image
+
+أثناء التثبيت لازم تعلّم علىAdd Python to PATH
+
+الخطوة 2: تثبيت المكتبات المطلوبة
+
+افتح CMD و اكتب
+
+pip install flask pyodbc
+
+الخطوة 3: تجهيز ملفات المشروع
+
+اعمل folder سميه اي اسم مثلا نفس اسم المشروع بتاعك
+
+وحط فيه:
+
+- ملف ال accdb
+- ملف python هتسميه مثلا app.py
+
+الخطوة 4: افتح ملف ال python ب vscode او اي text editor و اكتب جواه الكود ده
+
+from flask import Flask, request, jsonify
+
+import pyodbc
+
+import os
+
+BASE_DIR = os.path.dirname(os.path.abspath(\__file_\_))
+
+db_path = os.path.join(BASE_DIR, "chat2.accdb")
+
+app = Flask(\__name_\_)
+
+\# الاتصال بقاعدة البيانات
+
+conn = pyodbc.connect(
+
+&nbsp; r'DRIVER={Microsoft Access Driver (\*.mdb, \*.accdb)};'
+
+&nbsp; f'DBQ={db_path};'
+
+)
+
+cursor = conn.cursor()
+
+@app.route('/webhook', methods=\['POST'\])
+
+def webhook():
+
+&nbsp; req = request.get_json()
+
+&nbsp; intent = req\['queryResult'\]\['intent'\]\['displayName'\]
+
+&nbsp; if intent == "get_gpa":
+
+&nbsp; name = req\['queryResult'\]\['parameters'\]\['name'\]
+
+&nbsp; query = "SELECT GPA FROM Students WHERE StudentName=?"
+
+&nbsp; cursor.execute(query, (name,))
+
+&nbsp; row = cursor.fetchone()
+
+&nbsp; if row:
+
+&nbsp; response = f"GPA الخاص بـ {name} هو {row\[0\]}"
+
+&nbsp; else:
+
+&nbsp; response = "الطالب غير موجود"
+
+&nbsp; return jsonify({
+
+&nbsp; "fulfillmentText": response
+
+&nbsp; })
+
+&nbsp; return jsonify({
+
+&nbsp; "fulfillmentText": "مش فاهم السؤال"
+
+&nbsp; })
+
+if \_\_name\_\_ == '\__main_\_':
+
+&nbsp; app.run(port=5000)
+
+هتغير فيه اسم ال files و جملة ال select و شوية حجات حسب انت عايز تعمل chatbot بيعمل ايه بالظبط (هنرجعلها في الخطوة الاخيرة)
+
+الخطوة 5: تشغيل ال code و ال server
+
+افتح CMD داخل الفولدر و اكتب
+
+python app.py
+
+لو اشتغل صح هيظهر:
+
+Running on <http://127.0.0.1:5000>
+
+الخطوة 6: تحميل Ngrok من [https://ngrok.com/download/windows](https://ngrok.com/download/windows?utm_source=chatgpt.com)
+
+image
+
+الخطوة 7: هتعمل login علي Ngrok هيطلعلك authtoken
+
+image
+
+الخطوة 8: هتفك الضغط و تفتح ملف Ngrok
+
+و هتضيف ال auth بتاعك بالسطر اللي فوق
+
+ngrok config add-authtoken "&lt;YOUR_AUTHTOKEN&gt;"
+
+بعدها هتكتب و ترن Ngrok server علي نفس ال port
+
+ngrok http 5000
+
+الخطوة 9: إنشاء Chatbot على Dialogflow
+
+هتدخل علي <https://dialogflow.cloud.google.com/>
+
+و هتعمل login عليه
+
+بعدين هتعمل create new agent
+
+بعدين من قائمة intents من الجمب
+
+هتعمل create intent و تسميها بالاسم اللي عايزه مثلا get_gpa (يفضل الاسم يكون معبر عن الحاجة اللي بتعملها)
+
+في ال Training Phrases هتضيف الجمل او امثلة لل input اللي ال user هيدخله لل chatbot
+
+مثلا:
+
+gpa ahmed
+
+gpa aya
+
+درجة احمد
+
+عايز gpa maha
+
+و هتضيف parameters من تحت و ده هيكون الحاجة اللي بتتغير زي مثلا ال name
+
+و entity type هتحطها
+
+@sys.any
+
+و هتحتاج ت hover علي الاسماء في الامثلة فوق في ال training phrases و تختار برده
+
+@sys.any:name
+
+image
+
+و متنساش تعمل save من فوق
+
+الخطوة 10: تفعيل Webhook
+
+هتختار من القائمة Fulfillment و تعمل enable لل Webhook
+
+و هتحط الرابط اللي طلع معاك لما شغلت server ال Ngrok
+
+image
+
+image
+و متنساش تضيف /webhook في اخر ال url بتاعك و تعمل save
+
+**ملحوظة:** لما تيجي وقت المناقشة هتحتاج تحط اللنك تاني علشان بيتغير لما بتقفل و تفحت ngrok و تعمل save تاني باللنك الجديد
+
+الخطوة 11: تفعيل Webhook للـ Intent
+
+هترجع لل intent اللي عملتها و هتلاقي من تحت enable
+
+image
+و متنساش تعمل save بعدها 😅
+
+الخطوة 12: اتاكد انك كاتب في الكود اسم ال intent و ال parameter صح و ال query او عدل فيهم براحتك حسب انت عايز تعمل ايه بالظبط
+
+الخطوة رقم 13: التجربة
+
+في dialogflow من الجمب هتلاقي Try it now اكتب مثال زي الامثلة اللي انت عملتها في ال Training phrases
+
+مثلا gpa ali
+
+image

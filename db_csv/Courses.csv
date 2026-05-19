@@ -1,0 +1,5004 @@
+CourseID,CourseName,credits,DepartmentID
+1,Database,3,1
+2,Programing,4,2
+3,Ai System,3,1
+4,Introduction to Networks 5,4,8
+5,Advanced Programming 6,2,1
+6,Advanced Programming 2,2,8
+7,Fundamentals of Data Structures 6,2,8
+8,Fundamentals of Cloud Computing 6,3,3
+9,Systems in Ethical Hacking 4,4,2
+10,Introduction to Data Structures 2,2,4
+11,Introduction to Cloud Computing 6,3,7
+12,Fundamentals of Cloud Computing 9,2,8
+13,Applied Ethical Hacking 3,2,8
+14,Fundamentals of Cloud Computing 6,2,7
+15,Applied Cloud Computing 5,3,7
+16,Advanced Database Systems 3,3,5
+17,Fundamentals of Programming 4,3,3
+18,Applied Data Structures 5,3,6
+19,Applied Ethical Hacking 1,3,5
+20,Introduction to Networks 4,3,2
+21,Fundamentals of Database Systems 5,4,8
+22,Systems in Machine Learning 5,4,8
+23,Advanced Programming 3,2,4
+24,Fundamentals of Networks 5,4,4
+25,Systems in Networks 5,4,5
+26,Advanced Networks 9,2,5
+27,Fundamentals of Database Systems 8,4,3
+28,Introduction to Ethical Hacking 9,2,7
+29,Introduction to Programming 6,2,3
+30,Advanced Programming 6,4,8
+31,Advanced Programming 7,3,3
+32,Applied Cloud Computing 2,4,6
+33,Systems in Machine Learning 5,3,2
+34,Systems in Networks 1,2,4
+35,Fundamentals of Cloud Computing 5,4,3
+36,Advanced Machine Learning 8,4,2
+37,Advanced Programming 7,4,7
+38,Advanced Cloud Computing 4,3,1
+39,Applied Networks 5,4,1
+40,Introduction to Data Structures 4,2,7
+41,Advanced Programming 7,4,3
+42,Applied Data Structures 1,2,8
+43,Systems in Programming 6,4,6
+44,Systems in Data Structures 9,2,7
+45,Advanced Database Systems 4,2,7
+46,Introduction to Database Systems 6,3,2
+47,Introduction to Ethical Hacking 3,4,3
+48,Applied Ethical Hacking 7,3,2
+49,Introduction to Cloud Computing 4,3,7
+50,Applied Database Systems 7,4,1
+51,Applied Programming 6,2,2
+52,Advanced Database Systems 7,3,3
+53,Applied Database Systems 4,4,5
+54,Systems in Ethical Hacking 1,2,8
+55,Applied Data Structures 8,3,8
+56,Introduction to Machine Learning 5,3,2
+57,Applied Cloud Computing 2,2,5
+58,Fundamentals of Ethical Hacking 7,3,8
+59,Systems in Programming 3,3,5
+60,Advanced Cloud Computing 9,2,6
+61,Introduction to Programming 3,4,6
+62,Introduction to Cloud Computing 4,3,8
+63,Advanced Networks 4,4,5
+64,Advanced Machine Learning 6,2,2
+65,Introduction to Networks 1,3,2
+66,Advanced Cloud Computing 5,3,7
+67,Systems in Ethical Hacking 7,2,2
+68,Introduction to Programming 9,2,3
+69,Fundamentals of Cloud Computing 2,2,3
+70,Advanced Data Structures 8,3,1
+71,Introduction to Database Systems 7,3,3
+72,Introduction to Data Structures 3,3,1
+73,Applied Programming 4,2,7
+74,Fundamentals of Ethical Hacking 4,4,7
+75,Fundamentals of Cloud Computing 8,2,2
+76,Fundamentals of Cloud Computing 9,4,1
+77,Fundamentals of Data Structures 5,2,5
+78,Fundamentals of Cloud Computing 9,3,2
+79,Systems in Programming 5,3,7
+80,Applied Programming 7,4,4
+81,Applied Database Systems 3,2,3
+82,Fundamentals of Database Systems 7,4,5
+83,Fundamentals of Data Structures 1,4,7
+84,Applied Networks 3,4,6
+85,Applied Cloud Computing 6,3,5
+86,Introduction to Ethical Hacking 9,3,5
+87,Introduction to Cloud Computing 3,2,1
+88,Introduction to Ethical Hacking 7,4,8
+89,Applied Networks 8,2,2
+90,Introduction to Data Structures 7,2,5
+91,Applied Cloud Computing 2,4,8
+92,Applied Programming 9,4,5
+93,Introduction to Networks 8,2,3
+94,Advanced Machine Learning 2,2,1
+95,Advanced Networks 9,3,7
+96,Applied Data Structures 2,3,1
+97,Fundamentals of Ethical Hacking 4,2,6
+98,Advanced Programming 5,4,5
+99,Introduction to Programming 4,3,8
+100,Advanced Cloud Computing 4,4,7
+101,Fundamentals of Database Systems 8,4,3
+102,Advanced Networks 1,3,8
+103,Applied Networks 9,4,6
+104,Introduction to Cloud Computing 9,3,5
+105,Introduction to Networks 3,4,6
+106,Applied Networks 8,3,4
+107,Applied Data Structures 7,3,2
+108,Advanced Database Systems 7,3,8
+109,Introduction to Cloud Computing 3,2,8
+110,Introduction to Programming 8,4,2
+111,Systems in Networks 1,4,2
+112,Fundamentals of Cloud Computing 5,2,7
+113,Applied Cloud Computing 6,4,2
+114,Systems in Data Structures 4,3,8
+115,Introduction to Data Structures 6,2,2
+116,Systems in Cloud Computing 9,3,6
+117,Introduction to Cloud Computing 9,4,5
+118,Applied Ethical Hacking 2,3,5
+119,Systems in Machine Learning 4,4,1
+120,Introduction to Data Structures 2,3,7
+121,Applied Programming 2,3,7
+122,Fundamentals of Data Structures 6,4,4
+123,Advanced Ethical Hacking 9,4,4
+124,Systems in Cloud Computing 6,4,7
+125,Introduction to Ethical Hacking 5,2,5
+126,Introduction to Ethical Hacking 1,2,5
+127,Systems in Database Systems 8,2,7
+128,Fundamentals of Networks 2,3,7
+129,Advanced Networks 2,3,4
+130,Fundamentals of Machine Learning 2,4,6
+131,Applied Ethical Hacking 5,3,5
+132,Systems in Database Systems 1,4,1
+133,Fundamentals of Programming 1,3,6
+134,Applied Networks 3,3,1
+135,Advanced Database Systems 7,4,2
+136,Introduction to Machine Learning 1,4,4
+137,Systems in Cloud Computing 5,3,1
+138,Applied Database Systems 5,3,2
+139,Fundamentals of Data Structures 3,3,8
+140,Introduction to Data Structures 9,4,8
+141,Systems in Programming 7,4,8
+142,Introduction to Cloud Computing 7,3,1
+143,Applied Networks 1,4,1
+144,Applied Ethical Hacking 2,2,5
+145,Fundamentals of Ethical Hacking 9,3,2
+146,Applied Programming 8,4,5
+147,Systems in Machine Learning 5,3,7
+148,Systems in Data Structures 7,2,8
+149,Applied Data Structures 2,2,5
+150,Applied Networks 8,3,6
+151,Fundamentals of Ethical Hacking 7,4,4
+152,Systems in Cloud Computing 1,4,1
+153,Systems in Programming 4,3,3
+154,Introduction to Data Structures 9,3,4
+155,Fundamentals of Data Structures 9,3,2
+156,Systems in Ethical Hacking 5,2,2
+157,Fundamentals of Database Systems 3,3,7
+158,Systems in Cloud Computing 1,4,5
+159,Fundamentals of Data Structures 1,4,5
+160,Systems in Programming 6,4,6
+161,Applied Machine Learning 5,2,3
+162,Fundamentals of Database Systems 9,2,7
+163,Systems in Machine Learning 5,3,1
+164,Fundamentals of Programming 8,4,2
+165,Advanced Machine Learning 3,4,1
+166,Systems in Networks 6,2,6
+167,Applied Programming 9,4,7
+168,Fundamentals of Cloud Computing 8,2,2
+169,Introduction to Ethical Hacking 1,3,3
+170,Fundamentals of Programming 2,2,2
+171,Systems in Data Structures 6,3,6
+172,Introduction to Data Structures 7,2,7
+173,Fundamentals of Cloud Computing 3,2,3
+174,Advanced Data Structures 5,4,6
+175,Advanced Networks 7,3,8
+176,Advanced Programming 9,2,5
+177,Applied Machine Learning 9,2,7
+178,Introduction to Programming 6,2,6
+179,Systems in Networks 2,4,2
+180,Applied Data Structures 2,2,8
+181,Advanced Cloud Computing 9,2,8
+182,Introduction to Programming 8,4,4
+183,Systems in Database Systems 3,3,2
+184,Advanced Data Structures 4,2,3
+185,Introduction to Data Structures 4,3,3
+186,Introduction to Machine Learning 1,2,5
+187,Fundamentals of Cloud Computing 7,4,1
+188,Applied Data Structures 7,4,3
+189,Introduction to Machine Learning 5,3,1
+190,Applied Machine Learning 9,4,1
+191,Advanced Data Structures 7,3,7
+192,Introduction to Cloud Computing 4,3,8
+193,Fundamentals of Database Systems 1,2,5
+194,Applied Ethical Hacking 1,3,6
+195,Introduction to Cloud Computing 4,2,5
+196,Systems in Database Systems 2,3,6
+197,Advanced Cloud Computing 7,4,8
+198,Systems in Data Structures 6,2,8
+199,Advanced Cloud Computing 7,3,1
+200,Fundamentals of Database Systems 5,4,8
+201,Applied Ethical Hacking 1,2,6
+202,Advanced Ethical Hacking 9,3,4
+203,Applied Ethical Hacking 1,3,2
+204,Introduction to Data Structures 8,2,2
+205,Advanced Ethical Hacking 2,4,3
+206,Fundamentals of Database Systems 3,2,2
+207,Fundamentals of Programming 2,3,5
+208,Systems in Data Structures 1,2,1
+209,Applied Ethical Hacking 8,4,7
+210,Introduction to Data Structures 9,4,6
+211,Advanced Networks 4,3,8
+212,Fundamentals of Cloud Computing 3,3,6
+213,Introduction to Machine Learning 9,3,1
+214,Introduction to Machine Learning 6,2,4
+215,Applied Ethical Hacking 2,4,3
+216,Applied Ethical Hacking 4,3,5
+217,Systems in Networks 8,4,3
+218,Introduction to Data Structures 8,3,7
+219,Fundamentals of Cloud Computing 2,4,6
+220,Applied Ethical Hacking 1,2,1
+221,Systems in Programming 9,4,8
+222,Introduction to Networks 8,4,6
+223,Advanced Database Systems 1,3,4
+224,Fundamentals of Ethical Hacking 6,4,5
+225,Applied Database Systems 6,2,5
+226,Applied Database Systems 5,4,3
+227,Fundamentals of Machine Learning 6,2,6
+228,Advanced Programming 7,3,5
+229,Fundamentals of Networks 2,3,2
+230,Fundamentals of Cloud Computing 4,3,3
+231,Advanced Cloud Computing 6,3,7
+232,Introduction to Ethical Hacking 7,2,1
+233,Systems in Database Systems 6,2,5
+234,Advanced Ethical Hacking 6,3,2
+235,Advanced Networks 7,3,2
+236,Fundamentals of Machine Learning 1,3,3
+237,Introduction to Database Systems 9,2,1
+238,Fundamentals of Machine Learning 5,4,8
+239,Fundamentals of Database Systems 4,2,1
+240,Systems in Ethical Hacking 8,4,4
+241,Advanced Data Structures 7,2,4
+242,Introduction to Networks 4,3,5
+243,Systems in Cloud Computing 8,4,3
+244,Advanced Cloud Computing 7,2,3
+245,Systems in Database Systems 2,4,1
+246,Applied Ethical Hacking 2,3,2
+247,Fundamentals of Programming 8,3,1
+248,Systems in Ethical Hacking 9,2,1
+249,Systems in Programming 1,3,6
+250,Applied Machine Learning 3,3,4
+251,Fundamentals of Data Structures 5,3,6
+252,Systems in Cloud Computing 6,2,3
+253,Systems in Cloud Computing 2,4,2
+254,Fundamentals of Networks 7,2,1
+255,Advanced Ethical Hacking 3,3,8
+256,Systems in Ethical Hacking 9,4,4
+257,Fundamentals of Ethical Hacking 5,4,6
+258,Fundamentals of Networks 9,4,8
+259,Introduction to Data Structures 4,4,3
+260,Introduction to Database Systems 4,2,7
+261,Applied Programming 5,3,4
+262,Introduction to Machine Learning 5,3,7
+263,Fundamentals of Networks 5,4,8
+264,Systems in Machine Learning 1,2,8
+265,Introduction to Machine Learning 1,2,3
+266,Systems in Database Systems 9,3,4
+267,Systems in Data Structures 2,2,8
+268,Applied Database Systems 7,2,2
+269,Fundamentals of Ethical Hacking 6,2,7
+270,Fundamentals of Networks 2,2,8
+271,Advanced Machine Learning 4,4,4
+272,Advanced Programming 1,3,7
+273,Fundamentals of Machine Learning 5,4,3
+274,Systems in Ethical Hacking 4,3,7
+275,Advanced Programming 3,4,8
+276,Systems in Ethical Hacking 7,4,6
+277,Advanced Data Structures 5,3,5
+278,Applied Ethical Hacking 8,2,7
+279,Fundamentals of Database Systems 7,3,3
+280,Advanced Data Structures 4,4,6
+281,Systems in Cloud Computing 4,3,8
+282,Applied Programming 5,3,8
+283,Introduction to Programming 5,3,6
+284,Systems in Programming 5,3,3
+285,Systems in Networks 6,2,6
+286,Applied Programming 2,2,2
+287,Systems in Database Systems 5,3,4
+288,Applied Machine Learning 3,3,3
+289,Introduction to Ethical Hacking 6,3,7
+290,Advanced Database Systems 7,2,5
+291,Advanced Machine Learning 1,4,2
+292,Systems in Cloud Computing 8,4,6
+293,Fundamentals of Machine Learning 8,3,8
+294,Introduction to Networks 7,3,5
+295,Introduction to Machine Learning 6,2,5
+296,Advanced Ethical Hacking 5,2,5
+297,Systems in Database Systems 3,4,1
+298,Fundamentals of Networks 3,3,3
+299,Advanced Programming 2,2,2
+300,Introduction to Cloud Computing 7,2,2
+301,Fundamentals of Machine Learning 4,4,8
+302,Advanced Machine Learning 4,4,7
+303,Advanced Programming 3,4,5
+304,Advanced Machine Learning 4,3,6
+305,Systems in Cloud Computing 6,4,4
+306,Introduction to Data Structures 2,4,6
+307,Systems in Machine Learning 8,4,5
+308,Introduction to Machine Learning 8,2,8
+309,Applied Programming 2,4,4
+310,Fundamentals of Networks 9,4,6
+311,Applied Ethical Hacking 1,2,2
+312,Introduction to Programming 1,3,7
+313,Applied Programming 5,3,1
+314,Introduction to Data Structures 3,3,3
+315,Applied Cloud Computing 9,3,1
+316,Fundamentals of Machine Learning 8,3,2
+317,Introduction to Ethical Hacking 5,3,7
+318,Fundamentals of Data Structures 1,2,6
+319,Advanced Cloud Computing 4,2,3
+320,Fundamentals of Programming 5,4,8
+321,Fundamentals of Networks 5,3,8
+322,Fundamentals of Programming 6,4,7
+323,Fundamentals of Programming 4,3,8
+324,Advanced Machine Learning 2,2,1
+325,Introduction to Machine Learning 9,4,6
+326,Systems in Networks 5,4,8
+327,Applied Data Structures 4,3,3
+328,Systems in Networks 7,2,8
+329,Advanced Database Systems 5,3,7
+330,Fundamentals of Data Structures 8,3,6
+331,Systems in Networks 6,3,8
+332,Applied Cloud Computing 2,4,4
+333,Advanced Ethical Hacking 4,4,4
+334,Introduction to Ethical Hacking 2,4,8
+335,Systems in Networks 1,2,3
+336,Applied Cloud Computing 7,3,6
+337,Systems in Data Structures 6,4,8
+338,Systems in Data Structures 5,3,1
+339,Systems in Machine Learning 6,2,8
+340,Fundamentals of Machine Learning 5,4,6
+341,Introduction to Programming 6,4,5
+342,Systems in Database Systems 9,2,7
+343,Applied Database Systems 2,2,7
+344,Advanced Networks 3,2,6
+345,Fundamentals of Database Systems 4,2,2
+346,Systems in Cloud Computing 4,3,5
+347,Advanced Database Systems 5,2,7
+348,Systems in Ethical Hacking 3,4,3
+349,Fundamentals of Cloud Computing 9,4,3
+350,Systems in Programming 1,3,6
+351,Systems in Machine Learning 8,3,1
+352,Fundamentals of Networks 7,3,8
+353,Introduction to Machine Learning 7,4,4
+354,Fundamentals of Ethical Hacking 2,2,4
+355,Applied Networks 3,4,3
+356,Systems in Networks 4,3,3
+357,Systems in Database Systems 8,2,5
+358,Fundamentals of Cloud Computing 1,3,2
+359,Applied Database Systems 6,2,4
+360,Introduction to Ethical Hacking 3,3,4
+361,Advanced Ethical Hacking 9,2,3
+362,Introduction to Database Systems 7,3,8
+363,Fundamentals of Networks 9,2,2
+364,Introduction to Ethical Hacking 1,4,7
+365,Fundamentals of Machine Learning 3,2,8
+366,Introduction to Database Systems 5,2,2
+367,Introduction to Programming 8,3,8
+368,Systems in Machine Learning 5,2,6
+369,Fundamentals of Database Systems 8,4,1
+370,Advanced Programming 2,2,8
+371,Advanced Machine Learning 2,3,6
+372,Introduction to Database Systems 2,4,2
+373,Introduction to Database Systems 5,4,4
+374,Introduction to Cloud Computing 2,4,8
+375,Introduction to Programming 2,2,4
+376,Fundamentals of Programming 8,4,5
+377,Systems in Database Systems 5,4,1
+378,Fundamentals of Data Structures 8,2,6
+379,Introduction to Database Systems 4,4,7
+380,Applied Ethical Hacking 5,2,3
+381,Introduction to Ethical Hacking 1,3,5
+382,Systems in Programming 9,2,3
+383,Fundamentals of Cloud Computing 2,4,2
+384,Systems in Ethical Hacking 1,4,2
+385,Advanced Machine Learning 5,4,1
+386,Introduction to Database Systems 2,4,1
+387,Systems in Programming 1,2,3
+388,Introduction to Programming 5,4,5
+389,Systems in Data Structures 5,4,6
+390,Applied Networks 2,3,1
+391,Systems in Database Systems 2,3,2
+392,Systems in Programming 7,3,6
+393,Applied Database Systems 4,4,1
+394,Advanced Database Systems 2,4,3
+395,Introduction to Networks 3,4,2
+396,Systems in Cloud Computing 2,2,5
+397,Introduction to Programming 5,4,7
+398,Fundamentals of Ethical Hacking 4,3,7
+399,Systems in Data Structures 5,3,1
+400,Systems in Ethical Hacking 5,4,6
+401,Systems in Machine Learning 5,2,5
+402,Systems in Ethical Hacking 7,4,6
+403,Introduction to Programming 5,2,5
+404,Systems in Data Structures 3,2,7
+405,Advanced Cloud Computing 1,2,2
+406,Systems in Ethical Hacking 2,4,8
+407,Fundamentals of Data Structures 4,4,7
+408,Systems in Machine Learning 7,3,4
+409,Applied Programming 2,2,1
+410,Applied Machine Learning 5,3,3
+411,Introduction to Programming 1,2,5
+412,Systems in Cloud Computing 3,2,6
+413,Systems in Ethical Hacking 3,2,2
+414,Advanced Database Systems 1,4,4
+415,Applied Machine Learning 1,2,8
+416,Fundamentals of Database Systems 4,4,6
+417,Introduction to Machine Learning 9,2,7
+418,Systems in Cloud Computing 8,2,3
+419,Systems in Database Systems 5,4,5
+420,Applied Networks 5,3,1
+421,Fundamentals of Programming 4,4,4
+422,Introduction to Cloud Computing 2,3,7
+423,Introduction to Data Structures 2,3,6
+424,Systems in Ethical Hacking 2,2,1
+425,Introduction to Programming 2,4,8
+426,Applied Data Structures 2,3,1
+427,Introduction to Ethical Hacking 7,3,8
+428,Applied Cloud Computing 6,2,4
+429,Fundamentals of Cloud Computing 9,3,8
+430,Introduction to Data Structures 5,4,8
+431,Introduction to Networks 2,2,8
+432,Fundamentals of Ethical Hacking 9,2,3
+433,Introduction to Programming 1,4,2
+434,Advanced Machine Learning 1,4,6
+435,Introduction to Data Structures 4,4,7
+436,Systems in Database Systems 7,2,3
+437,Advanced Machine Learning 8,4,6
+438,Systems in Programming 3,4,6
+439,Introduction to Ethical Hacking 6,2,7
+440,Advanced Cloud Computing 9,4,5
+441,Introduction to Database Systems 2,3,7
+442,Fundamentals of Database Systems 9,3,2
+443,Fundamentals of Cloud Computing 9,2,6
+444,Advanced Data Structures 1,4,8
+445,Introduction to Cloud Computing 9,4,2
+446,Advanced Machine Learning 8,4,8
+447,Introduction to Networks 1,4,4
+448,Fundamentals of Database Systems 9,3,4
+449,Applied Networks 1,4,8
+450,Fundamentals of Cloud Computing 7,4,1
+451,Advanced Programming 6,2,1
+452,Introduction to Networks 7,3,1
+453,Systems in Programming 7,3,2
+454,Introduction to Cloud Computing 9,4,7
+455,Advanced Ethical Hacking 5,3,2
+456,Applied Cloud Computing 9,3,3
+457,Advanced Machine Learning 7,3,3
+458,Applied Cloud Computing 6,4,8
+459,Fundamentals of Programming 7,3,8
+460,Advanced Data Structures 7,3,1
+461,Fundamentals of Ethical Hacking 5,4,3
+462,Introduction to Machine Learning 8,3,2
+463,Applied Programming 6,4,8
+464,Fundamentals of Database Systems 2,3,2
+465,Fundamentals of Machine Learning 8,3,5
+466,Systems in Machine Learning 3,4,4
+467,Fundamentals of Machine Learning 6,2,5
+468,Fundamentals of Ethical Hacking 6,2,7
+469,Applied Ethical Hacking 9,2,7
+470,Fundamentals of Networks 1,4,5
+471,Systems in Programming 4,4,6
+472,Applied Programming 9,2,6
+473,Introduction to Data Structures 4,4,7
+474,Fundamentals of Ethical Hacking 4,4,2
+475,Fundamentals of Programming 1,4,5
+476,Advanced Database Systems 8,2,5
+477,Advanced Data Structures 2,4,4
+478,Fundamentals of Machine Learning 8,2,4
+479,Systems in Programming 1,2,5
+480,Advanced Programming 3,4,6
+481,Introduction to Machine Learning 5,4,4
+482,Applied Data Structures 3,2,7
+483,Systems in Cloud Computing 4,3,8
+484,Fundamentals of Ethical Hacking 9,2,3
+485,Applied Networks 7,2,6
+486,Introduction to Data Structures 2,4,1
+487,Fundamentals of Ethical Hacking 3,2,4
+488,Fundamentals of Ethical Hacking 9,2,3
+489,Fundamentals of Programming 1,3,3
+490,Advanced Data Structures 5,3,5
+491,Systems in Machine Learning 8,2,6
+492,Fundamentals of Data Structures 7,4,6
+493,Applied Ethical Hacking 1,4,3
+494,Advanced Database Systems 3,2,6
+495,Applied Networks 7,3,1
+496,Introduction to Programming 4,2,3
+497,Fundamentals of Database Systems 9,4,3
+498,Fundamentals of Data Structures 4,3,5
+499,Advanced Cloud Computing 1,2,4
+500,Introduction to Machine Learning 1,2,1
+501,Fundamentals of Ethical Hacking 1,4,4
+502,Systems in Networks 1,2,2
+503,Introduction to Data Structures 4,4,3
+504,Systems in Machine Learning 4,2,3
+505,Applied Networks 4,4,8
+506,Fundamentals of Database Systems 3,4,4
+507,Fundamentals of Ethical Hacking 5,2,8
+508,Fundamentals of Programming 7,3,1
+509,Advanced Database Systems 5,3,5
+510,Introduction to Ethical Hacking 9,3,2
+511,Applied Database Systems 6,2,7
+512,Systems in Data Structures 5,2,6
+513,Systems in Cloud Computing 3,4,1
+514,Advanced Ethical Hacking 8,3,3
+515,Advanced Cloud Computing 1,4,1
+516,Introduction to Database Systems 8,2,1
+517,Systems in Ethical Hacking 9,2,5
+518,Applied Programming 4,2,2
+519,Fundamentals of Data Structures 4,3,3
+520,Fundamentals of Ethical Hacking 1,4,2
+521,Applied Networks 7,3,8
+522,Systems in Programming 1,3,8
+523,Systems in Machine Learning 2,3,4
+524,Advanced Programming 6,4,5
+525,Advanced Data Structures 3,3,6
+526,Fundamentals of Machine Learning 7,2,4
+527,Systems in Programming 8,2,7
+528,Fundamentals of Machine Learning 8,3,8
+529,Fundamentals of Database Systems 8,2,3
+530,Applied Machine Learning 5,3,7
+531,Systems in Database Systems 9,2,7
+532,Applied Database Systems 2,2,5
+533,Applied Machine Learning 3,2,7
+534,Fundamentals of Cloud Computing 3,4,7
+535,Fundamentals of Data Structures 5,3,2
+536,Systems in Data Structures 6,3,8
+537,Advanced Ethical Hacking 2,2,3
+538,Advanced Programming 3,4,1
+539,Systems in Data Structures 6,3,2
+540,Systems in Cloud Computing 6,4,1
+541,Advanced Networks 8,4,7
+542,Introduction to Machine Learning 8,4,1
+543,Advanced Machine Learning 3,4,6
+544,Applied Machine Learning 5,2,7
+545,Applied Cloud Computing 8,3,7
+546,Applied Machine Learning 8,3,1
+547,Advanced Cloud Computing 8,4,6
+548,Advanced Ethical Hacking 4,2,1
+549,Advanced Programming 4,3,6
+550,Systems in Networks 1,3,2
+551,Applied Programming 2,2,7
+552,Fundamentals of Programming 1,3,4
+553,Systems in Networks 8,3,1
+554,Fundamentals of Ethical Hacking 7,3,8
+555,Introduction to Data Structures 7,4,3
+556,Advanced Programming 8,4,3
+557,Introduction to Ethical Hacking 7,2,2
+558,Advanced Networks 8,2,7
+559,Advanced Machine Learning 6,2,7
+560,Introduction to Programming 1,3,8
+561,Advanced Data Structures 8,4,1
+562,Systems in Networks 1,3,2
+563,Fundamentals of Cloud Computing 3,2,6
+564,Advanced Programming 1,3,2
+565,Introduction to Networks 2,4,1
+566,Advanced Ethical Hacking 1,4,3
+567,Applied Networks 7,4,6
+568,Fundamentals of Programming 9,3,5
+569,Systems in Database Systems 2,3,5
+570,Applied Programming 4,3,5
+571,Advanced Machine Learning 3,4,3
+572,Introduction to Data Structures 3,2,4
+573,Fundamentals of Machine Learning 3,2,1
+574,Introduction to Machine Learning 4,2,8
+575,Applied Networks 2,2,1
+576,Advanced Cloud Computing 5,2,2
+577,Introduction to Networks 2,3,8
+578,Systems in Machine Learning 7,2,3
+579,Advanced Programming 8,2,1
+580,Introduction to Programming 9,2,1
+581,Advanced Networks 7,3,8
+582,Systems in Database Systems 1,2,4
+583,Fundamentals of Cloud Computing 5,4,6
+584,Systems in Cloud Computing 9,4,6
+585,Advanced Programming 9,2,6
+586,Systems in Database Systems 4,2,7
+587,Advanced Programming 8,3,7
+588,Applied Networks 8,3,1
+589,Advanced Networks 8,3,1
+590,Fundamentals of Networks 2,3,1
+591,Introduction to Database Systems 1,4,6
+592,Applied Cloud Computing 8,3,6
+593,Systems in Programming 1,3,3
+594,Applied Cloud Computing 9,3,4
+595,Applied Data Structures 8,3,6
+596,Systems in Cloud Computing 9,3,3
+597,Fundamentals of Networks 3,3,1
+598,Applied Programming 6,4,3
+599,Applied Ethical Hacking 8,3,5
+600,Fundamentals of Database Systems 5,3,8
+601,Introduction to Cloud Computing 7,2,5
+602,Introduction to Cloud Computing 3,3,2
+603,Systems in Machine Learning 7,3,5
+604,Applied Ethical Hacking 1,2,6
+605,Fundamentals of Programming 4,3,3
+606,Systems in Ethical Hacking 2,3,6
+607,Applied Programming 8,3,5
+608,Introduction to Networks 4,4,6
+609,Applied Ethical Hacking 2,2,2
+610,Advanced Machine Learning 7,3,4
+611,Introduction to Ethical Hacking 8,2,5
+612,Fundamentals of Ethical Hacking 9,3,7
+613,Introduction to Programming 5,4,6
+614,Systems in Programming 8,2,2
+615,Introduction to Networks 6,4,6
+616,Applied Cloud Computing 4,3,1
+617,Applied Ethical Hacking 3,2,1
+618,Systems in Machine Learning 1,3,5
+619,Systems in Networks 9,4,7
+620,Applied Ethical Hacking 9,4,3
+621,Advanced Ethical Hacking 2,3,8
+622,Advanced Database Systems 6,2,1
+623,Applied Machine Learning 2,2,8
+624,Systems in Cloud Computing 4,3,6
+625,Introduction to Database Systems 8,4,3
+626,Fundamentals of Database Systems 9,3,2
+627,Fundamentals of Data Structures 8,3,1
+628,Introduction to Data Structures 4,4,2
+629,Advanced Machine Learning 9,2,3
+630,Systems in Ethical Hacking 3,3,8
+631,Applied Data Structures 2,3,4
+632,Advanced Machine Learning 9,4,4
+633,Fundamentals of Database Systems 2,4,7
+634,Systems in Data Structures 8,4,1
+635,Advanced Ethical Hacking 4,4,3
+636,Advanced Data Structures 4,4,1
+637,Applied Database Systems 8,3,7
+638,Systems in Programming 7,3,1
+639,Applied Ethical Hacking 6,3,1
+640,Systems in Database Systems 6,3,3
+641,Applied Machine Learning 5,3,5
+642,Systems in Cloud Computing 5,3,6
+643,Fundamentals of Data Structures 7,4,1
+644,Fundamentals of Programming 9,2,3
+645,Introduction to Data Structures 7,4,4
+646,Introduction to Database Systems 1,3,4
+647,Fundamentals of Ethical Hacking 4,3,5
+648,Systems in Programming 4,3,6
+649,Fundamentals of Networks 6,3,2
+650,Fundamentals of Cloud Computing 5,3,4
+651,Introduction to Database Systems 7,2,4
+652,Introduction to Data Structures 9,3,4
+653,Systems in Machine Learning 7,2,6
+654,Advanced Database Systems 4,4,4
+655,Applied Database Systems 3,4,1
+656,Systems in Data Structures 8,3,2
+657,Applied Cloud Computing 2,4,8
+658,Fundamentals of Programming 7,2,7
+659,Advanced Networks 2,3,5
+660,Applied Programming 4,2,5
+661,Advanced Programming 4,4,8
+662,Applied Data Structures 3,4,6
+663,Fundamentals of Ethical Hacking 4,2,6
+664,Fundamentals of Data Structures 6,2,5
+665,Systems in Data Structures 3,4,4
+666,Introduction to Programming 5,4,3
+667,Systems in Database Systems 3,3,4
+668,Fundamentals of Machine Learning 4,4,4
+669,Advanced Database Systems 4,2,1
+670,Applied Cloud Computing 8,3,4
+671,Fundamentals of Database Systems 7,4,1
+672,Fundamentals of Programming 3,4,2
+673,Introduction to Programming 8,2,2
+674,Introduction to Data Structures 8,2,1
+675,Applied Database Systems 2,3,2
+676,Introduction to Database Systems 2,2,2
+677,Systems in Cloud Computing 5,3,7
+678,Advanced Database Systems 3,4,3
+679,Fundamentals of Programming 4,4,6
+680,Systems in Cloud Computing 2,2,7
+681,Introduction to Cloud Computing 2,2,2
+682,Advanced Networks 9,3,2
+683,Introduction to Cloud Computing 9,3,8
+684,Advanced Programming 3,4,7
+685,Introduction to Database Systems 4,2,5
+686,Fundamentals of Programming 7,4,4
+687,Introduction to Programming 7,2,3
+688,Advanced Database Systems 9,4,3
+689,Fundamentals of Machine Learning 4,2,8
+690,Applied Machine Learning 8,2,1
+691,Introduction to Cloud Computing 9,4,6
+692,Advanced Machine Learning 4,3,4
+693,Fundamentals of Data Structures 3,4,2
+694,Systems in Ethical Hacking 3,4,4
+695,Applied Ethical Hacking 8,2,4
+696,Fundamentals of Ethical Hacking 7,4,6
+697,Fundamentals of Database Systems 1,2,6
+698,Fundamentals of Database Systems 5,3,6
+699,Advanced Machine Learning 7,3,4
+700,Applied Data Structures 6,3,2
+701,Systems in Machine Learning 9,3,1
+702,Systems in Data Structures 5,3,6
+703,Advanced Database Systems 7,3,4
+704,Systems in Networks 6,2,8
+705,Fundamentals of Programming 2,4,6
+706,Applied Machine Learning 4,2,1
+707,Advanced Machine Learning 1,4,7
+708,Fundamentals of Ethical Hacking 8,4,4
+709,Applied Cloud Computing 9,2,7
+710,Applied Programming 5,4,1
+711,Systems in Database Systems 1,3,6
+712,Fundamentals of Programming 5,4,5
+713,Introduction to Machine Learning 5,3,6
+714,Systems in Database Systems 7,4,5
+715,Introduction to Data Structures 1,2,2
+716,Applied Machine Learning 2,3,8
+717,Introduction to Cloud Computing 5,4,8
+718,Advanced Machine Learning 1,4,1
+719,Fundamentals of Database Systems 8,4,2
+720,Applied Programming 1,4,1
+721,Systems in Machine Learning 4,4,7
+722,Advanced Data Structures 4,3,4
+723,Fundamentals of Machine Learning 9,2,6
+724,Advanced Cloud Computing 5,2,8
+725,Advanced Cloud Computing 3,3,3
+726,Applied Ethical Hacking 8,4,2
+727,Introduction to Data Structures 2,4,7
+728,Advanced Cloud Computing 9,2,1
+729,Advanced Networks 8,4,5
+730,Applied Ethical Hacking 8,4,6
+731,Introduction to Database Systems 4,3,1
+732,Applied Ethical Hacking 9,2,5
+733,Applied Networks 2,3,1
+734,Systems in Machine Learning 5,4,6
+735,Advanced Cloud Computing 4,3,5
+736,Advanced Ethical Hacking 4,4,5
+737,Introduction to Data Structures 1,4,2
+738,Advanced Programming 5,2,6
+739,Fundamentals of Networks 7,3,3
+740,Systems in Networks 5,2,7
+741,Applied Machine Learning 7,4,2
+742,Applied Ethical Hacking 8,2,3
+743,Applied Data Structures 5,2,7
+744,Introduction to Ethical Hacking 5,4,2
+745,Systems in Data Structures 5,2,6
+746,Applied Machine Learning 1,2,2
+747,Introduction to Cloud Computing 8,2,7
+748,Advanced Ethical Hacking 2,2,2
+749,Systems in Database Systems 5,3,4
+750,Advanced Ethical Hacking 6,2,3
+751,Advanced Networks 7,2,8
+752,Systems in Machine Learning 1,3,5
+753,Advanced Cloud Computing 6,4,6
+754,Systems in Networks 6,4,6
+755,Applied Database Systems 1,2,1
+756,Fundamentals of Networks 3,3,7
+757,Advanced Database Systems 6,3,3
+758,Advanced Database Systems 2,2,3
+759,Advanced Data Structures 9,2,6
+760,Systems in Machine Learning 8,4,5
+761,Applied Programming 5,2,7
+762,Advanced Machine Learning 2,2,7
+763,Systems in Machine Learning 3,4,1
+764,Fundamentals of Database Systems 9,3,2
+765,Introduction to Programming 3,4,2
+766,Introduction to Ethical Hacking 2,3,7
+767,Introduction to Machine Learning 5,3,3
+768,Fundamentals of Cloud Computing 6,4,7
+769,Introduction to Machine Learning 9,3,3
+770,Fundamentals of Data Structures 3,2,8
+771,Introduction to Machine Learning 6,2,1
+772,Systems in Database Systems 9,3,7
+773,Advanced Database Systems 9,2,8
+774,Applied Ethical Hacking 5,3,3
+775,Introduction to Ethical Hacking 9,2,8
+776,Systems in Machine Learning 6,2,6
+777,Systems in Ethical Hacking 8,3,2
+778,Systems in Networks 3,4,2
+779,Applied Networks 1,3,1
+780,Advanced Cloud Computing 4,3,3
+781,Systems in Data Structures 2,4,3
+782,Applied Data Structures 5,3,7
+783,Applied Networks 3,2,4
+784,Advanced Networks 8,4,3
+785,Introduction to Programming 5,2,2
+786,Introduction to Machine Learning 4,2,1
+787,Fundamentals of Database Systems 4,4,6
+788,Applied Ethical Hacking 3,3,1
+789,Fundamentals of Networks 4,3,3
+790,Systems in Machine Learning 5,4,2
+791,Systems in Database Systems 5,4,4
+792,Fundamentals of Database Systems 3,3,1
+793,Introduction to Programming 5,2,2
+794,Fundamentals of Programming 4,4,2
+795,Advanced Database Systems 2,3,3
+796,Fundamentals of Cloud Computing 2,4,4
+797,Advanced Ethical Hacking 5,4,8
+798,Fundamentals of Programming 3,3,6
+799,Applied Networks 4,2,1
+800,Applied Database Systems 8,2,5
+801,Fundamentals of Data Structures 7,2,1
+802,Systems in Programming 7,4,1
+803,Introduction to Database Systems 7,2,8
+804,Introduction to Machine Learning 7,2,7
+805,Applied Cloud Computing 6,4,8
+806,Fundamentals of Networks 1,3,4
+807,Applied Machine Learning 3,4,7
+808,Systems in Machine Learning 3,4,5
+809,Introduction to Networks 2,3,5
+810,Systems in Machine Learning 6,2,2
+811,Fundamentals of Machine Learning 7,4,3
+812,Advanced Networks 7,3,5
+813,Systems in Machine Learning 4,2,2
+814,Applied Programming 5,4,7
+815,Fundamentals of Cloud Computing 5,2,7
+816,Advanced Machine Learning 3,4,5
+817,Introduction to Database Systems 7,3,5
+818,Introduction to Data Structures 2,2,2
+819,Introduction to Data Structures 8,2,2
+820,Introduction to Networks 6,3,3
+821,Fundamentals of Cloud Computing 4,3,5
+822,Advanced Cloud Computing 7,4,1
+823,Applied Cloud Computing 9,3,7
+824,Systems in Machine Learning 9,3,2
+825,Fundamentals of Cloud Computing 5,2,1
+826,Fundamentals of Programming 4,2,5
+827,Introduction to Data Structures 9,2,2
+828,Fundamentals of Cloud Computing 5,3,3
+829,Applied Programming 4,2,7
+830,Applied Cloud Computing 5,2,6
+831,Advanced Programming 7,3,2
+832,Systems in Data Structures 7,3,5
+833,Systems in Machine Learning 5,3,5
+834,Systems in Machine Learning 5,2,8
+835,Introduction to Networks 9,3,8
+836,Introduction to Machine Learning 3,2,6
+837,Systems in Programming 4,2,2
+838,Introduction to Database Systems 7,4,2
+839,Advanced Cloud Computing 8,3,5
+840,Systems in Ethical Hacking 5,3,4
+841,Systems in Database Systems 7,3,7
+842,Systems in Ethical Hacking 2,4,4
+843,Advanced Ethical Hacking 9,2,6
+844,Advanced Database Systems 4,2,8
+845,Advanced Networks 6,3,7
+846,Introduction to Data Structures 2,3,2
+847,Systems in Machine Learning 3,2,8
+848,Applied Networks 5,4,1
+849,Advanced Programming 8,4,8
+850,Advanced Machine Learning 8,4,7
+851,Fundamentals of Database Systems 7,4,5
+852,Applied Cloud Computing 5,4,1
+853,Systems in Networks 6,2,3
+854,Fundamentals of Programming 6,4,5
+855,Advanced Database Systems 3,3,6
+856,Advanced Cloud Computing 3,3,2
+857,Introduction to Database Systems 2,3,1
+858,Introduction to Ethical Hacking 9,3,2
+859,Introduction to Cloud Computing 9,4,6
+860,Introduction to Networks 2,3,2
+861,Fundamentals of Networks 9,3,4
+862,Fundamentals of Machine Learning 7,2,1
+863,Applied Cloud Computing 3,2,2
+864,Introduction to Machine Learning 3,3,2
+865,Introduction to Machine Learning 6,3,6
+866,Fundamentals of Cloud Computing 3,4,4
+867,Applied Database Systems 5,3,5
+868,Applied Cloud Computing 7,2,5
+869,Advanced Programming 7,2,4
+870,Applied Programming 4,2,6
+871,Systems in Data Structures 6,3,5
+872,Applied Networks 2,4,3
+873,Introduction to Data Structures 1,4,5
+874,Applied Programming 9,3,5
+875,Advanced Data Structures 7,2,5
+876,Applied Networks 5,3,7
+877,Applied Ethical Hacking 1,2,4
+878,Introduction to Ethical Hacking 6,2,5
+879,Applied Database Systems 2,3,8
+880,Advanced Database Systems 3,2,6
+881,Systems in Machine Learning 4,2,5
+882,Introduction to Networks 6,2,3
+883,Introduction to Cloud Computing 5,2,1
+884,Introduction to Networks 5,4,3
+885,Fundamentals of Ethical Hacking 2,3,7
+886,Fundamentals of Networks 5,3,6
+887,Advanced Cloud Computing 4,2,6
+888,Fundamentals of Database Systems 8,2,1
+889,Fundamentals of Cloud Computing 6,2,2
+890,Introduction to Machine Learning 8,4,5
+891,Fundamentals of Machine Learning 2,3,6
+892,Fundamentals of Networks 5,4,8
+893,Applied Ethical Hacking 6,3,6
+894,Advanced Networks 1,4,1
+895,Advanced Programming 7,4,1
+896,Systems in Data Structures 9,2,4
+897,Fundamentals of Networks 6,4,5
+898,Applied Machine Learning 4,2,1
+899,Applied Cloud Computing 9,2,8
+900,Fundamentals of Data Structures 9,3,4
+901,Fundamentals of Data Structures 6,2,8
+902,Advanced Ethical Hacking 6,3,7
+903,Systems in Cloud Computing 3,2,6
+904,Systems in Machine Learning 3,3,3
+905,Introduction to Ethical Hacking 6,4,1
+906,Fundamentals of Database Systems 2,3,6
+907,Fundamentals of Cloud Computing 4,3,7
+908,Introduction to Database Systems 8,3,8
+909,Systems in Database Systems 6,4,7
+910,Applied Data Structures 9,4,8
+911,Fundamentals of Cloud Computing 3,2,5
+912,Fundamentals of Programming 2,3,7
+913,Systems in Data Structures 3,4,2
+914,Systems in Cloud Computing 4,4,4
+915,Introduction to Machine Learning 1,2,7
+916,Applied Machine Learning 1,4,8
+917,Fundamentals of Machine Learning 2,4,3
+918,Systems in Database Systems 5,4,4
+919,Applied Machine Learning 5,4,3
+920,Systems in Database Systems 2,3,7
+921,Fundamentals of Networks 2,2,8
+922,Applied Ethical Hacking 9,4,6
+923,Systems in Database Systems 6,4,2
+924,Introduction to Data Structures 6,3,7
+925,Introduction to Ethical Hacking 7,2,3
+926,Applied Cloud Computing 4,4,2
+927,Introduction to Programming 2,4,7
+928,Applied Cloud Computing 5,4,5
+929,Advanced Database Systems 6,2,1
+930,Introduction to Database Systems 9,2,4
+931,Applied Database Systems 8,4,7
+932,Systems in Ethical Hacking 5,4,1
+933,Advanced Programming 7,4,4
+934,Applied Data Structures 3,4,4
+935,Fundamentals of Ethical Hacking 2,4,1
+936,Fundamentals of Programming 5,4,8
+937,Introduction to Data Structures 3,3,4
+938,Fundamentals of Machine Learning 5,3,2
+939,Fundamentals of Programming 2,4,2
+940,Advanced Database Systems 3,4,3
+941,Introduction to Database Systems 8,3,2
+942,Applied Database Systems 7,4,8
+943,Advanced Data Structures 6,2,4
+944,Advanced Ethical Hacking 2,3,7
+945,Applied Networks 6,3,7
+946,Advanced Machine Learning 6,2,1
+947,Advanced Machine Learning 2,4,2
+948,Fundamentals of Networks 3,4,5
+949,Advanced Ethical Hacking 4,2,3
+950,Applied Networks 5,4,2
+951,Fundamentals of Programming 4,3,3
+952,Fundamentals of Programming 1,2,4
+953,Systems in Data Structures 5,3,2
+954,Fundamentals of Machine Learning 9,2,6
+955,Advanced Data Structures 4,4,4
+956,Systems in Ethical Hacking 8,3,3
+957,Systems in Cloud Computing 9,3,7
+958,Systems in Programming 3,2,6
+959,Systems in Machine Learning 7,3,8
+960,Advanced Programming 3,3,8
+961,Applied Programming 9,2,7
+962,Fundamentals of Networks 9,3,6
+963,Advanced Programming 8,4,5
+964,Applied Machine Learning 1,3,7
+965,Systems in Networks 5,4,3
+966,Introduction to Machine Learning 1,2,7
+967,Advanced Data Structures 5,2,1
+968,Introduction to Machine Learning 5,3,8
+969,Advanced Programming 9,4,2
+970,Applied Ethical Hacking 8,3,5
+971,Applied Machine Learning 1,4,3
+972,Fundamentals of Programming 1,3,8
+973,Systems in Database Systems 7,3,1
+974,Applied Ethical Hacking 2,2,5
+975,Fundamentals of Machine Learning 6,3,8
+976,Fundamentals of Database Systems 4,4,1
+977,Systems in Cloud Computing 5,4,3
+978,Systems in Programming 6,2,2
+979,Fundamentals of Programming 5,3,7
+980,Systems in Data Structures 7,3,2
+981,Applied Networks 3,2,5
+982,Fundamentals of Machine Learning 8,2,7
+983,Introduction to Ethical Hacking 9,3,1
+984,Systems in Database Systems 5,3,5
+985,Applied Ethical Hacking 8,3,7
+986,Introduction to Programming 2,2,1
+987,Applied Cloud Computing 8,4,6
+988,Introduction to Database Systems 8,4,5
+989,Fundamentals of Networks 5,2,3
+990,Fundamentals of Programming 3,3,5
+991,Introduction to Machine Learning 5,3,1
+992,Systems in Cloud Computing 1,2,7
+993,Fundamentals of Database Systems 8,2,4
+994,Fundamentals of Machine Learning 7,4,3
+995,Applied Cloud Computing 3,4,1
+996,Advanced Ethical Hacking 6,3,2
+997,Advanced Machine Learning 5,2,2
+998,Introduction to Programming 5,3,3
+999,Introduction to Cloud Computing 8,4,1
+1000,Applied Database Systems 2,3,5
+1001,Applied Networks 9,2,7
+1002,Introduction to Data Structures 3,4,1
+1003,Introduction to Cloud Computing 2,3,3
+1004,Systems in Programming 3,2,2
+1005,Applied Cloud Computing 3,3,6
+1006,Introduction to Networks 1,2,3
+1007,Applied Ethical Hacking 7,2,7
+1008,Fundamentals of Database Systems 8,2,6
+1009,Advanced Ethical Hacking 1,3,8
+1010,Applied Ethical Hacking 2,3,1
+1011,Fundamentals of Cloud Computing 8,4,7
+1012,Advanced Machine Learning 4,4,5
+1013,Advanced Networks 2,3,1
+1014,Systems in Data Structures 5,4,8
+1015,Advanced Programming 7,4,7
+1016,Applied Data Structures 5,3,3
+1017,Applied Ethical Hacking 3,4,4
+1018,Introduction to Programming 2,4,6
+1019,Introduction to Machine Learning 2,2,2
+1020,Applied Database Systems 2,3,4
+1021,Applied Ethical Hacking 3,2,2
+1022,Fundamentals of Ethical Hacking 8,3,1
+1023,Fundamentals of Programming 5,4,3
+1024,Advanced Data Structures 2,3,3
+1025,Advanced Cloud Computing 6,4,8
+1026,Applied Machine Learning 7,3,8
+1027,Applied Ethical Hacking 5,3,3
+1028,Fundamentals of Cloud Computing 2,3,1
+1029,Fundamentals of Ethical Hacking 3,3,3
+1030,Advanced Ethical Hacking 1,3,1
+1031,Applied Cloud Computing 9,4,3
+1032,Applied Networks 4,3,2
+1033,Applied Networks 6,3,6
+1034,Advanced Ethical Hacking 6,4,2
+1035,Advanced Data Structures 7,4,5
+1036,Introduction to Ethical Hacking 3,4,3
+1037,Introduction to Networks 6,2,2
+1038,Fundamentals of Data Structures 9,4,7
+1039,Introduction to Cloud Computing 1,4,2
+1040,Applied Programming 1,3,5
+1041,Applied Cloud Computing 1,3,2
+1042,Systems in Cloud Computing 4,2,6
+1043,Applied Ethical Hacking 1,4,2
+1044,Systems in Data Structures 2,4,4
+1045,Applied Data Structures 2,3,3
+1046,Fundamentals of Ethical Hacking 9,2,6
+1047,Advanced Networks 4,4,3
+1048,Fundamentals of Cloud Computing 6,2,6
+1049,Advanced Database Systems 9,4,1
+1050,Advanced Ethical Hacking 6,4,5
+1051,Fundamentals of Programming 6,2,8
+1052,Systems in Cloud Computing 5,3,3
+1053,Introduction to Database Systems 6,2,4
+1054,Systems in Database Systems 7,2,2
+1055,Applied Ethical Hacking 7,3,5
+1056,Applied Ethical Hacking 6,2,1
+1057,Advanced Cloud Computing 7,2,8
+1058,Advanced Programming 9,3,6
+1059,Applied Networks 6,2,5
+1060,Advanced Database Systems 5,4,1
+1061,Systems in Cloud Computing 6,2,8
+1062,Systems in Ethical Hacking 2,3,3
+1063,Introduction to Database Systems 6,4,8
+1064,Systems in Networks 9,3,6
+1065,Introduction to Data Structures 5,4,3
+1066,Fundamentals of Ethical Hacking 9,2,8
+1067,Applied Cloud Computing 6,4,3
+1068,Systems in Networks 6,4,3
+1069,Applied Ethical Hacking 6,2,4
+1070,Advanced Programming 2,3,7
+1071,Introduction to Networks 7,4,7
+1072,Advanced Data Structures 4,3,6
+1073,Fundamentals of Database Systems 3,3,4
+1074,Systems in Machine Learning 2,3,2
+1075,Introduction to Cloud Computing 2,4,1
+1076,Applied Networks 7,3,5
+1077,Systems in Database Systems 6,3,2
+1078,Fundamentals of Machine Learning 3,4,3
+1079,Introduction to Database Systems 5,2,4
+1080,Advanced Database Systems 8,4,7
+1081,Introduction to Data Structures 4,2,8
+1082,Applied Programming 3,4,3
+1083,Systems in Machine Learning 4,4,1
+1084,Fundamentals of Networks 9,4,4
+1085,Fundamentals of Machine Learning 8,4,6
+1086,Advanced Database Systems 6,2,7
+1087,Systems in Data Structures 2,4,1
+1088,Advanced Ethical Hacking 8,4,8
+1089,Introduction to Cloud Computing 8,2,6
+1090,Introduction to Cloud Computing 6,4,5
+1091,Fundamentals of Data Structures 6,2,6
+1092,Fundamentals of Networks 2,4,5
+1093,Systems in Data Structures 2,3,8
+1094,Introduction to Networks 7,4,2
+1095,Introduction to Cloud Computing 7,4,2
+1096,Systems in Programming 3,4,1
+1097,Advanced Data Structures 5,2,1
+1098,Applied Database Systems 1,4,4
+1099,Applied Networks 6,4,4
+1100,Advanced Networks 2,4,7
+1101,Advanced Data Structures 4,3,1
+1102,Advanced Database Systems 1,2,1
+1103,Introduction to Networks 3,3,8
+1104,Fundamentals of Database Systems 6,2,7
+1105,Advanced Database Systems 1,2,7
+1106,Introduction to Ethical Hacking 9,3,6
+1107,Fundamentals of Cloud Computing 4,2,4
+1108,Advanced Programming 4,4,7
+1109,Systems in Ethical Hacking 4,2,8
+1110,Applied Cloud Computing 5,2,3
+1111,Applied Database Systems 5,3,2
+1112,Advanced Machine Learning 5,3,3
+1113,Fundamentals of Programming 5,4,4
+1114,Systems in Machine Learning 2,3,3
+1115,Fundamentals of Machine Learning 8,4,6
+1116,Advanced Data Structures 9,2,2
+1117,Fundamentals of Networks 5,3,7
+1118,Fundamentals of Cloud Computing 9,3,4
+1119,Applied Networks 6,2,3
+1120,Fundamentals of Database Systems 4,3,4
+1121,Fundamentals of Database Systems 3,3,2
+1122,Advanced Programming 6,4,3
+1123,Applied Database Systems 4,3,8
+1124,Systems in Ethical Hacking 4,3,8
+1125,Applied Programming 3,3,1
+1126,Applied Programming 2,2,3
+1127,Advanced Data Structures 5,4,2
+1128,Systems in Networks 9,3,8
+1129,Systems in Cloud Computing 6,4,1
+1130,Introduction to Machine Learning 9,2,5
+1131,Introduction to Machine Learning 1,3,2
+1132,Applied Programming 2,4,4
+1133,Fundamentals of Cloud Computing 4,3,5
+1134,Introduction to Database Systems 5,4,7
+1135,Introduction to Data Structures 2,4,3
+1136,Introduction to Data Structures 1,4,6
+1137,Systems in Networks 4,4,5
+1138,Fundamentals of Cloud Computing 3,2,2
+1139,Systems in Data Structures 4,2,8
+1140,Advanced Ethical Hacking 5,4,7
+1141,Introduction to Data Structures 9,3,5
+1142,Fundamentals of Programming 8,2,1
+1143,Applied Programming 5,2,5
+1144,Applied Ethical Hacking 9,4,7
+1145,Introduction to Database Systems 5,2,2
+1146,Fundamentals of Networks 4,2,5
+1147,Advanced Networks 2,3,2
+1148,Fundamentals of Programming 7,2,7
+1149,Systems in Programming 5,3,5
+1150,Introduction to Ethical Hacking 7,3,4
+1151,Applied Database Systems 7,2,6
+1152,Applied Cloud Computing 2,3,4
+1153,Advanced Data Structures 2,3,6
+1154,Advanced Data Structures 2,4,2
+1155,Introduction to Cloud Computing 1,4,7
+1156,Systems in Cloud Computing 7,3,1
+1157,Advanced Networks 4,4,4
+1158,Introduction to Cloud Computing 9,3,6
+1159,Fundamentals of Networks 5,3,5
+1160,Fundamentals of Database Systems 6,2,1
+1161,Introduction to Database Systems 9,4,1
+1162,Fundamentals of Database Systems 8,2,5
+1163,Systems in Cloud Computing 9,3,5
+1164,Fundamentals of Cloud Computing 7,3,8
+1165,Advanced Programming 5,3,6
+1166,Introduction to Networks 8,3,1
+1167,Fundamentals of Ethical Hacking 8,2,6
+1168,Fundamentals of Data Structures 5,3,6
+1169,Advanced Database Systems 1,3,3
+1170,Advanced Ethical Hacking 8,3,8
+1171,Fundamentals of Database Systems 5,4,7
+1172,Systems in Data Structures 6,2,4
+1173,Fundamentals of Machine Learning 4,3,1
+1174,Fundamentals of Database Systems 4,3,2
+1175,Introduction to Database Systems 6,3,1
+1176,Fundamentals of Data Structures 5,3,7
+1177,Systems in Ethical Hacking 3,3,4
+1178,Introduction to Database Systems 9,3,5
+1179,Advanced Programming 6,4,3
+1180,Introduction to Ethical Hacking 6,4,4
+1181,Advanced Machine Learning 1,4,4
+1182,Advanced Ethical Hacking 6,4,1
+1183,Systems in Ethical Hacking 1,2,2
+1184,Advanced Database Systems 4,2,1
+1185,Systems in Cloud Computing 4,3,3
+1186,Introduction to Programming 1,3,7
+1187,Systems in Machine Learning 6,2,7
+1188,Systems in Database Systems 3,2,4
+1189,Systems in Cloud Computing 7,4,3
+1190,Fundamentals of Networks 2,3,1
+1191,Advanced Networks 8,2,7
+1192,Advanced Data Structures 8,3,3
+1193,Advanced Programming 4,2,6
+1194,Advanced Ethical Hacking 6,4,8
+1195,Applied Database Systems 8,3,7
+1196,Systems in Cloud Computing 6,2,8
+1197,Introduction to Data Structures 2,2,8
+1198,Introduction to Database Systems 7,3,3
+1199,Applied Cloud Computing 6,3,6
+1200,Fundamentals of Networks 9,3,2
+1201,Introduction to Machine Learning 6,2,1
+1202,Applied Data Structures 4,4,8
+1203,Applied Ethical Hacking 9,2,2
+1204,Systems in Networks 2,4,4
+1205,Applied Cloud Computing 2,4,5
+1206,Applied Database Systems 1,4,5
+1207,Systems in Networks 1,3,8
+1208,Advanced Machine Learning 5,3,7
+1209,Systems in Database Systems 2,2,2
+1210,Advanced Data Structures 1,4,6
+1211,Applied Data Structures 9,3,3
+1212,Systems in Programming 4,4,8
+1213,Introduction to Data Structures 9,2,5
+1214,Advanced Machine Learning 4,3,8
+1215,Introduction to Database Systems 6,2,6
+1216,Applied Data Structures 1,4,6
+1217,Systems in Database Systems 3,3,8
+1218,Fundamentals of Programming 8,3,3
+1219,Fundamentals of Networks 9,2,2
+1220,Systems in Cloud Computing 4,4,7
+1221,Advanced Networks 1,2,2
+1222,Fundamentals of Networks 1,3,5
+1223,Applied Database Systems 9,2,3
+1224,Advanced Ethical Hacking 7,2,1
+1225,Advanced Networks 9,3,7
+1226,Systems in Programming 9,3,1
+1227,Advanced Data Structures 1,4,5
+1228,Introduction to Database Systems 3,4,4
+1229,Introduction to Machine Learning 3,2,7
+1230,Fundamentals of Data Structures 9,4,3
+1231,Systems in Programming 3,4,1
+1232,Fundamentals of Database Systems 1,3,8
+1233,Fundamentals of Ethical Hacking 8,4,7
+1234,Systems in Programming 9,2,2
+1235,Applied Programming 9,3,1
+1236,Introduction to Data Structures 2,4,3
+1237,Systems in Database Systems 3,4,1
+1238,Advanced Programming 9,4,2
+1239,Fundamentals of Networks 4,3,4
+1240,Advanced Programming 3,2,3
+1241,Advanced Cloud Computing 9,4,6
+1242,Applied Data Structures 7,4,1
+1243,Introduction to Networks 3,4,4
+1244,Advanced Database Systems 8,4,7
+1245,Applied Data Structures 7,2,7
+1246,Introduction to Machine Learning 9,4,3
+1247,Advanced Networks 6,4,1
+1248,Systems in Programming 1,2,3
+1249,Introduction to Cloud Computing 8,3,7
+1250,Introduction to Data Structures 1,3,2
+1251,Applied Database Systems 3,3,6
+1252,Introduction to Machine Learning 4,4,7
+1253,Advanced Networks 1,4,5
+1254,Fundamentals of Ethical Hacking 6,2,6
+1255,Systems in Cloud Computing 8,4,6
+1256,Advanced Programming 9,2,7
+1257,Applied Data Structures 2,4,2
+1258,Introduction to Database Systems 1,4,7
+1259,Systems in Machine Learning 1,2,3
+1260,Fundamentals of Networks 6,4,8
+1261,Introduction to Data Structures 8,4,6
+1262,Advanced Data Structures 7,2,8
+1263,Advanced Machine Learning 8,4,4
+1264,Advanced Cloud Computing 4,2,6
+1265,Fundamentals of Programming 3,2,1
+1266,Fundamentals of Networks 9,2,6
+1267,Introduction to Data Structures 3,2,4
+1268,Introduction to Database Systems 7,3,6
+1269,Systems in Programming 9,4,6
+1270,Introduction to Cloud Computing 2,2,7
+1271,Advanced Data Structures 8,4,6
+1272,Systems in Database Systems 4,2,4
+1273,Applied Cloud Computing 1,2,5
+1274,Introduction to Ethical Hacking 7,2,2
+1275,Applied Data Structures 2,2,3
+1276,Advanced Data Structures 7,4,4
+1277,Advanced Programming 6,3,1
+1278,Advanced Networks 8,3,2
+1279,Systems in Cloud Computing 7,4,4
+1280,Introduction to Programming 3,2,1
+1281,Fundamentals of Ethical Hacking 5,3,4
+1282,Introduction to Networks 4,4,6
+1283,Fundamentals of Cloud Computing 4,3,4
+1284,Systems in Programming 1,2,2
+1285,Applied Ethical Hacking 7,2,6
+1286,Advanced Machine Learning 4,3,6
+1287,Introduction to Cloud Computing 4,4,5
+1288,Fundamentals of Networks 8,2,2
+1289,Advanced Programming 9,3,3
+1290,Advanced Ethical Hacking 4,2,3
+1291,Introduction to Data Structures 3,2,1
+1292,Advanced Programming 1,4,2
+1293,Fundamentals of Cloud Computing 5,3,6
+1294,Advanced Data Structures 8,3,1
+1295,Advanced Programming 4,2,2
+1296,Advanced Programming 3,3,8
+1297,Advanced Programming 7,3,5
+1298,Fundamentals of Programming 8,3,4
+1299,Systems in Data Structures 9,4,6
+1300,Applied Ethical Hacking 5,4,5
+1301,Introduction to Networks 9,4,1
+1302,Advanced Machine Learning 5,3,7
+1303,Advanced Machine Learning 8,2,4
+1304,Advanced Cloud Computing 4,2,6
+1305,Introduction to Programming 1,2,6
+1306,Advanced Database Systems 8,3,1
+1307,Fundamentals of Data Structures 4,3,1
+1308,Advanced Ethical Hacking 9,3,4
+1309,Advanced Data Structures 5,4,4
+1310,Advanced Machine Learning 1,3,7
+1311,Introduction to Ethical Hacking 9,4,7
+1312,Advanced Database Systems 7,3,7
+1313,Applied Data Structures 6,4,7
+1314,Advanced Cloud Computing 8,3,5
+1315,Applied Ethical Hacking 4,4,5
+1316,Introduction to Networks 2,4,4
+1317,Advanced Programming 4,3,3
+1318,Systems in Networks 8,4,2
+1319,Fundamentals of Data Structures 1,4,4
+1320,Fundamentals of Data Structures 4,4,6
+1321,Introduction to Networks 1,3,5
+1322,Fundamentals of Networks 5,2,4
+1323,Systems in Cloud Computing 9,2,5
+1324,Fundamentals of Database Systems 2,4,6
+1325,Applied Cloud Computing 3,4,3
+1326,Introduction to Cloud Computing 8,3,6
+1327,Systems in Database Systems 7,2,6
+1328,Systems in Machine Learning 4,2,6
+1329,Introduction to Data Structures 1,2,3
+1330,Applied Machine Learning 2,4,7
+1331,Applied Cloud Computing 2,4,2
+1332,Applied Database Systems 3,3,7
+1333,Systems in Ethical Hacking 7,4,3
+1334,Fundamentals of Cloud Computing 8,4,6
+1335,Introduction to Networks 9,3,5
+1336,Applied Data Structures 2,4,4
+1337,Advanced Networks 8,2,4
+1338,Applied Data Structures 4,4,3
+1339,Advanced Ethical Hacking 9,3,6
+1340,Systems in Database Systems 3,3,5
+1341,Applied Cloud Computing 4,4,2
+1342,Applied Ethical Hacking 2,3,4
+1343,Introduction to Networks 7,3,6
+1344,Applied Machine Learning 3,4,8
+1345,Systems in Programming 9,4,5
+1346,Applied Cloud Computing 7,2,3
+1347,Introduction to Data Structures 9,3,3
+1348,Advanced Data Structures 8,4,3
+1349,Applied Database Systems 6,4,1
+1350,Systems in Cloud Computing 3,3,3
+1351,Introduction to Programming 6,4,8
+1352,Introduction to Cloud Computing 7,3,3
+1353,Fundamentals of Data Structures 8,4,1
+1354,Advanced Programming 5,2,4
+1355,Fundamentals of Database Systems 8,3,2
+1356,Advanced Database Systems 6,3,7
+1357,Introduction to Machine Learning 2,4,4
+1358,Introduction to Cloud Computing 8,2,1
+1359,Advanced Networks 7,2,3
+1360,Introduction to Ethical Hacking 1,4,8
+1361,Systems in Machine Learning 1,3,6
+1362,Introduction to Database Systems 9,4,1
+1363,Advanced Programming 4,4,4
+1364,Fundamentals of Data Structures 8,3,1
+1365,Applied Ethical Hacking 7,2,6
+1366,Advanced Cloud Computing 6,3,8
+1367,Advanced Networks 6,2,8
+1368,Systems in Database Systems 6,2,6
+1369,Fundamentals of Database Systems 9,4,1
+1370,Introduction to Data Structures 1,3,7
+1371,Systems in Programming 6,2,8
+1372,Fundamentals of Database Systems 4,2,4
+1373,Applied Networks 3,4,7
+1374,Applied Machine Learning 8,2,1
+1375,Advanced Cloud Computing 9,2,8
+1376,Systems in Machine Learning 4,4,7
+1377,Introduction to Networks 9,3,1
+1378,Advanced Ethical Hacking 6,3,6
+1379,Fundamentals of Networks 5,4,8
+1380,Applied Cloud Computing 2,3,1
+1381,Fundamentals of Cloud Computing 3,2,6
+1382,Systems in Cloud Computing 6,2,4
+1383,Applied Cloud Computing 4,4,6
+1384,Advanced Ethical Hacking 4,3,4
+1385,Advanced Machine Learning 4,4,4
+1386,Applied Data Structures 1,3,4
+1387,Fundamentals of Networks 9,2,5
+1388,Advanced Ethical Hacking 8,3,8
+1389,Systems in Ethical Hacking 2,4,5
+1390,Advanced Data Structures 1,4,3
+1391,Introduction to Cloud Computing 4,2,2
+1392,Advanced Data Structures 8,3,6
+1393,Fundamentals of Cloud Computing 5,3,3
+1394,Applied Database Systems 1,4,6
+1395,Systems in Networks 5,3,1
+1396,Advanced Networks 5,2,3
+1397,Advanced Cloud Computing 1,4,5
+1398,Introduction to Programming 4,2,2
+1399,Systems in Programming 4,3,3
+1400,Introduction to Database Systems 1,4,3
+1401,Systems in Data Structures 6,2,8
+1402,Introduction to Database Systems 3,3,1
+1403,Systems in Cloud Computing 2,3,8
+1404,Introduction to Programming 1,4,7
+1405,Systems in Ethical Hacking 1,3,5
+1406,Fundamentals of Programming 7,2,3
+1407,Applied Networks 6,4,6
+1408,Introduction to Cloud Computing 8,2,7
+1409,Introduction to Ethical Hacking 5,4,3
+1410,Systems in Ethical Hacking 1,2,7
+1411,Applied Cloud Computing 4,3,1
+1412,Advanced Cloud Computing 9,4,7
+1413,Applied Database Systems 1,4,8
+1414,Advanced Programming 1,2,4
+1415,Fundamentals of Cloud Computing 7,2,7
+1416,Advanced Database Systems 6,2,2
+1417,Fundamentals of Data Structures 6,3,5
+1418,Introduction to Ethical Hacking 4,3,3
+1419,Introduction to Data Structures 3,3,3
+1420,Advanced Networks 5,3,6
+1421,Applied Machine Learning 5,3,7
+1422,Advanced Cloud Computing 1,4,3
+1423,Introduction to Programming 1,3,2
+1424,Advanced Machine Learning 9,2,3
+1425,Applied Data Structures 1,2,8
+1426,Fundamentals of Cloud Computing 8,2,4
+1427,Fundamentals of Cloud Computing 3,3,1
+1428,Fundamentals of Data Structures 6,2,7
+1429,Advanced Data Structures 1,3,8
+1430,Fundamentals of Ethical Hacking 7,2,5
+1431,Fundamentals of Data Structures 6,3,1
+1432,Fundamentals of Programming 3,2,6
+1433,Fundamentals of Networks 3,2,6
+1434,Introduction to Cloud Computing 7,2,4
+1435,Systems in Database Systems 7,4,1
+1436,Introduction to Cloud Computing 1,2,5
+1437,Systems in Ethical Hacking 8,3,5
+1438,Systems in Cloud Computing 8,2,2
+1439,Systems in Machine Learning 8,2,7
+1440,Introduction to Programming 9,3,4
+1441,Advanced Networks 3,2,1
+1442,Applied Data Structures 4,3,6
+1443,Systems in Database Systems 3,3,7
+1444,Advanced Cloud Computing 7,4,4
+1445,Systems in Cloud Computing 7,4,1
+1446,Systems in Database Systems 6,2,4
+1447,Introduction to Data Structures 4,4,5
+1448,Systems in Data Structures 7,4,6
+1449,Advanced Cloud Computing 3,4,8
+1450,Applied Networks 3,2,8
+1451,Introduction to Programming 5,2,8
+1452,Applied Cloud Computing 8,2,6
+1453,Introduction to Networks 1,3,2
+1454,Introduction to Programming 7,4,7
+1455,Systems in Data Structures 6,3,3
+1456,Systems in Data Structures 8,4,4
+1457,Introduction to Ethical Hacking 2,2,2
+1458,Systems in Data Structures 2,2,6
+1459,Applied Machine Learning 4,4,3
+1460,Systems in Database Systems 5,4,7
+1461,Introduction to Database Systems 6,2,6
+1462,Advanced Data Structures 5,3,1
+1463,Introduction to Networks 1,3,3
+1464,Applied Database Systems 2,4,6
+1465,Systems in Data Structures 6,2,8
+1466,Applied Machine Learning 5,2,6
+1467,Systems in Programming 2,2,5
+1468,Fundamentals of Networks 5,3,1
+1469,Applied Data Structures 2,2,2
+1470,Systems in Cloud Computing 9,3,4
+1471,Introduction to Programming 5,4,5
+1472,Introduction to Programming 9,4,6
+1473,Applied Programming 7,2,1
+1474,Fundamentals of Machine Learning 6,3,7
+1475,Advanced Machine Learning 4,3,5
+1476,Systems in Programming 9,3,3
+1477,Systems in Data Structures 9,4,4
+1478,Advanced Machine Learning 5,3,1
+1479,Advanced Cloud Computing 6,3,7
+1480,Advanced Ethical Hacking 6,4,7
+1481,Fundamentals of Data Structures 5,2,4
+1482,Introduction to Database Systems 5,3,7
+1483,Advanced Programming 4,2,7
+1484,Introduction to Machine Learning 2,4,6
+1485,Introduction to Programming 5,2,7
+1486,Applied Programming 1,2,6
+1487,Applied Database Systems 7,4,1
+1488,Applied Data Structures 5,3,8
+1489,Systems in Data Structures 8,4,8
+1490,Systems in Machine Learning 9,4,4
+1491,Introduction to Machine Learning 3,3,7
+1492,Systems in Machine Learning 1,4,3
+1493,Fundamentals of Networks 1,4,1
+1494,Applied Networks 7,4,8
+1495,Systems in Cloud Computing 8,2,2
+1496,Fundamentals of Data Structures 3,4,6
+1497,Fundamentals of Database Systems 5,4,8
+1498,Fundamentals of Database Systems 1,4,3
+1499,Systems in Data Structures 4,2,2
+1500,Systems in Networks 4,2,7
+1501,Applied Data Structures 7,2,7
+1502,Applied Ethical Hacking 6,3,5
+1503,Systems in Programming 9,2,5
+1504,Introduction to Networks 1,2,2
+1505,Fundamentals of Database Systems 2,3,3
+1506,Introduction to Programming 1,2,3
+1507,Introduction to Database Systems 3,3,8
+1508,Fundamentals of Data Structures 4,3,7
+1509,Applied Networks 8,2,2
+1510,Systems in Cloud Computing 8,2,4
+1511,Systems in Data Structures 5,4,5
+1512,Introduction to Machine Learning 9,3,8
+1513,Advanced Ethical Hacking 2,4,2
+1514,Fundamentals of Database Systems 3,4,4
+1515,Systems in Ethical Hacking 8,3,4
+1516,Systems in Machine Learning 3,4,5
+1517,Systems in Cloud Computing 6,2,4
+1518,Introduction to Cloud Computing 2,2,6
+1519,Applied Ethical Hacking 4,4,6
+1520,Systems in Machine Learning 2,3,8
+1521,Advanced Ethical Hacking 9,4,6
+1522,Advanced Cloud Computing 7,4,1
+1523,Systems in Machine Learning 6,2,2
+1524,Fundamentals of Machine Learning 9,2,2
+1525,Advanced Ethical Hacking 3,3,2
+1526,Fundamentals of Programming 8,4,4
+1527,Applied Networks 9,4,6
+1528,Introduction to Machine Learning 7,4,3
+1529,Systems in Data Structures 6,3,2
+1530,Introduction to Machine Learning 9,3,5
+1531,Applied Programming 4,4,7
+1532,Introduction to Networks 9,3,3
+1533,Advanced Cloud Computing 7,2,4
+1534,Fundamentals of Networks 9,4,7
+1535,Applied Cloud Computing 7,4,5
+1536,Applied Networks 7,3,2
+1537,Introduction to Cloud Computing 1,3,4
+1538,Advanced Data Structures 5,3,5
+1539,Applied Programming 7,2,4
+1540,Applied Cloud Computing 8,3,2
+1541,Advanced Ethical Hacking 8,3,1
+1542,Fundamentals of Ethical Hacking 2,2,8
+1543,Fundamentals of Data Structures 4,2,7
+1544,Systems in Networks 2,2,7
+1545,Advanced Database Systems 3,3,5
+1546,Advanced Machine Learning 2,4,6
+1547,Advanced Database Systems 6,2,8
+1548,Fundamentals of Ethical Hacking 9,2,8
+1549,Systems in Data Structures 9,3,6
+1550,Systems in Database Systems 3,3,8
+1551,Introduction to Ethical Hacking 4,3,2
+1552,Fundamentals of Programming 2,4,8
+1553,Fundamentals of Programming 8,2,6
+1554,Systems in Data Structures 8,4,2
+1555,Introduction to Machine Learning 9,3,1
+1556,Fundamentals of Machine Learning 5,3,4
+1557,Introduction to Programming 9,4,7
+1558,Fundamentals of Data Structures 5,2,1
+1559,Advanced Ethical Hacking 9,4,3
+1560,Applied Programming 5,3,1
+1561,Applied Programming 3,2,3
+1562,Advanced Database Systems 1,2,7
+1563,Fundamentals of Cloud Computing 8,2,2
+1564,Systems in Database Systems 8,2,7
+1565,Introduction to Database Systems 3,3,2
+1566,Systems in Programming 8,3,1
+1567,Advanced Networks 4,3,1
+1568,Fundamentals of Cloud Computing 1,4,6
+1569,Systems in Programming 5,4,5
+1570,Introduction to Networks 6,2,6
+1571,Applied Networks 8,4,4
+1572,Systems in Machine Learning 8,2,3
+1573,Fundamentals of Ethical Hacking 4,4,6
+1574,Fundamentals of Database Systems 8,3,7
+1575,Fundamentals of Database Systems 2,3,8
+1576,Fundamentals of Ethical Hacking 6,3,2
+1577,Fundamentals of Networks 7,4,4
+1578,Systems in Database Systems 3,4,8
+1579,Introduction to Data Structures 3,2,4
+1580,Advanced Machine Learning 5,2,5
+1581,Advanced Machine Learning 2,2,4
+1582,Introduction to Cloud Computing 6,4,4
+1583,Fundamentals of Programming 3,2,5
+1584,Fundamentals of Cloud Computing 8,4,3
+1585,Systems in Database Systems 5,2,3
+1586,Applied Ethical Hacking 5,2,1
+1587,Introduction to Data Structures 5,2,7
+1588,Advanced Machine Learning 5,3,5
+1589,Systems in Data Structures 4,3,2
+1590,Introduction to Machine Learning 4,4,7
+1591,Applied Ethical Hacking 9,2,5
+1592,Applied Ethical Hacking 2,2,7
+1593,Advanced Programming 4,2,1
+1594,Fundamentals of Networks 2,4,1
+1595,Advanced Data Structures 5,4,6
+1596,Advanced Programming 4,2,3
+1597,Fundamentals of Cloud Computing 6,4,3
+1598,Introduction to Cloud Computing 2,4,1
+1599,Introduction to Database Systems 8,3,4
+1600,Advanced Data Structures 5,2,7
+1601,Applied Programming 1,4,6
+1602,Advanced Programming 7,4,8
+1603,Applied Ethical Hacking 6,3,6
+1604,Applied Cloud Computing 1,3,7
+1605,Fundamentals of Networks 5,2,6
+1606,Introduction to Data Structures 9,2,1
+1607,Advanced Ethical Hacking 8,4,5
+1608,Systems in Networks 3,4,2
+1609,Fundamentals of Ethical Hacking 9,2,3
+1610,Applied Data Structures 5,3,2
+1611,Applied Database Systems 1,4,8
+1612,Systems in Networks 3,2,3
+1613,Advanced Database Systems 5,4,4
+1614,Fundamentals of Programming 4,4,4
+1615,Introduction to Database Systems 7,3,6
+1616,Advanced Data Structures 6,2,1
+1617,Introduction to Ethical Hacking 7,2,8
+1618,Systems in Machine Learning 7,3,7
+1619,Systems in Networks 3,4,6
+1620,Applied Networks 9,3,8
+1621,Systems in Cloud Computing 1,2,6
+1622,Introduction to Cloud Computing 3,4,1
+1623,Fundamentals of Database Systems 6,2,5
+1624,Introduction to Database Systems 4,4,8
+1625,Advanced Data Structures 8,4,1
+1626,Systems in Programming 4,4,4
+1627,Fundamentals of Cloud Computing 7,2,7
+1628,Introduction to Networks 8,2,1
+1629,Fundamentals of Networks 1,4,8
+1630,Advanced Ethical Hacking 3,3,1
+1631,Introduction to Networks 2,4,6
+1632,Advanced Machine Learning 5,4,8
+1633,Advanced Database Systems 7,2,2
+1634,Fundamentals of Cloud Computing 5,3,5
+1635,Introduction to Machine Learning 1,2,6
+1636,Introduction to Networks 7,2,2
+1637,Systems in Database Systems 7,2,4
+1638,Applied Networks 4,3,4
+1639,Introduction to Data Structures 3,2,8
+1640,Applied Programming 3,2,2
+1641,Introduction to Cloud Computing 6,2,3
+1642,Advanced Programming 1,4,5
+1643,Applied Cloud Computing 4,2,8
+1644,Introduction to Networks 3,2,4
+1645,Applied Cloud Computing 2,4,5
+1646,Introduction to Data Structures 8,4,4
+1647,Fundamentals of Ethical Hacking 6,4,7
+1648,Systems in Machine Learning 6,3,4
+1649,Advanced Ethical Hacking 4,2,5
+1650,Applied Machine Learning 4,3,5
+1651,Introduction to Machine Learning 1,2,6
+1652,Fundamentals of Data Structures 5,3,1
+1653,Introduction to Database Systems 9,4,3
+1654,Fundamentals of Programming 7,4,4
+1655,Applied Networks 7,2,8
+1656,Advanced Networks 4,2,1
+1657,Applied Data Structures 1,2,5
+1658,Introduction to Ethical Hacking 9,3,5
+1659,Advanced Ethical Hacking 7,3,1
+1660,Fundamentals of Machine Learning 8,3,5
+1661,Fundamentals of Machine Learning 7,2,1
+1662,Introduction to Data Structures 2,3,3
+1663,Introduction to Networks 2,2,7
+1664,Systems in Database Systems 8,2,2
+1665,Advanced Data Structures 9,3,3
+1666,Systems in Cloud Computing 5,3,7
+1667,Introduction to Cloud Computing 6,2,3
+1668,Introduction to Programming 6,3,2
+1669,Applied Networks 9,2,4
+1670,Fundamentals of Data Structures 6,3,2
+1671,Advanced Networks 4,2,4
+1672,Advanced Networks 9,3,5
+1673,Applied Data Structures 3,2,2
+1674,Advanced Networks 7,3,7
+1675,Applied Data Structures 2,2,3
+1676,Applied Networks 5,2,3
+1677,Fundamentals of Cloud Computing 5,4,7
+1678,Introduction to Ethical Hacking 1,3,8
+1679,Systems in Networks 5,3,3
+1680,Introduction to Networks 4,3,2
+1681,Introduction to Networks 6,3,1
+1682,Advanced Data Structures 9,3,3
+1683,Introduction to Cloud Computing 7,3,7
+1684,Advanced Machine Learning 3,3,8
+1685,Applied Cloud Computing 3,4,8
+1686,Applied Networks 3,3,4
+1687,Systems in Ethical Hacking 8,4,7
+1688,Advanced Data Structures 3,3,6
+1689,Fundamentals of Database Systems 1,4,2
+1690,Fundamentals of Cloud Computing 5,3,2
+1691,Fundamentals of Ethical Hacking 3,3,8
+1692,Applied Programming 2,2,2
+1693,Systems in Ethical Hacking 5,3,3
+1694,Advanced Cloud Computing 1,2,2
+1695,Systems in Data Structures 2,4,4
+1696,Applied Machine Learning 5,3,6
+1697,Systems in Machine Learning 1,4,3
+1698,Systems in Database Systems 4,3,3
+1699,Applied Networks 8,4,5
+1700,Fundamentals of Ethical Hacking 9,3,1
+1701,Advanced Data Structures 1,3,5
+1702,Systems in Machine Learning 8,2,3
+1703,Systems in Machine Learning 1,4,7
+1704,Introduction to Database Systems 2,3,8
+1705,Systems in Programming 3,4,5
+1706,Fundamentals of Cloud Computing 4,3,6
+1707,Fundamentals of Database Systems 7,4,8
+1708,Fundamentals of Networks 1,3,2
+1709,Applied Networks 6,4,5
+1710,Introduction to Programming 6,4,3
+1711,Advanced Database Systems 2,2,6
+1712,Advanced Programming 5,4,2
+1713,Introduction to Programming 9,4,6
+1714,Advanced Programming 4,2,2
+1715,Advanced Ethical Hacking 9,4,8
+1716,Applied Programming 9,4,7
+1717,Systems in Programming 3,4,8
+1718,Applied Ethical Hacking 5,3,7
+1719,Advanced Database Systems 4,3,1
+1720,Introduction to Programming 9,2,8
+1721,Advanced Networks 7,3,7
+1722,Applied Machine Learning 2,4,7
+1723,Applied Ethical Hacking 8,3,3
+1724,Introduction to Ethical Hacking 7,4,8
+1725,Advanced Machine Learning 9,4,1
+1726,Fundamentals of Data Structures 4,3,7
+1727,Applied Networks 1,3,8
+1728,Introduction to Database Systems 9,3,5
+1729,Applied Database Systems 7,3,6
+1730,Fundamentals of Database Systems 1,4,6
+1731,Fundamentals of Programming 3,4,5
+1732,Introduction to Cloud Computing 2,4,6
+1733,Fundamentals of Machine Learning 3,3,7
+1734,Applied Database Systems 4,3,1
+1735,Fundamentals of Ethical Hacking 2,3,4
+1736,Applied Ethical Hacking 7,3,3
+1737,Fundamentals of Machine Learning 5,2,4
+1738,Advanced Ethical Hacking 9,3,7
+1739,Introduction to Database Systems 8,2,5
+1740,Applied Ethical Hacking 4,4,6
+1741,Fundamentals of Cloud Computing 6,2,8
+1742,Advanced Ethical Hacking 3,3,8
+1743,Fundamentals of Database Systems 2,3,4
+1744,Advanced Networks 7,2,2
+1745,Introduction to Networks 6,4,3
+1746,Fundamentals of Data Structures 8,2,2
+1747,Introduction to Database Systems 9,2,6
+1748,Advanced Networks 4,2,5
+1749,Introduction to Machine Learning 6,4,3
+1750,Systems in Networks 2,4,1
+1751,Systems in Machine Learning 1,2,1
+1752,Applied Data Structures 4,3,1
+1753,Advanced Networks 5,4,4
+1754,Introduction to Ethical Hacking 5,4,7
+1755,Fundamentals of Database Systems 1,3,7
+1756,Advanced Ethical Hacking 9,3,2
+1757,Introduction to Ethical Hacking 7,4,7
+1758,Systems in Networks 4,2,3
+1759,Introduction to Ethical Hacking 3,2,6
+1760,Systems in Database Systems 9,3,6
+1761,Fundamentals of Cloud Computing 2,4,6
+1762,Fundamentals of Networks 6,4,6
+1763,Fundamentals of Ethical Hacking 5,3,1
+1764,Fundamentals of Ethical Hacking 6,2,5
+1765,Introduction to Data Structures 8,3,2
+1766,Advanced Cloud Computing 4,3,7
+1767,Advanced Programming 6,3,4
+1768,Advanced Database Systems 9,3,4
+1769,Applied Database Systems 5,4,5
+1770,Advanced Programming 6,2,8
+1771,Advanced Machine Learning 1,2,6
+1772,Introduction to Database Systems 1,3,3
+1773,Introduction to Ethical Hacking 8,3,4
+1774,Fundamentals of Data Structures 1,4,4
+1775,Introduction to Ethical Hacking 3,4,7
+1776,Fundamentals of Programming 1,2,4
+1777,Systems in Data Structures 7,4,7
+1778,Introduction to Cloud Computing 4,2,2
+1779,Introduction to Ethical Hacking 1,2,3
+1780,Systems in Programming 7,3,2
+1781,Applied Machine Learning 3,3,1
+1782,Advanced Programming 4,3,3
+1783,Introduction to Database Systems 8,2,2
+1784,Advanced Database Systems 7,2,5
+1785,Introduction to Data Structures 9,2,6
+1786,Advanced Ethical Hacking 1,4,5
+1787,Fundamentals of Machine Learning 2,3,6
+1788,Applied Cloud Computing 3,2,2
+1789,Applied Ethical Hacking 5,2,4
+1790,Fundamentals of Ethical Hacking 9,2,8
+1791,Advanced Cloud Computing 8,4,2
+1792,Systems in Networks 5,2,1
+1793,Introduction to Ethical Hacking 3,2,6
+1794,Advanced Networks 9,2,4
+1795,Systems in Database Systems 2,4,2
+1796,Applied Machine Learning 2,4,7
+1797,Systems in Ethical Hacking 5,4,6
+1798,Advanced Machine Learning 5,3,4
+1799,Fundamentals of Ethical Hacking 2,2,7
+1800,Introduction to Data Structures 8,4,2
+1801,Introduction to Ethical Hacking 5,3,1
+1802,Advanced Ethical Hacking 1,3,6
+1803,Fundamentals of Programming 2,2,5
+1804,Advanced Programming 6,2,4
+1805,Fundamentals of Programming 1,3,1
+1806,Applied Networks 5,4,7
+1807,Fundamentals of Data Structures 2,2,1
+1808,Applied Database Systems 5,2,3
+1809,Introduction to Data Structures 8,2,7
+1810,Fundamentals of Data Structures 1,4,3
+1811,Fundamentals of Ethical Hacking 6,4,1
+1812,Fundamentals of Networks 1,4,6
+1813,Applied Database Systems 4,2,8
+1814,Fundamentals of Cloud Computing 8,3,7
+1815,Advanced Ethical Hacking 2,3,5
+1816,Systems in Data Structures 2,3,6
+1817,Introduction to Cloud Computing 3,2,3
+1818,Systems in Programming 1,4,1
+1819,Fundamentals of Cloud Computing 4,2,6
+1820,Advanced Machine Learning 6,2,5
+1821,Applied Cloud Computing 1,3,8
+1822,Introduction to Cloud Computing 5,4,7
+1823,Advanced Programming 4,3,5
+1824,Applied Ethical Hacking 9,3,2
+1825,Fundamentals of Ethical Hacking 3,3,3
+1826,Introduction to Programming 8,3,1
+1827,Systems in Machine Learning 5,4,3
+1828,Applied Data Structures 5,2,3
+1829,Systems in Ethical Hacking 4,2,2
+1830,Introduction to Programming 1,2,6
+1831,Fundamentals of Database Systems 2,2,2
+1832,Advanced Machine Learning 2,4,7
+1833,Fundamentals of Networks 8,2,2
+1834,Advanced Machine Learning 5,4,8
+1835,Systems in Database Systems 2,4,1
+1836,Introduction to Programming 9,2,1
+1837,Advanced Cloud Computing 2,2,1
+1838,Applied Networks 9,3,4
+1839,Introduction to Programming 4,3,4
+1840,Advanced Data Structures 5,3,3
+1841,Fundamentals of Data Structures 6,3,6
+1842,Introduction to Ethical Hacking 1,4,1
+1843,Systems in Data Structures 6,2,3
+1844,Advanced Cloud Computing 9,4,3
+1845,Advanced Data Structures 4,3,2
+1846,Introduction to Networks 9,4,7
+1847,Systems in Machine Learning 2,2,5
+1848,Advanced Machine Learning 7,2,4
+1849,Introduction to Data Structures 2,3,3
+1850,Systems in Machine Learning 8,2,2
+1851,Fundamentals of Programming 7,4,6
+1852,Systems in Cloud Computing 1,2,7
+1853,Introduction to Database Systems 3,3,7
+1854,Introduction to Database Systems 5,3,8
+1855,Applied Networks 1,2,5
+1856,Fundamentals of Networks 7,2,2
+1857,Fundamentals of Networks 5,4,3
+1858,Advanced Networks 1,2,4
+1859,Applied Database Systems 2,3,3
+1860,Applied Programming 5,3,3
+1861,Applied Ethical Hacking 1,2,7
+1862,Applied Database Systems 6,3,8
+1863,Systems in Database Systems 7,2,5
+1864,Systems in Ethical Hacking 3,2,2
+1865,Advanced Networks 1,4,2
+1866,Introduction to Programming 9,2,7
+1867,Advanced Networks 9,3,3
+1868,Fundamentals of Programming 7,4,6
+1869,Systems in Machine Learning 4,2,7
+1870,Introduction to Database Systems 8,3,7
+1871,Fundamentals of Machine Learning 5,3,7
+1872,Applied Cloud Computing 1,2,1
+1873,Fundamentals of Ethical Hacking 9,3,7
+1874,Fundamentals of Cloud Computing 3,4,4
+1875,Introduction to Programming 3,2,7
+1876,Applied Networks 8,2,1
+1877,Fundamentals of Programming 7,4,7
+1878,Advanced Cloud Computing 4,2,6
+1879,Fundamentals of Data Structures 9,2,6
+1880,Advanced Data Structures 6,4,2
+1881,Applied Cloud Computing 8,4,7
+1882,Applied Cloud Computing 5,2,4
+1883,Applied Networks 8,4,6
+1884,Systems in Programming 3,4,2
+1885,Introduction to Cloud Computing 6,3,4
+1886,Introduction to Networks 4,4,5
+1887,Applied Database Systems 6,3,5
+1888,Advanced Database Systems 7,3,2
+1889,Systems in Machine Learning 7,2,1
+1890,Advanced Networks 3,2,4
+1891,Introduction to Data Structures 7,2,5
+1892,Systems in Data Structures 4,2,5
+1893,Systems in Cloud Computing 8,4,5
+1894,Applied Database Systems 3,4,5
+1895,Advanced Programming 7,2,1
+1896,Advanced Data Structures 9,2,8
+1897,Fundamentals of Programming 5,4,5
+1898,Systems in Networks 1,2,7
+1899,Systems in Database Systems 6,3,8
+1900,Applied Ethical Hacking 4,2,5
+1901,Fundamentals of Data Structures 6,4,2
+1902,Advanced Machine Learning 6,3,4
+1903,Advanced Database Systems 3,4,8
+1904,Applied Database Systems 6,2,7
+1905,Fundamentals of Machine Learning 9,3,8
+1906,Fundamentals of Machine Learning 1,4,3
+1907,Applied Networks 3,4,5
+1908,Systems in Programming 5,2,6
+1909,Systems in Database Systems 3,2,8
+1910,Systems in Cloud Computing 2,4,1
+1911,Introduction to Machine Learning 9,2,2
+1912,Fundamentals of Networks 3,2,2
+1913,Applied Data Structures 3,3,6
+1914,Advanced Machine Learning 5,3,7
+1915,Systems in Data Structures 3,3,3
+1916,Applied Ethical Hacking 7,2,3
+1917,Applied Database Systems 5,2,5
+1918,Advanced Ethical Hacking 7,3,1
+1919,Applied Data Structures 7,4,7
+1920,Advanced Networks 8,2,1
+1921,Introduction to Database Systems 4,4,7
+1922,Fundamentals of Networks 5,4,7
+1923,Fundamentals of Data Structures 3,2,7
+1924,Introduction to Ethical Hacking 1,4,3
+1925,Advanced Machine Learning 5,4,2
+1926,Applied Programming 8,4,6
+1927,Applied Database Systems 6,3,3
+1928,Advanced Ethical Hacking 7,3,4
+1929,Applied Networks 4,4,6
+1930,Systems in Database Systems 2,2,8
+1931,Advanced Cloud Computing 7,3,1
+1932,Introduction to Programming 2,4,4
+1933,Advanced Networks 1,3,1
+1934,Systems in Machine Learning 4,4,4
+1935,Applied Programming 3,4,7
+1936,Advanced Machine Learning 1,4,4
+1937,Fundamentals of Programming 1,3,7
+1938,Fundamentals of Cloud Computing 7,2,8
+1939,Introduction to Database Systems 1,2,7
+1940,Advanced Machine Learning 5,3,1
+1941,Fundamentals of Data Structures 1,2,7
+1942,Introduction to Networks 7,2,4
+1943,Advanced Data Structures 6,3,7
+1944,Fundamentals of Machine Learning 6,3,8
+1945,Introduction to Machine Learning 4,2,1
+1946,Systems in Database Systems 9,3,3
+1947,Advanced Networks 3,3,3
+1948,Advanced Machine Learning 4,2,6
+1949,Introduction to Database Systems 3,3,2
+1950,Introduction to Programming 7,4,2
+1951,Fundamentals of Machine Learning 9,3,3
+1952,Systems in Programming 3,4,3
+1953,Advanced Machine Learning 4,3,6
+1954,Applied Ethical Hacking 4,4,7
+1955,Introduction to Database Systems 2,3,3
+1956,Systems in Machine Learning 4,2,5
+1957,Advanced Database Systems 7,3,6
+1958,Applied Ethical Hacking 5,2,6
+1959,Introduction to Database Systems 6,2,7
+1960,Fundamentals of Database Systems 6,3,6
+1961,Systems in Cloud Computing 6,3,1
+1962,Applied Database Systems 8,3,1
+1963,Advanced Machine Learning 9,2,4
+1964,Fundamentals of Networks 8,2,2
+1965,Advanced Ethical Hacking 8,2,7
+1966,Fundamentals of Database Systems 6,4,8
+1967,Fundamentals of Database Systems 1,3,1
+1968,Applied Database Systems 6,3,6
+1969,Fundamentals of Ethical Hacking 3,3,1
+1970,Applied Database Systems 7,4,7
+1971,Applied Cloud Computing 9,2,3
+1972,Applied Ethical Hacking 6,3,3
+1973,Applied Machine Learning 8,3,6
+1974,Advanced Database Systems 2,3,6
+1975,Applied Programming 1,4,6
+1976,Applied Networks 4,3,3
+1977,Advanced Ethical Hacking 8,3,1
+1978,Fundamentals of Data Structures 4,3,3
+1979,Applied Database Systems 9,3,7
+1980,Systems in Data Structures 2,2,8
+1981,Fundamentals of Ethical Hacking 3,4,4
+1982,Systems in Machine Learning 6,4,7
+1983,Advanced Ethical Hacking 9,4,1
+1984,Fundamentals of Cloud Computing 7,2,8
+1985,Fundamentals of Database Systems 2,2,7
+1986,Applied Data Structures 6,2,8
+1987,Fundamentals of Ethical Hacking 6,4,6
+1988,Introduction to Programming 4,2,1
+1989,Advanced Programming 6,3,4
+1990,Systems in Data Structures 2,3,6
+1991,Applied Networks 7,2,7
+1992,Applied Ethical Hacking 8,3,8
+1993,Introduction to Machine Learning 5,3,8
+1994,Applied Ethical Hacking 3,2,1
+1995,Applied Data Structures 1,4,1
+1996,Applied Cloud Computing 6,2,1
+1997,Fundamentals of Programming 2,4,7
+1998,Fundamentals of Data Structures 2,2,5
+1999,Fundamentals of Networks 5,3,7
+2000,Fundamentals of Programming 3,3,8
+2001,Systems in Cloud Computing 3,2,6
+2002,Fundamentals of Networks 1,2,8
+2003,Introduction to Data Structures 2,4,7
+2004,Systems in Data Structures 6,3,1
+2005,Introduction to Machine Learning 7,4,7
+2006,Systems in Ethical Hacking 6,2,2
+2007,Fundamentals of Database Systems 1,4,7
+2008,Fundamentals of Ethical Hacking 6,4,1
+2009,Systems in Programming 3,4,6
+2010,Advanced Networks 8,3,8
+2011,Applied Data Structures 3,3,2
+2012,Systems in Programming 4,4,7
+2013,Advanced Database Systems 9,3,7
+2014,Advanced Machine Learning 7,3,1
+2015,Systems in Data Structures 5,4,6
+2016,Introduction to Data Structures 9,3,5
+2017,Introduction to Cloud Computing 9,3,5
+2018,Systems in Machine Learning 9,2,8
+2019,Introduction to Data Structures 6,4,6
+2020,Systems in Data Structures 7,2,5
+2021,Applied Database Systems 3,3,2
+2022,Systems in Networks 6,2,7
+2023,Advanced Cloud Computing 6,2,8
+2024,Applied Database Systems 7,3,2
+2025,Introduction to Data Structures 9,3,4
+2026,Fundamentals of Programming 9,3,4
+2027,Systems in Machine Learning 5,4,6
+2028,Advanced Cloud Computing 1,2,1
+2029,Introduction to Programming 6,2,6
+2030,Fundamentals of Machine Learning 9,4,3
+2031,Introduction to Ethical Hacking 1,4,6
+2032,Introduction to Data Structures 4,4,2
+2033,Advanced Programming 3,3,7
+2034,Introduction to Networks 9,4,3
+2035,Advanced Database Systems 1,3,1
+2036,Advanced Ethical Hacking 7,4,2
+2037,Introduction to Cloud Computing 9,4,7
+2038,Introduction to Ethical Hacking 1,2,8
+2039,Introduction to Database Systems 2,3,3
+2040,Applied Programming 9,2,2
+2041,Introduction to Data Structures 3,2,1
+2042,Fundamentals of Database Systems 2,4,4
+2043,Applied Data Structures 3,4,4
+2044,Fundamentals of Cloud Computing 4,2,7
+2045,Systems in Machine Learning 4,2,8
+2046,Systems in Programming 6,4,1
+2047,Fundamentals of Ethical Hacking 5,2,8
+2048,Introduction to Networks 9,3,2
+2049,Introduction to Machine Learning 1,3,5
+2050,Systems in Networks 8,3,6
+2051,Applied Cloud Computing 7,2,7
+2052,Fundamentals of Database Systems 1,2,4
+2053,Systems in Database Systems 4,2,2
+2054,Advanced Networks 7,2,5
+2055,Advanced Machine Learning 3,3,2
+2056,Fundamentals of Data Structures 3,3,7
+2057,Advanced Data Structures 3,2,4
+2058,Advanced Machine Learning 1,3,4
+2059,Advanced Ethical Hacking 3,4,2
+2060,Systems in Networks 2,3,6
+2061,Advanced Database Systems 9,2,8
+2062,Fundamentals of Database Systems 9,4,3
+2063,Applied Networks 4,3,7
+2064,Applied Database Systems 3,4,6
+2065,Introduction to Networks 7,3,1
+2066,Introduction to Networks 4,2,6
+2067,Systems in Machine Learning 2,3,8
+2068,Applied Data Structures 3,4,5
+2069,Systems in Ethical Hacking 1,4,4
+2070,Advanced Programming 3,4,5
+2071,Systems in Database Systems 6,4,1
+2072,Systems in Networks 3,2,3
+2073,Advanced Ethical Hacking 4,2,1
+2074,Fundamentals of Cloud Computing 5,2,3
+2075,Advanced Database Systems 5,3,5
+2076,Fundamentals of Database Systems 1,3,8
+2460,Applied Machine Learning 4,2,8
+2461,Advanced Machine Learning 9,4,5
+2462,Introduction to Ethical Hacking 2,2,8
+2463,Introduction to Ethical Hacking 2,4,2
+2464,Fundamentals of Ethical Hacking 6,4,6
+2465,Advanced Networks 1,4,3
+2466,Advanced Machine Learning 8,3,2
+2467,Systems in Data Structures 1,2,3
+2468,Advanced Programming 9,3,6
+2469,Fundamentals of Machine Learning 5,4,7
+2470,Applied Cloud Computing 2,2,1
+2471,Applied Ethical Hacking 6,3,3
+2472,Advanced Data Structures 7,4,7
+2473,Systems in Data Structures 3,4,3
+2474,Applied Programming 6,2,5
+2475,Systems in Machine Learning 4,4,6
+2476,Fundamentals of Machine Learning 9,4,4
+2477,Fundamentals of Data Structures 4,2,8
+2478,Advanced Ethical Hacking 9,2,6
+2479,Introduction to Cloud Computing 6,2,7
+2480,Systems in Database Systems 8,2,8
+2481,Systems in Machine Learning 5,2,7
+2482,Advanced Ethical Hacking 8,2,2
+2483,Systems in Data Structures 5,3,1
+2484,Introduction to Networks 3,4,5
+2485,Fundamentals of Database Systems 4,3,1
+2486,Fundamentals of Cloud Computing 8,4,3
+2487,Systems in Data Structures 4,2,1
+2488,Applied Ethical Hacking 8,3,5
+2489,Fundamentals of Networks 9,4,5
+2490,Applied Data Structures 1,4,5
+2491,Fundamentals of Data Structures 9,3,1
+2492,Systems in Ethical Hacking 2,2,1
+2493,Advanced Machine Learning 9,3,7
+2494,Fundamentals of Programming 8,4,2
+2495,Applied Networks 6,3,2
+2496,Fundamentals of Database Systems 9,4,7
+2497,Systems in Ethical Hacking 7,3,3
+2498,Applied Networks 2,4,5
+2499,Advanced Machine Learning 4,2,1
+2500,Applied Ethical Hacking 3,2,1
+2501,Advanced Cloud Computing 2,2,7
+2502,Fundamentals of Database Systems 9,4,2
+2503,Applied Programming 4,3,1
+2504,Introduction to Networks 5,2,2
+2505,Applied Programming 6,3,7
+2506,Systems in Ethical Hacking 2,4,8
+2507,Systems in Data Structures 4,2,1
+2508,Applied Data Structures 6,3,1
+2509,Advanced Ethical Hacking 9,4,8
+2510,Introduction to Networks 6,3,3
+2511,Introduction to Database Systems 6,3,1
+2512,Fundamentals of Database Systems 5,2,5
+2513,Fundamentals of Database Systems 3,4,5
+2514,Advanced Cloud Computing 1,4,2
+2515,Introduction to Networks 5,2,3
+2516,Applied Ethical Hacking 7,2,2
+2517,Applied Ethical Hacking 4,3,4
+2518,Applied Data Structures 2,3,8
+2519,Fundamentals of Database Systems 1,4,8
+2520,Introduction to Ethical Hacking 6,3,5
+2521,Introduction to Ethical Hacking 7,4,7
+2522,Introduction to Cloud Computing 4,3,8
+2523,Systems in Ethical Hacking 4,4,5
+2524,Fundamentals of Machine Learning 2,3,8
+2525,Advanced Networks 4,2,7
+2526,Systems in Database Systems 2,3,2
+2527,Systems in Database Systems 7,2,7
+2528,Systems in Networks 2,3,7
+2529,Fundamentals of Ethical Hacking 1,2,4
+2530,Fundamentals of Ethical Hacking 4,3,3
+2531,Systems in Database Systems 7,2,3
+2532,Systems in Ethical Hacking 5,2,1
+2533,Advanced Ethical Hacking 4,2,8
+2534,Advanced Ethical Hacking 5,3,3
+2535,Introduction to Machine Learning 7,3,7
+2536,Introduction to Networks 8,3,3
+2537,Applied Data Structures 4,4,3
+2538,Fundamentals of Cloud Computing 1,4,7
+2539,Introduction to Machine Learning 6,3,3
+2540,Fundamentals of Data Structures 4,2,2
+2541,Applied Data Structures 1,2,4
+2542,Advanced Ethical Hacking 9,2,4
+2543,Systems in Data Structures 4,4,2
+2544,Introduction to Ethical Hacking 4,4,6
+2545,Systems in Networks 6,3,8
+2546,Applied Database Systems 2,3,1
+2547,Applied Cloud Computing 5,2,8
+2548,Introduction to Machine Learning 1,3,8
+2549,Advanced Ethical Hacking 4,3,6
+2550,Systems in Ethical Hacking 2,2,8
+2551,Introduction to Machine Learning 6,4,1
+2552,Advanced Programming 2,2,5
+2553,Advanced Ethical Hacking 2,4,6
+2554,Introduction to Programming 7,2,7
+2555,Applied Programming 1,2,6
+2556,Applied Data Structures 1,4,5
+2557,Systems in Machine Learning 1,4,5
+2558,Fundamentals of Programming 5,4,7
+2559,Introduction to Machine Learning 4,2,8
+2560,Advanced Programming 2,4,5
+2561,Introduction to Networks 6,2,6
+2562,Fundamentals of Data Structures 9,3,8
+2563,Fundamentals of Machine Learning 4,4,4
+2564,Fundamentals of Data Structures 1,3,8
+2565,Advanced Programming 3,2,8
+2566,Fundamentals of Cloud Computing 3,4,2
+2567,Applied Database Systems 7,4,3
+2568,Applied Machine Learning 7,4,3
+2569,Applied Ethical Hacking 5,2,1
+2570,Applied Machine Learning 6,3,3
+2571,Systems in Ethical Hacking 2,4,8
+2572,Advanced Database Systems 2,2,2
+2573,Advanced Machine Learning 8,3,5
+2574,Applied Data Structures 8,3,3
+2575,Applied Data Structures 5,2,7
+2576,Advanced Cloud Computing 5,3,4
+2577,Introduction to Networks 2,4,8
+2578,Fundamentals of Data Structures 2,3,5
+2579,Fundamentals of Ethical Hacking 8,4,6
+2580,Applied Ethical Hacking 8,3,6
+2581,Introduction to Machine Learning 6,4,5
+2582,Introduction to Programming 5,4,8
+2583,Fundamentals of Networks 6,3,8
+2584,Systems in Cloud Computing 5,2,1
+2585,Applied Ethical Hacking 2,4,3
+2586,Fundamentals of Machine Learning 6,3,4
+2587,Fundamentals of Data Structures 7,3,3
+2588,Advanced Networks 2,2,4
+2589,Advanced Programming 4,3,2
+2590,Fundamentals of Ethical Hacking 3,4,4
+2591,Advanced Machine Learning 4,3,4
+2592,Advanced Ethical Hacking 3,4,7
+2593,Applied Data Structures 3,4,2
+2594,Fundamentals of Networks 7,3,8
+2595,Fundamentals of Programming 5,3,7
+2596,Systems in Data Structures 1,2,5
+2597,Applied Networks 2,3,3
+2598,Advanced Cloud Computing 4,4,3
+2599,Fundamentals of Data Structures 9,4,6
+2600,Advanced Machine Learning 9,2,4
+2601,Applied Programming 4,4,4
+2602,Introduction to Machine Learning 1,2,6
+2603,Applied Networks 5,2,7
+2604,Fundamentals of Machine Learning 9,4,8
+2605,Advanced Database Systems 7,2,1
+2606,Applied Data Structures 7,4,3
+2607,Introduction to Data Structures 8,2,7
+2608,Introduction to Data Structures 5,3,4
+2609,Advanced Database Systems 3,2,5
+2610,Advanced Ethical Hacking 3,2,1
+2611,Applied Data Structures 2,2,7
+2612,Introduction to Database Systems 8,3,7
+2613,Introduction to Ethical Hacking 9,3,2
+2614,Applied Networks 3,2,2
+2615,Systems in Programming 6,2,2
+2616,Introduction to Database Systems 1,4,7
+2617,Systems in Cloud Computing 1,3,1
+2618,Systems in Database Systems 4,4,2
+2619,Introduction to Networks 9,2,6
+2620,Advanced Machine Learning 6,3,7
+2621,Systems in Data Structures 3,4,7
+2622,Fundamentals of Database Systems 3,2,4
+2623,Introduction to Ethical Hacking 2,3,2
+2624,Applied Programming 7,2,6
+2625,Introduction to Data Structures 2,4,5
+2626,Applied Machine Learning 2,3,1
+2627,Introduction to Machine Learning 1,3,2
+2628,Systems in Networks 7,4,3
+2629,Applied Cloud Computing 2,4,2
+2630,Introduction to Machine Learning 9,3,2
+2631,Systems in Database Systems 8,2,1
+2632,Introduction to Programming 1,2,3
+2633,Systems in Cloud Computing 4,3,1
+2634,Advanced Database Systems 3,3,2
+2635,Introduction to Programming 4,3,8
+2636,Systems in Database Systems 6,4,4
+2637,Advanced Machine Learning 6,2,6
+2638,Applied Networks 2,2,5
+2639,Fundamentals of Ethical Hacking 1,4,2
+2640,Fundamentals of Cloud Computing 7,3,6
+2641,Systems in Cloud Computing 1,2,1
+2642,Introduction to Database Systems 2,2,1
+2643,Introduction to Data Structures 6,3,8
+2644,Fundamentals of Networks 3,4,8
+2645,Fundamentals of Ethical Hacking 9,2,2
+2646,Applied Database Systems 4,3,7
+2647,Introduction to Database Systems 6,2,6
+2648,Introduction to Data Structures 8,2,5
+2649,Systems in Data Structures 6,2,6
+2650,Advanced Cloud Computing 7,2,7
+2651,Systems in Database Systems 2,3,1
+2652,Applied Data Structures 4,2,4
+2653,Applied Ethical Hacking 6,4,6
+2654,Advanced Networks 2,3,1
+2655,Fundamentals of Cloud Computing 6,4,5
+2656,Systems in Programming 7,4,5
+2657,Advanced Cloud Computing 5,4,2
+2658,Systems in Programming 3,2,6
+2659,Introduction to Machine Learning 4,2,1
+2660,Advanced Machine Learning 8,2,2
+2661,Advanced Cloud Computing 9,4,7
+2662,Introduction to Programming 9,3,8
+2663,Advanced Data Structures 1,2,6
+2664,Fundamentals of Networks 8,2,2
+2665,Fundamentals of Networks 3,3,1
+2666,Advanced Ethical Hacking 2,3,3
+2667,Applied Machine Learning 8,3,4
+2668,Advanced Cloud Computing 8,4,3
+2669,Applied Programming 6,4,6
+2670,Advanced Programming 3,4,5
+2671,Applied Cloud Computing 7,3,8
+2672,Systems in Programming 1,3,4
+2673,Fundamentals of Networks 6,2,5
+2674,Systems in Database Systems 2,4,3
+2675,Systems in Programming 2,3,4
+2676,Advanced Networks 7,2,1
+2677,Advanced Cloud Computing 2,4,7
+2678,Introduction to Cloud Computing 6,3,1
+2679,Advanced Networks 1,2,7
+2680,Advanced Programming 9,4,4
+2681,Fundamentals of Cloud Computing 1,3,4
+2682,Advanced Database Systems 1,4,6
+2683,Systems in Data Structures 2,4,7
+2684,Introduction to Machine Learning 7,2,8
+2685,Applied Data Structures 6,2,8
+2686,Fundamentals of Database Systems 6,4,3
+2687,Systems in Ethical Hacking 1,4,3
+2688,Advanced Database Systems 7,3,1
+2689,Introduction to Ethical Hacking 1,3,2
+2690,Applied Machine Learning 3,2,1
+2691,Introduction to Cloud Computing 5,2,1
+2692,Advanced Machine Learning 6,3,2
+2693,Applied Networks 8,2,7
+2694,Systems in Networks 6,2,3
+2695,Fundamentals of Database Systems 7,2,6
+2696,Advanced Ethical Hacking 3,3,3
+2697,Applied Ethical Hacking 8,4,2
+2698,Fundamentals of Ethical Hacking 2,3,8
+2699,Applied Machine Learning 7,4,3
+2700,Advanced Machine Learning 7,4,3
+2701,Systems in Database Systems 6,4,6
+2702,Applied Database Systems 6,4,7
+2703,Introduction to Programming 2,2,2
+2704,Advanced Programming 6,2,3
+2705,Systems in Cloud Computing 5,4,3
+2706,Introduction to Data Structures 6,2,5
+2707,Introduction to Programming 7,4,1
+2708,Introduction to Programming 4,4,6
+2709,Systems in Ethical Hacking 5,4,5
+2710,Introduction to Data Structures 8,2,1
+2711,Introduction to Programming 9,4,6
+2712,Applied Machine Learning 6,4,7
+2713,Fundamentals of Machine Learning 4,2,3
+2714,Introduction to Cloud Computing 6,4,2
+2715,Fundamentals of Programming 4,2,4
+2716,Fundamentals of Database Systems 8,3,5
+2717,Fundamentals of Cloud Computing 5,3,5
+2718,Introduction to Ethical Hacking 9,3,6
+2719,Systems in Programming 9,2,8
+2720,Introduction to Ethical Hacking 7,2,1
+2721,Applied Cloud Computing 8,3,5
+2722,Applied Database Systems 4,4,1
+2723,Introduction to Machine Learning 5,4,8
+2724,Fundamentals of Programming 2,2,2
+2725,Applied Programming 3,4,3
+2726,Advanced Cloud Computing 6,2,4
+2727,Introduction to Networks 5,2,7
+2728,Introduction to Ethical Hacking 9,2,7
+2729,Fundamentals of Database Systems 1,2,2
+2730,Fundamentals of Programming 9,3,2
+2731,Advanced Ethical Hacking 5,3,7
+2732,Introduction to Data Structures 9,2,5
+2733,Introduction to Machine Learning 9,3,7
+2734,Applied Database Systems 9,4,2
+2735,Introduction to Networks 8,4,7
+2736,Applied Ethical Hacking 8,3,1
+2737,Systems in Networks 4,3,5
+2738,Applied Database Systems 7,2,2
+2739,Advanced Cloud Computing 7,4,3
+2740,Introduction to Database Systems 1,3,7
+2741,Advanced Ethical Hacking 8,3,6
+2742,Systems in Data Structures 3,3,8
+2743,Systems in Data Structures 6,3,3
+2744,Fundamentals of Machine Learning 6,2,7
+2745,Advanced Ethical Hacking 8,3,6
+2746,Introduction to Networks 2,2,6
+2747,Applied Machine Learning 9,3,3
+2748,Advanced Database Systems 4,2,4
+2749,Advanced Cloud Computing 4,3,2
+2750,Fundamentals of Database Systems 4,2,5
+2751,Introduction to Database Systems 2,3,1
+2752,Fundamentals of Programming 3,2,1
+2753,Systems in Networks 7,4,7
+2754,Introduction to Networks 2,3,7
+2755,Systems in Cloud Computing 4,4,5
+2756,Applied Networks 1,3,4
+2757,Advanced Ethical Hacking 7,3,3
+2758,Introduction to Data Structures 8,3,5
+2759,Fundamentals of Database Systems 6,2,8
+2760,Introduction to Data Structures 7,3,4
+2761,Fundamentals of Data Structures 6,2,2
+2762,Applied Data Structures 2,3,7
+2763,Introduction to Data Structures 5,3,5
+2764,Introduction to Programming 5,4,3
+2765,Fundamentals of Programming 9,4,2
+2766,Fundamentals of Networks 7,3,8
+2767,Applied Cloud Computing 8,2,3
+2768,Applied Machine Learning 2,4,7
+2769,Advanced Database Systems 3,3,4
+2770,Applied Machine Learning 5,3,1
+2771,Advanced Machine Learning 1,3,1
+2772,Fundamentals of Cloud Computing 2,4,2
+2773,Systems in Machine Learning 4,4,6
+2774,Fundamentals of Networks 8,2,3
+2775,Applied Programming 2,3,3
+2776,Advanced Programming 9,3,8
+2777,Fundamentals of Networks 8,2,1
+2778,Systems in Data Structures 8,3,1
+2779,Systems in Cloud Computing 1,2,2
+2780,Systems in Ethical Hacking 7,3,7
+2781,Advanced Database Systems 6,2,4
+2782,Systems in Machine Learning 4,4,2
+2783,Advanced Cloud Computing 4,3,4
+2784,Advanced Ethical Hacking 6,2,5
+2785,Systems in Networks 2,2,6
+2786,Introduction to Programming 7,4,4
+2787,Applied Data Structures 6,3,5
+2788,Introduction to Machine Learning 3,4,2
+2789,Applied Cloud Computing 5,4,7
+2790,Introduction to Machine Learning 9,4,8
+2791,Introduction to Database Systems 7,2,4
+2792,Introduction to Programming 2,4,3
+2793,Advanced Ethical Hacking 4,3,5
+2794,Introduction to Data Structures 6,3,5
+2795,Systems in Cloud Computing 8,2,3
+2796,Introduction to Cloud Computing 5,3,5
+2797,Applied Networks 7,4,7
+2798,Systems in Ethical Hacking 6,3,2
+2799,Advanced Programming 6,4,3
+2800,Introduction to Data Structures 4,2,6
+2801,Applied Ethical Hacking 7,2,3
+2802,Advanced Data Structures 3,3,6
+2803,Fundamentals of Cloud Computing 6,4,4
+2804,Systems in Cloud Computing 2,3,8
+2805,Introduction to Networks 2,2,6
+2806,Systems in Database Systems 9,4,8
+2807,Advanced Database Systems 8,3,2
+2808,Applied Networks 6,2,2
+2809,Introduction to Machine Learning 5,4,7
+2810,Introduction to Data Structures 2,3,4
+2811,Fundamentals of Cloud Computing 5,4,4
+2812,Introduction to Networks 1,3,2
+2813,Systems in Data Structures 3,2,6
+2814,Fundamentals of Machine Learning 1,3,5
+2815,Introduction to Cloud Computing 4,3,6
+2816,Fundamentals of Programming 8,2,2
+2817,Introduction to Data Structures 6,3,7
+2818,Introduction to Ethical Hacking 9,4,5
+2819,Advanced Machine Learning 5,2,8
+2820,Introduction to Networks 5,3,1
+2821,Systems in Networks 5,3,7
+2822,Applied Programming 9,2,1
+2823,Systems in Database Systems 6,4,5
+2824,Introduction to Data Structures 4,4,5
+2825,Introduction to Data Structures 1,3,4
+2826,Advanced Data Structures 8,4,1
+2827,Applied Data Structures 2,4,2
+2828,Applied Ethical Hacking 6,3,3
+2829,Introduction to Data Structures 5,4,4
+2830,Introduction to Database Systems 3,2,5
+2831,Advanced Ethical Hacking 1,3,5
+2832,Systems in Networks 9,4,4
+2833,Applied Database Systems 3,4,7
+2834,Advanced Data Structures 4,4,5
+2835,Introduction to Machine Learning 5,3,2
+2836,Fundamentals of Ethical Hacking 6,3,8
+2837,Introduction to Cloud Computing 5,3,1
+2838,Systems in Machine Learning 7,3,6
+2839,Introduction to Cloud Computing 4,4,6
+2840,Advanced Networks 6,3,5
+2841,Applied Database Systems 9,3,2
+2842,Applied Networks 4,3,3
+2843,Advanced Programming 3,4,7
+2844,Fundamentals of Cloud Computing 7,2,2
+2845,Systems in Ethical Hacking 7,3,3
+2846,Applied Cloud Computing 4,4,8
+2847,Fundamentals of Ethical Hacking 3,4,4
+2848,Fundamentals of Cloud Computing 9,4,5
+2849,Fundamentals of Ethical Hacking 3,3,7
+2850,Applied Networks 7,2,4
+2851,Fundamentals of Programming 6,2,2
+2852,Advanced Machine Learning 3,2,6
+2853,Introduction to Cloud Computing 2,4,8
+2854,Systems in Ethical Hacking 7,4,7
+2855,Fundamentals of Machine Learning 2,3,1
+2856,Applied Cloud Computing 1,2,4
+2857,Fundamentals of Ethical Hacking 8,2,5
+2858,Applied Ethical Hacking 6,4,2
+2859,Introduction to Ethical Hacking 5,3,8
+2860,Systems in Networks 9,4,5
+2861,Advanced Programming 5,3,3
+2862,Introduction to Cloud Computing 6,4,2
+2863,Applied Ethical Hacking 5,2,3
+2864,Applied Cloud Computing 6,4,2
+2865,Advanced Data Structures 6,2,6
+2866,Applied Machine Learning 8,4,8
+2867,Systems in Cloud Computing 1,4,8
+2868,Systems in Cloud Computing 4,2,4
+2869,Systems in Database Systems 1,2,4
+2870,Fundamentals of Programming 3,4,7
+2871,Advanced Programming 1,2,4
+2872,Introduction to Database Systems 6,2,1
+2873,Applied Programming 3,4,2
+2874,Fundamentals of Networks 6,3,6
+2875,Systems in Ethical Hacking 6,3,3
+2876,Systems in Cloud Computing 7,4,3
+2877,Systems in Data Structures 1,4,4
+2878,Introduction to Data Structures 9,3,5
+2879,Applied Programming 4,4,5
+2880,Systems in Database Systems 1,4,3
+2881,Fundamentals of Networks 1,3,2
+2882,Systems in Database Systems 1,3,1
+2883,Introduction to Programming 4,2,2
+2884,Advanced Ethical Hacking 7,4,3
+2885,Systems in Ethical Hacking 8,3,8
+2886,Fundamentals of Networks 5,2,2
+2887,Advanced Ethical Hacking 2,2,2
+2888,Advanced Programming 7,4,8
+2889,Fundamentals of Programming 7,3,5
+2890,Fundamentals of Machine Learning 2,4,7
+2891,Applied Data Structures 5,3,2
+2892,Advanced Networks 9,3,4
+2893,Introduction to Machine Learning 7,3,7
+2894,Advanced Ethical Hacking 1,2,7
+2895,Systems in Machine Learning 1,2,3
+2896,Introduction to Cloud Computing 4,2,5
+2897,Systems in Database Systems 9,4,3
+2898,Applied Database Systems 6,4,6
+2899,Systems in Ethical Hacking 9,2,5
+2900,Systems in Cloud Computing 9,4,8
+2901,Fundamentals of Machine Learning 3,4,7
+2902,Applied Data Structures 4,2,1
+2903,Introduction to Networks 6,3,3
+2904,Applied Cloud Computing 1,4,1
+2905,Introduction to Machine Learning 5,2,8
+2906,Advanced Cloud Computing 9,3,7
+2907,Introduction to Machine Learning 2,3,2
+2908,Fundamentals of Database Systems 5,4,8
+2909,Fundamentals of Data Structures 1,4,8
+2910,Applied Ethical Hacking 5,4,6
+2911,Introduction to Networks 9,2,8
+2912,Advanced Ethical Hacking 7,2,8
+2913,Advanced Cloud Computing 6,3,4
+2914,Applied Networks 4,4,7
+2915,Applied Networks 5,4,3
+2916,Fundamentals of Programming 1,4,6
+2917,Applied Cloud Computing 6,4,1
+2918,Systems in Ethical Hacking 8,4,4
+2919,Applied Machine Learning 9,4,6
+2920,Fundamentals of Cloud Computing 8,2,3
+2921,Systems in Networks 7,3,1
+2922,Systems in Programming 7,3,2
+2923,Advanced Cloud Computing 9,3,1
+2924,Applied Ethical Hacking 2,4,3
+2925,Systems in Networks 9,4,2
+2926,Advanced Ethical Hacking 3,4,4
+2927,Systems in Machine Learning 9,3,2
+2928,Introduction to Programming 3,2,2
+2929,Applied Data Structures 3,3,6
+2930,Fundamentals of Database Systems 2,3,8
+2931,Fundamentals of Data Structures 8,3,3
+2932,Applied Cloud Computing 8,4,5
+2933,Introduction to Networks 2,3,3
+2934,Applied Ethical Hacking 6,4,6
+2935,Advanced Data Structures 9,4,5
+2936,Advanced Networks 3,4,3
+2937,Advanced Ethical Hacking 2,2,7
+2938,Applied Database Systems 3,4,6
+2939,Systems in Networks 4,2,3
+2940,Systems in Machine Learning 7,3,8
+2941,Systems in Database Systems 8,2,6
+2942,Applied Networks 1,2,7
+2943,Fundamentals of Programming 4,4,1
+2944,Advanced Machine Learning 9,3,3
+2945,Applied Networks 6,3,8
+2946,Introduction to Ethical Hacking 5,4,5
+2947,Advanced Networks 2,4,7
+2948,Advanced Cloud Computing 7,2,7
+2949,Applied Programming 4,4,7
+2950,Fundamentals of Networks 8,3,7
+2951,Introduction to Networks 2,3,1
+2952,Applied Data Structures 5,2,6
+2953,Fundamentals of Data Structures 5,3,2
+2954,Systems in Data Structures 9,3,1
+2955,Introduction to Ethical Hacking 3,4,1
+2956,Fundamentals of Database Systems 8,4,1
+2957,Systems in Networks 6,4,7
+2958,Systems in Data Structures 6,4,5
+2959,Advanced Machine Learning 9,4,6
+2960,Systems in Cloud Computing 9,4,5
+2961,Fundamentals of Database Systems 3,3,2
+2962,Advanced Database Systems 2,3,1
+2963,Applied Programming 6,2,8
+2964,Introduction to Data Structures 6,4,7
+2965,Advanced Machine Learning 6,4,8
+2966,Applied Networks 6,4,6
+2967,Applied Data Structures 7,3,1
+2968,Fundamentals of Database Systems 4,3,1
+2969,Advanced Networks 7,4,4
+2970,Systems in Programming 4,3,8
+2971,Fundamentals of Networks 1,4,8
+2972,Applied Networks 5,4,2
+2973,Fundamentals of Networks 5,2,1
+2974,Introduction to Data Structures 8,2,8
+2975,Introduction to Database Systems 2,3,8
+2976,Introduction to Cloud Computing 8,2,4
+2977,Systems in Data Structures 6,4,2
+2978,Introduction to Database Systems 3,4,5
+2979,Systems in Database Systems 1,3,8
+2980,Applied Database Systems 4,2,4
+2981,Systems in Ethical Hacking 2,3,4
+2982,Introduction to Data Structures 6,2,4
+2983,Advanced Database Systems 1,3,5
+2984,Applied Database Systems 5,3,3
+2985,Advanced Ethical Hacking 9,3,2
+2986,Fundamentals of Networks 5,3,8
+2987,Systems in Database Systems 4,3,8
+2988,Fundamentals of Ethical Hacking 6,2,1
+2989,Advanced Machine Learning 7,2,3
+2990,Systems in Data Structures 2,4,6
+2991,Applied Machine Learning 6,3,8
+2992,Systems in Data Structures 3,3,3
+2993,Advanced Ethical Hacking 7,4,5
+2994,Applied Database Systems 9,2,8
+2995,Advanced Programming 6,4,5
+2996,Applied Machine Learning 6,4,7
+2997,Advanced Programming 8,2,3
+2998,Introduction to Database Systems 3,3,8
+2077,Systems in Cloud Computing 4,2,6
+2078,Advanced Networks 8,2,7
+2079,Applied Machine Learning 9,3,2
+2080,Applied Data Structures 6,2,6
+2081,Applied Ethical Hacking 4,2,7
+2082,Advanced Networks 2,4,4
+2083,Systems in Machine Learning 2,4,2
+2084,Applied Networks 5,3,6
+2085,Applied Database Systems 7,3,4
+2086,Introduction to Database Systems 7,2,2
+2087,Fundamentals of Cloud Computing 4,2,8
+2088,Advanced Ethical Hacking 4,4,3
+2089,Applied Database Systems 6,4,3
+2090,Introduction to Programming 7,2,5
+2091,Advanced Database Systems 5,2,1
+2092,Advanced Cloud Computing 7,4,1
+2093,Introduction to Data Structures 9,4,8
+2094,Advanced Machine Learning 7,4,1
+2095,Fundamentals of Ethical Hacking 2,2,4
+2096,Applied Cloud Computing 6,2,1
+2097,Fundamentals of Data Structures 3,2,8
+2098,Advanced Machine Learning 4,3,7
+2099,Fundamentals of Networks 9,3,5
+2100,Systems in Networks 1,3,8
+2101,Applied Machine Learning 3,2,8
+2102,Advanced Machine Learning 1,2,1
+2103,Advanced Ethical Hacking 1,2,4
+2104,Advanced Database Systems 2,2,5
+2105,Advanced Networks 3,2,6
+2106,Advanced Networks 6,3,5
+2107,Fundamentals of Database Systems 8,3,2
+2108,Fundamentals of Cloud Computing 8,2,4
+2109,Introduction to Ethical Hacking 5,3,1
+2110,Introduction to Data Structures 8,2,2
+2111,Introduction to Programming 8,3,7
+2112,Advanced Programming 2,3,8
+2113,Advanced Database Systems 2,4,4
+2114,Advanced Data Structures 4,3,8
+2115,Introduction to Machine Learning 9,3,3
+2116,Advanced Machine Learning 9,4,3
+2117,Systems in Data Structures 3,3,4
+2118,Applied Data Structures 6,4,8
+2119,Advanced Networks 5,4,6
+2120,Introduction to Machine Learning 5,4,1
+2121,Advanced Ethical Hacking 6,3,1
+2122,Applied Machine Learning 7,4,5
+2123,Introduction to Networks 4,2,5
+2124,Advanced Cloud Computing 3,3,8
+2125,Introduction to Ethical Hacking 1,3,2
+2126,Fundamentals of Networks 1,4,1
+2127,Advanced Database Systems 8,2,4
+2128,Systems in Data Structures 7,2,6
+2129,Systems in Machine Learning 9,3,7
+2130,Introduction to Data Structures 6,2,7
+2131,Fundamentals of Cloud Computing 8,2,2
+2132,Applied Ethical Hacking 4,2,4
+2133,Introduction to Ethical Hacking 7,3,6
+2134,Introduction to Machine Learning 1,4,4
+2135,Systems in Data Structures 7,4,5
+2136,Advanced Machine Learning 9,3,8
+2137,Fundamentals of Programming 6,3,3
+2138,Introduction to Ethical Hacking 2,4,4
+2139,Systems in Database Systems 8,4,4
+2140,Applied Cloud Computing 7,3,6
+2141,Systems in Ethical Hacking 2,3,3
+2142,Introduction to Ethical Hacking 3,3,5
+2143,Introduction to Data Structures 4,3,5
+2144,Fundamentals of Programming 2,2,7
+2145,Applied Networks 8,4,1
+2146,Applied Networks 5,2,4
+2147,Introduction to Database Systems 5,3,3
+2148,Advanced Cloud Computing 1,3,7
+2149,Systems in Data Structures 5,4,7
+2150,Advanced Ethical Hacking 3,4,3
+2151,Introduction to Cloud Computing 9,3,3
+2152,Fundamentals of Programming 9,4,1
+2153,Applied Machine Learning 5,2,6
+2154,Introduction to Networks 3,4,5
+2155,Fundamentals of Ethical Hacking 4,4,7
+2156,Advanced Networks 3,2,7
+2157,Fundamentals of Machine Learning 3,2,1
+2158,Fundamentals of Machine Learning 6,2,6
+2159,Fundamentals of Ethical Hacking 9,4,5
+2160,Systems in Programming 7,2,7
+2161,Applied Database Systems 4,2,1
+2162,Introduction to Ethical Hacking 9,3,2
+2163,Advanced Database Systems 4,3,7
+2164,Advanced Cloud Computing 7,3,6
+2165,Fundamentals of Ethical Hacking 3,3,7
+2166,Applied Data Structures 5,4,7
+2167,Applied Networks 3,3,1
+2168,Fundamentals of Ethical Hacking 3,4,4
+2169,Advanced Programming 5,2,4
+2170,Advanced Programming 1,4,5
+2171,Systems in Networks 4,3,6
+2172,Systems in Machine Learning 9,2,4
+2173,Systems in Programming 5,4,7
+2174,Applied Data Structures 9,2,2
+2175,Systems in Machine Learning 9,4,8
+2176,Systems in Cloud Computing 6,4,2
+2177,Fundamentals of Ethical Hacking 2,3,8
+2178,Applied Cloud Computing 7,4,5
+2179,Systems in Programming 4,2,2
+2180,Systems in Networks 3,3,8
+2181,Introduction to Machine Learning 8,3,8
+2182,Systems in Cloud Computing 9,4,4
+2183,Introduction to Cloud Computing 2,3,5
+2184,Systems in Machine Learning 8,2,2
+2185,Applied Programming 9,4,4
+2186,Systems in Ethical Hacking 3,3,3
+2187,Fundamentals of Cloud Computing 2,4,2
+2188,Introduction to Machine Learning 7,3,5
+2189,Introduction to Networks 6,2,3
+2190,Systems in Networks 9,3,2
+2191,Advanced Ethical Hacking 7,3,7
+2192,Fundamentals of Networks 3,2,4
+2193,Advanced Cloud Computing 1,2,1
+2194,Applied Networks 8,2,4
+2195,Applied Ethical Hacking 9,2,2
+2196,Fundamentals of Cloud Computing 9,3,8
+2197,Introduction to Database Systems 4,4,4
+2198,Systems in Data Structures 9,3,7
+2199,Systems in Machine Learning 5,3,5
+2200,Applied Programming 4,3,8
+2201,Systems in Data Structures 6,3,2
+2202,Advanced Ethical Hacking 9,4,7
+2203,Fundamentals of Networks 9,3,4
+2204,Fundamentals of Ethical Hacking 6,3,6
+2205,Introduction to Programming 9,3,5
+2206,Introduction to Database Systems 8,2,5
+2207,Applied Data Structures 5,4,7
+2208,Applied Database Systems 6,2,5
+2209,Applied Ethical Hacking 6,3,2
+2210,Advanced Programming 1,4,8
+2211,Systems in Data Structures 1,3,3
+2212,Applied Networks 5,2,3
+2213,Introduction to Networks 7,2,2
+2214,Fundamentals of Cloud Computing 4,2,5
+2215,Advanced Data Structures 9,4,3
+2216,Applied Networks 5,3,3
+2217,Fundamentals of Data Structures 5,4,8
+2218,Introduction to Networks 2,3,7
+2219,Introduction to Ethical Hacking 1,4,5
+2220,Advanced Ethical Hacking 3,2,8
+2221,Fundamentals of Cloud Computing 9,2,1
+2222,Applied Programming 4,2,4
+2223,Systems in Data Structures 5,2,6
+2224,Applied Programming 8,3,4
+2225,Introduction to Database Systems 7,2,6
+2226,Fundamentals of Ethical Hacking 6,3,7
+2227,Fundamentals of Machine Learning 8,4,3
+2228,Introduction to Cloud Computing 8,2,3
+2229,Fundamentals of Data Structures 5,4,2
+2230,Advanced Networks 6,3,6
+2231,Introduction to Ethical Hacking 6,3,2
+2232,Applied Database Systems 9,4,8
+2233,Advanced Networks 3,2,1
+2234,Advanced Data Structures 9,2,5
+2235,Introduction to Cloud Computing 9,2,2
+2236,Advanced Programming 4,4,3
+2237,Advanced Cloud Computing 4,4,1
+2238,Fundamentals of Programming 4,3,5
+2239,Fundamentals of Data Structures 6,2,4
+2240,Introduction to Data Structures 3,2,1
+2241,Systems in Data Structures 5,2,1
+2242,Introduction to Cloud Computing 6,3,6
+2243,Applied Data Structures 9,4,5
+2244,Introduction to Database Systems 9,4,6
+2245,Fundamentals of Machine Learning 9,3,4
+2246,Systems in Cloud Computing 3,2,3
+2247,Introduction to Database Systems 6,2,6
+2248,Systems in Machine Learning 6,2,4
+2249,Fundamentals of Cloud Computing 8,2,2
+2250,Introduction to Database Systems 7,2,3
+2251,Applied Programming 2,3,3
+2252,Applied Networks 8,3,4
+2253,Applied Cloud Computing 5,4,5
+2254,Fundamentals of Database Systems 3,3,5
+2255,Advanced Machine Learning 3,2,1
+2256,Systems in Ethical Hacking 8,4,4
+2257,Advanced Ethical Hacking 2,2,6
+2258,Introduction to Cloud Computing 5,4,5
+2259,Introduction to Ethical Hacking 9,2,1
+2260,Introduction to Machine Learning 1,2,1
+2261,Introduction to Machine Learning 9,3,1
+2262,Introduction to Cloud Computing 3,3,4
+2263,Introduction to Programming 7,2,6
+2264,Fundamentals of Machine Learning 9,3,6
+2265,Systems in Networks 5,3,8
+2266,Introduction to Machine Learning 8,4,6
+2267,Advanced Machine Learning 4,3,3
+2268,Introduction to Ethical Hacking 6,2,2
+2269,Fundamentals of Ethical Hacking 1,3,1
+2270,Advanced Machine Learning 1,2,3
+2271,Fundamentals of Ethical Hacking 2,2,5
+2272,Introduction to Cloud Computing 7,4,5
+2273,Fundamentals of Networks 5,2,7
+2274,Applied Networks 1,3,4
+2275,Applied Ethical Hacking 5,4,6
+2276,Fundamentals of Programming 5,4,5
+2277,Systems in Ethical Hacking 7,2,7
+2278,Advanced Data Structures 2,3,5
+2279,Advanced Database Systems 5,2,2
+2280,Fundamentals of Data Structures 7,3,1
+2281,Advanced Data Structures 8,2,1
+2282,Fundamentals of Programming 6,4,5
+2283,Advanced Ethical Hacking 6,4,5
+2284,Fundamentals of Networks 8,2,8
+2285,Systems in Database Systems 9,2,4
+2286,Advanced Data Structures 2,3,1
+2287,Introduction to Machine Learning 1,3,1
+2288,Systems in Database Systems 2,4,8
+2289,Applied Machine Learning 4,3,2
+2290,Systems in Machine Learning 5,2,2
+2291,Introduction to Ethical Hacking 6,2,8
+2292,Fundamentals of Networks 3,3,8
+2293,Advanced Programming 5,4,7
+2294,Introduction to Cloud Computing 2,2,5
+2295,Systems in Database Systems 7,4,6
+2296,Fundamentals of Cloud Computing 9,2,1
+2297,Applied Data Structures 7,4,5
+2298,Introduction to Programming 8,2,3
+2299,Fundamentals of Networks 3,3,6
+2300,Systems in Machine Learning 2,4,5
+2301,Fundamentals of Networks 6,2,8
+2302,Fundamentals of Database Systems 2,3,1
+2303,Applied Ethical Hacking 2,3,2
+2304,Advanced Cloud Computing 6,2,7
+2305,Applied Database Systems 5,2,3
+2306,Applied Ethical Hacking 8,3,1
+2307,Introduction to Cloud Computing 3,3,1
+2308,Systems in Data Structures 8,3,1
+2309,Systems in Cloud Computing 2,3,3
+2310,Fundamentals of Networks 7,2,1
+2311,Advanced Database Systems 7,4,3
+2312,Fundamentals of Machine Learning 4,2,1
+2313,Systems in Machine Learning 9,2,7
+2314,Applied Machine Learning 3,4,2
+2315,Systems in Ethical Hacking 3,2,4
+2316,Systems in Cloud Computing 1,4,4
+2317,Advanced Programming 5,2,3
+2318,Applied Machine Learning 7,3,3
+2319,Advanced Ethical Hacking 2,2,2
+2320,Fundamentals of Cloud Computing 6,2,4
+2321,Systems in Machine Learning 2,4,1
+2322,Advanced Programming 2,2,7
+2323,Applied Cloud Computing 8,3,5
+2324,Systems in Programming 5,4,4
+2325,Advanced Programming 7,3,4
+2326,Fundamentals of Ethical Hacking 9,2,5
+2327,Systems in Ethical Hacking 1,3,5
+2328,Applied Ethical Hacking 5,3,2
+2329,Introduction to Cloud Computing 3,3,7
+2330,Advanced Ethical Hacking 6,2,5
+2331,Applied Cloud Computing 1,2,8
+2332,Systems in Ethical Hacking 6,4,2
+2333,Introduction to Machine Learning 6,2,4
+2334,Introduction to Programming 3,3,6
+2335,Fundamentals of Database Systems 8,2,3
+2336,Applied Database Systems 9,3,6
+2337,Applied Database Systems 8,3,3
+2338,Applied Machine Learning 1,3,1
+2339,Fundamentals of Ethical Hacking 4,4,7
+2340,Fundamentals of Machine Learning 9,2,4
+2341,Systems in Ethical Hacking 2,2,7
+2342,Introduction to Programming 9,3,5
+2343,Introduction to Data Structures 4,4,6
+2344,Fundamentals of Cloud Computing 9,2,3
+2345,Systems in Ethical Hacking 1,4,2
+2346,Advanced Data Structures 7,4,2
+2347,Fundamentals of Networks 3,2,4
+2348,Introduction to Database Systems 9,4,2
+2349,Fundamentals of Networks 1,3,3
+2350,Systems in Cloud Computing 4,3,4
+2351,Advanced Ethical Hacking 9,3,5
+2352,Introduction to Data Structures 8,3,7
+2353,Fundamentals of Database Systems 3,3,3
+2354,Applied Machine Learning 3,4,4
+2355,Systems in Database Systems 3,3,8
+2356,Advanced Programming 4,2,5
+2357,Advanced Networks 8,4,1
+2358,Advanced Cloud Computing 2,4,3
+2359,Fundamentals of Programming 5,4,6
+2360,Applied Programming 6,4,5
+2361,Applied Ethical Hacking 6,3,7
+2362,Applied Data Structures 5,4,5
+2363,Systems in Database Systems 1,2,1
+2364,Introduction to Database Systems 5,4,3
+2365,Advanced Database Systems 1,3,8
+2366,Introduction to Ethical Hacking 3,4,8
+2367,Advanced Networks 6,3,2
+2368,Applied Data Structures 2,2,8
+2369,Systems in Ethical Hacking 4,2,2
+2370,Applied Machine Learning 4,4,3
+2371,Systems in Machine Learning 4,3,7
+2372,Applied Networks 7,4,6
+2373,Systems in Database Systems 5,2,8
+2374,Applied Database Systems 5,4,6
+2375,Applied Networks 4,4,1
+2376,Fundamentals of Machine Learning 6,2,2
+2377,Applied Data Structures 9,2,4
+2378,Applied Programming 6,3,7
+2379,Applied Machine Learning 3,4,8
+2380,Systems in Networks 8,2,5
+2381,Introduction to Database Systems 4,3,1
+2382,Fundamentals of Cloud Computing 5,2,3
+2383,Applied Ethical Hacking 2,3,5
+2384,Systems in Database Systems 1,4,5
+2385,Introduction to Programming 9,4,4
+2386,Systems in Database Systems 8,3,7
+2387,Systems in Programming 5,3,2
+2388,Applied Networks 6,2,5
+2389,Applied Cloud Computing 1,2,8
+2390,Introduction to Database Systems 7,3,1
+2391,Advanced Networks 8,4,4
+2392,Fundamentals of Data Structures 6,3,2
+2393,Fundamentals of Machine Learning 6,4,8
+2394,Applied Data Structures 7,3,6
+2395,Advanced Cloud Computing 6,4,7
+2396,Systems in Machine Learning 9,4,1
+2397,Fundamentals of Database Systems 6,3,7
+2398,Introduction to Networks 8,4,6
+2399,Systems in Programming 9,4,8
+2400,Introduction to Database Systems 5,2,5
+2401,Introduction to Machine Learning 3,4,3
+2402,Introduction to Data Structures 1,3,8
+2403,Applied Cloud Computing 6,3,7
+2404,Fundamentals of Database Systems 1,3,5
+2405,Fundamentals of Machine Learning 7,2,8
+2406,Advanced Programming 2,2,4
+2407,Advanced Ethical Hacking 3,3,1
+2408,Applied Database Systems 7,4,2
+2409,Applied Data Structures 6,4,8
+2410,Fundamentals of Database Systems 8,3,5
+2411,Systems in Cloud Computing 7,2,6
+2412,Advanced Database Systems 8,2,2
+2413,Applied Networks 5,2,6
+2414,Systems in Data Structures 7,2,3
+2415,Systems in Ethical Hacking 9,3,4
+2416,Introduction to Data Structures 6,2,3
+2417,Introduction to Data Structures 6,2,3
+2418,Systems in Cloud Computing 4,3,6
+2419,Fundamentals of Data Structures 3,2,3
+2420,Fundamentals of Cloud Computing 1,4,7
+2421,Introduction to Machine Learning 5,3,1
+2422,Fundamentals of Ethical Hacking 4,2,7
+2423,Systems in Data Structures 2,4,6
+2424,Applied Programming 9,4,7
+2425,Applied Data Structures 6,4,1
+2426,Introduction to Networks 4,4,4
+2427,Introduction to Programming 1,2,8
+2428,Introduction to Cloud Computing 8,4,6
+2429,Systems in Ethical Hacking 9,2,2
+2430,Systems in Programming 8,3,5
+2431,Fundamentals of Ethical Hacking 7,4,7
+2432,Systems in Data Structures 6,4,8
+2433,Advanced Networks 5,2,8
+2434,Advanced Data Structures 7,4,2
+2435,Introduction to Machine Learning 3,4,5
+2436,Advanced Networks 6,3,3
+2437,Introduction to Programming 1,3,3
+2438,Systems in Programming 3,3,4
+2439,Introduction to Ethical Hacking 7,2,3
+2440,Applied Programming 4,2,5
+2441,Introduction to Machine Learning 6,2,3
+2442,Fundamentals of Machine Learning 1,3,5
+2443,Systems in Data Structures 7,3,7
+2444,Fundamentals of Cloud Computing 1,3,6
+2445,Systems in Machine Learning 5,4,2
+2446,Applied Ethical Hacking 7,3,8
+2447,Applied Ethical Hacking 3,2,2
+2448,Advanced Programming 1,4,2
+2449,Systems in Networks 7,2,1
+2450,Advanced Database Systems 5,3,6
+2451,Advanced Cloud Computing 3,4,8
+2452,Introduction to Ethical Hacking 4,3,6
+2453,Systems in Machine Learning 1,2,1
+2454,Systems in Database Systems 3,2,1
+2455,Introduction to Machine Learning 6,2,5
+2456,Advanced Database Systems 4,4,7
+2457,Fundamentals of Database Systems 2,4,6
+2458,Applied Data Structures 3,4,2
+2459,Fundamentals of Ethical Hacking 8,2,7
+2999,Systems in Networks 4,3,7
+3000,Fundamentals of Machine Learning 5,2,8
+3001,Introduction to Machine Learning 1,3,3
+3002,Advanced Database Systems 5,3,5
+3003,Systems in Database Systems 9,2,2
+3004,Fundamentals of Machine Learning 9,2,2
+3005,Systems in Networks 6,2,5
+3006,Introduction to Cloud Computing 8,4,3
+3007,Fundamentals of Database Systems 6,2,5
+3008,Advanced Data Structures 2,3,1
+3009,Applied Cloud Computing 4,3,5
+3010,Fundamentals of Database Systems 7,2,4
+3011,Systems in Database Systems 7,4,3
+3012,Systems in Programming 3,4,2
+3013,Fundamentals of Machine Learning 7,3,3
+3014,Advanced Networks 1,4,3
+3015,Applied Data Structures 2,3,1
+3016,Fundamentals of Ethical Hacking 4,2,6
+3017,Advanced Programming 7,2,7
+3018,Fundamentals of Machine Learning 4,3,3
+3019,Applied Ethical Hacking 8,2,4
+3020,Systems in Networks 2,2,7
+3021,Introduction to Networks 8,3,5
+3022,Introduction to Ethical Hacking 7,4,7
+3023,Applied Data Structures 7,2,6
+3024,Applied Programming 7,4,5
+3025,Introduction to Programming 4,4,4
+3026,Advanced Networks 9,3,7
+3027,Advanced Networks 5,3,6
+3028,Fundamentals of Database Systems 1,2,3
+3029,Systems in Database Systems 8,2,6
+3030,Advanced Programming 9,2,5
+3031,Introduction to Programming 3,2,6
+3032,Fundamentals of Data Structures 1,2,1
+3033,Advanced Ethical Hacking 4,4,8
+3034,Advanced Database Systems 6,4,1
+3035,Introduction to Machine Learning 5,2,5
+3036,Advanced Machine Learning 3,4,5
+3037,Systems in Programming 8,3,7
+3038,Advanced Machine Learning 3,4,3
+3039,Systems in Ethical Hacking 1,2,6
+3040,Advanced Machine Learning 5,4,2
+3041,Advanced Programming 8,4,5
+3042,Fundamentals of Machine Learning 4,4,3
+3043,Applied Networks 9,2,1
+3044,Fundamentals of Machine Learning 2,4,1
+3045,Advanced Networks 2,2,7
+3046,Systems in Networks 2,3,2
+3047,Introduction to Cloud Computing 3,3,2
+3048,Systems in Data Structures 7,3,1
+3049,Fundamentals of Machine Learning 8,2,6
+3050,Systems in Database Systems 6,3,7
+3051,Fundamentals of Machine Learning 1,4,3
+3052,Systems in Networks 4,3,5
+3053,Fundamentals of Cloud Computing 8,2,2
+3054,Applied Data Structures 8,2,6
+3055,Systems in Programming 6,3,5
+3056,Advanced Data Structures 3,4,6
+3057,Applied Cloud Computing 4,2,8
+3058,Advanced Machine Learning 4,3,4
+3059,Applied Ethical Hacking 3,4,2
+3060,Systems in Machine Learning 6,4,5
+3061,Fundamentals of Networks 3,4,7
+3062,Advanced Database Systems 8,2,6
+3063,Advanced Database Systems 1,4,3
+3064,Advanced Networks 6,3,8
+3065,Introduction to Data Structures 6,2,4
+3066,Applied Database Systems 2,2,7
+3067,Applied Ethical Hacking 2,3,5
+3068,Introduction to Networks 2,3,3
+3069,Advanced Data Structures 4,2,3
+3070,Systems in Machine Learning 8,3,5
+3071,Fundamentals of Programming 3,2,3
+3072,Advanced Machine Learning 5,3,6
+3073,Fundamentals of Machine Learning 5,4,6
+3074,Systems in Machine Learning 5,3,4
+3075,Introduction to Machine Learning 2,4,6
+3076,Introduction to Programming 4,2,7
+3077,Systems in Programming 6,3,8
+3078,Fundamentals of Data Structures 6,3,6
+3079,Systems in Cloud Computing 4,3,8
+3080,Applied Database Systems 2,4,4
+3081,Applied Data Structures 4,3,1
+3082,Fundamentals of Database Systems 8,4,6
+3083,Advanced Database Systems 2,3,3
+3084,Applied Networks 9,4,6
+3085,Advanced Networks 6,2,3
+3086,Systems in Ethical Hacking 5,3,1
+3087,Applied Database Systems 2,4,8
+3088,Applied Programming 7,3,6
+3089,Fundamentals of Database Systems 8,2,5
+3090,Introduction to Machine Learning 3,2,6
+3091,Fundamentals of Database Systems 7,4,5
+3092,Fundamentals of Cloud Computing 3,3,4
+3093,Introduction to Networks 7,4,1
+3094,Advanced Programming 7,2,4
+3095,Fundamentals of Ethical Hacking 4,3,1
+3096,Advanced Ethical Hacking 1,2,6
+3097,Advanced Programming 5,4,7
+3098,Systems in Networks 9,4,3
+3099,Advanced Machine Learning 5,4,3
+3100,Introduction to Data Structures 4,2,2
+3101,Fundamentals of Programming 7,3,4
+3102,Introduction to Machine Learning 9,3,7
+3103,Fundamentals of Database Systems 9,2,4
+3104,Applied Machine Learning 3,3,3
+3105,Applied Networks 1,2,5
+3106,Fundamentals of Database Systems 7,3,2
+3107,Fundamentals of Data Structures 6,3,3
+3108,Advanced Machine Learning 7,4,4
+3109,Introduction to Database Systems 7,3,6
+3110,Fundamentals of Machine Learning 3,3,2
+3111,Advanced Data Structures 4,2,8
+3112,Advanced Data Structures 7,3,6
+3113,Fundamentals of Cloud Computing 6,2,2
+3114,Fundamentals of Machine Learning 6,2,6
+3115,Fundamentals of Programming 9,2,6
+3116,Advanced Ethical Hacking 7,4,8
+3117,Advanced Networks 1,4,5
+3118,Advanced Database Systems 1,4,4
+3119,Applied Networks 5,4,7
+3120,Introduction to Programming 2,4,6
+3121,Fundamentals of Networks 6,3,6
+3122,Introduction to Database Systems 3,2,4
+3123,Applied Programming 2,3,3
+3124,Introduction to Machine Learning 5,2,6
+3125,Systems in Data Structures 6,4,6
+3126,Advanced Data Structures 7,2,3
+3127,Advanced Networks 1,4,1
+3128,Applied Networks 8,4,5
+3129,Introduction to Programming 9,4,1
+3130,Fundamentals of Machine Learning 5,3,8
+3131,Advanced Programming 1,4,8
+3132,Advanced Networks 8,3,5
+3133,Systems in Ethical Hacking 3,4,2
+3134,Introduction to Programming 2,3,3
+3135,Introduction to Data Structures 2,2,1
+3136,Applied Machine Learning 9,4,7
+3137,Advanced Programming 5,3,7
+3138,Advanced Ethical Hacking 1,3,1
+3139,Advanced Networks 9,3,7
+3140,Fundamentals of Networks 8,4,6
+3141,Systems in Database Systems 3,2,6
+3142,Fundamentals of Programming 3,2,7
+3143,Introduction to Data Structures 4,4,3
+3144,Applied Ethical Hacking 1,3,4
+3145,Fundamentals of Data Structures 1,4,3
+3146,Advanced Networks 8,3,2
+3147,Fundamentals of Database Systems 4,4,7
+3148,Advanced Database Systems 6,3,8
+3149,Applied Cloud Computing 6,2,2
+3150,Introduction to Ethical Hacking 9,3,3
+3151,Applied Machine Learning 8,3,5
+3152,Systems in Programming 1,3,8
+3153,Introduction to Machine Learning 6,3,6
+3154,Advanced Networks 7,3,6
+3155,Advanced Data Structures 2,2,4
+3156,Introduction to Ethical Hacking 7,2,2
+3157,Fundamentals of Networks 1,3,7
+3158,Systems in Machine Learning 3,4,8
+3159,Advanced Data Structures 8,2,4
+3160,Fundamentals of Database Systems 5,2,6
+3161,Advanced Programming 9,3,3
+3162,Systems in Data Structures 2,4,1
+3163,Introduction to Machine Learning 8,3,7
+3164,Fundamentals of Cloud Computing 9,2,3
+3165,Systems in Database Systems 7,3,7
+3166,Introduction to Programming 5,2,1
+3167,Applied Cloud Computing 3,2,1
+3168,Systems in Machine Learning 1,4,6
+3169,Advanced Machine Learning 5,2,4
+3170,Advanced Database Systems 3,2,1
+3171,Advanced Programming 2,3,8
+3172,Systems in Networks 3,3,3
+3173,Advanced Ethical Hacking 9,3,8
+3174,Advanced Cloud Computing 6,3,4
+3175,Introduction to Ethical Hacking 5,3,3
+3176,Introduction to Database Systems 1,4,2
+3177,Introduction to Ethical Hacking 5,3,4
+3178,Advanced Programming 7,4,8
+3179,Applied Ethical Hacking 4,4,8
+3180,Fundamentals of Database Systems 9,4,4
+3181,Applied Ethical Hacking 1,4,3
+3182,Applied Database Systems 8,3,5
+3183,Advanced Ethical Hacking 8,2,5
+3184,Advanced Programming 7,3,1
+3185,Systems in Ethical Hacking 2,3,5
+3186,Advanced Ethical Hacking 2,3,5
+3187,Advanced Cloud Computing 1,3,5
+3188,Applied Networks 7,3,7
+3189,Systems in Cloud Computing 6,3,5
+3190,Fundamentals of Programming 4,2,4
+3191,Introduction to Networks 7,2,7
+3192,Advanced Database Systems 2,4,7
+3193,Advanced Cloud Computing 1,2,5
+3194,Applied Database Systems 7,2,5
+3195,Advanced Networks 9,2,7
+3196,Fundamentals of Programming 2,2,1
+3197,Advanced Data Structures 9,3,4
+3198,Systems in Ethical Hacking 2,3,3
+3199,Advanced Programming 1,4,1
+3200,Introduction to Database Systems 9,3,4
+3201,Advanced Data Structures 7,4,5
+3202,Advanced Cloud Computing 6,4,8
+3203,Fundamentals of Data Structures 4,2,7
+3204,Systems in Database Systems 7,3,7
+3205,Introduction to Machine Learning 4,3,4
+3206,Fundamentals of Database Systems 4,4,1
+3207,Advanced Ethical Hacking 4,4,8
+3208,Applied Data Structures 9,4,4
+3209,Applied Ethical Hacking 9,2,8
+3210,Applied Data Structures 5,2,6
+3211,Fundamentals of Database Systems 3,3,2
+3212,Fundamentals of Ethical Hacking 3,3,1
+3213,Systems in Networks 9,4,4
+3214,Applied Machine Learning 4,4,4
+3215,Systems in Networks 3,4,8
+3216,Introduction to Cloud Computing 8,2,3
+3217,Fundamentals of Data Structures 7,3,5
+3218,Systems in Ethical Hacking 7,2,3
+3219,Applied Database Systems 7,2,3
+3220,Fundamentals of Cloud Computing 8,4,1
+3221,Applied Database Systems 1,4,6
+3222,Applied Machine Learning 3,4,3
+3223,Introduction to Database Systems 9,2,8
+3224,Fundamentals of Ethical Hacking 5,4,2
+3225,Advanced Database Systems 8,2,3
+3226,Applied Networks 6,2,7
+3227,Applied Cloud Computing 7,3,7
+3228,Advanced Cloud Computing 9,2,3
+3229,Systems in Data Structures 6,2,6
+3230,Introduction to Database Systems 2,2,7
+3231,Applied Machine Learning 4,2,3
+3232,Systems in Ethical Hacking 8,3,7
+3233,Fundamentals of Programming 5,4,8
+3234,Systems in Database Systems 8,2,4
+3235,Advanced Database Systems 4,3,4
+3236,Systems in Networks 3,4,6
+3237,Systems in Programming 3,3,4
+3238,Introduction to Networks 6,2,7
+3239,Advanced Cloud Computing 1,3,2
+3240,Fundamentals of Database Systems 1,3,2
+3241,Fundamentals of Programming 1,2,6
+3242,Introduction to Machine Learning 1,2,4
+3243,Introduction to Programming 2,3,4
+3244,Fundamentals of Machine Learning 6,2,3
+3245,Fundamentals of Networks 9,2,2
+3246,Applied Data Structures 5,3,1
+3247,Fundamentals of Ethical Hacking 3,4,3
+3248,Systems in Programming 5,2,6
+3249,Fundamentals of Cloud Computing 4,4,3
+3250,Advanced Cloud Computing 8,2,8
+3251,Fundamentals of Machine Learning 6,2,8
+3252,Applied Data Structures 9,3,8
+3253,Systems in Database Systems 5,3,4
+3254,Fundamentals of Database Systems 9,3,1
+3255,Systems in Data Structures 5,3,7
+3256,Systems in Data Structures 2,2,7
+3257,Fundamentals of Data Structures 4,3,2
+3258,Applied Cloud Computing 7,4,1
+3259,Systems in Networks 3,3,5
+3260,Fundamentals of Networks 7,4,2
+3261,Applied Ethical Hacking 3,4,4
+3262,Fundamentals of Ethical Hacking 8,3,6
+3263,Introduction to Programming 9,2,6
+3264,Fundamentals of Data Structures 8,4,5
+3265,Advanced Data Structures 6,3,5
+3266,Applied Database Systems 6,4,4
+3267,Fundamentals of Programming 2,4,3
+3268,Applied Database Systems 9,3,5
+3269,Fundamentals of Data Structures 3,3,4
+3270,Fundamentals of Ethical Hacking 8,2,5
+3271,Advanced Programming 6,3,1
+3272,Systems in Machine Learning 1,3,6
+3273,Fundamentals of Cloud Computing 7,4,5
+3274,Applied Programming 9,3,3
+3275,Advanced Machine Learning 2,4,3
+3276,Introduction to Programming 2,3,1
+3277,Fundamentals of Machine Learning 4,2,7
+3278,Applied Programming 4,2,2
+3279,Introduction to Cloud Computing 3,3,2
+3280,Fundamentals of Cloud Computing 9,3,5
+3281,Fundamentals of Ethical Hacking 4,3,2
+3282,Applied Database Systems 1,3,8
+3283,Applied Programming 6,3,2
+3284,Introduction to Networks 8,2,2
+3285,Fundamentals of Database Systems 3,3,5
+3286,Fundamentals of Programming 5,4,7
+3287,Systems in Database Systems 8,4,1
+3288,Fundamentals of Programming 6,2,4
+3289,Introduction to Ethical Hacking 4,2,1
+3290,Introduction to Ethical Hacking 9,2,2
+3291,Fundamentals of Data Structures 1,4,6
+3292,Introduction to Ethical Hacking 3,3,4
+3293,Advanced Ethical Hacking 2,3,7
+3294,Introduction to Cloud Computing 8,2,4
+3295,Introduction to Networks 5,4,2
+3296,Advanced Ethical Hacking 3,4,7
+3297,Fundamentals of Database Systems 5,3,3
+3298,Systems in Database Systems 5,2,5
+3299,Advanced Machine Learning 1,4,7
+3300,Systems in Cloud Computing 2,3,7
+3301,Applied Cloud Computing 1,3,5
+3302,Fundamentals of Ethical Hacking 3,2,5
+3303,Introduction to Ethical Hacking 5,4,1
+3304,Advanced Database Systems 4,3,3
+3305,Introduction to Networks 5,2,8
+3306,Systems in Machine Learning 7,4,6
+3307,Fundamentals of Cloud Computing 6,4,4
+3308,Introduction to Programming 7,4,6
+3309,Systems in Database Systems 3,2,4
+3310,Introduction to Cloud Computing 5,2,6
+3311,Advanced Networks 8,2,1
+3312,Introduction to Programming 7,3,5
+3313,Introduction to Database Systems 9,2,7
+3314,Systems in Machine Learning 3,2,3
+3315,Introduction to Ethical Hacking 1,3,4
+3316,Fundamentals of Ethical Hacking 5,4,3
+3317,Systems in Ethical Hacking 5,3,1
+3318,Fundamentals of Machine Learning 8,4,3
+3319,Introduction to Database Systems 4,4,6
+3320,Systems in Machine Learning 8,3,4
+3321,Applied Cloud Computing 7,2,7
+3322,Introduction to Networks 4,4,6
+3323,Applied Database Systems 6,2,4
+3324,Introduction to Networks 9,3,7
+3325,Advanced Cloud Computing 6,3,6
+3326,Introduction to Cloud Computing 9,2,3
+3327,Fundamentals of Programming 2,2,5
+3328,Introduction to Cloud Computing 7,4,4
+3329,Applied Database Systems 3,2,4
+3330,Fundamentals of Networks 4,2,5
+3331,Advanced Data Structures 9,4,6
+3332,Applied Networks 9,4,1
+3333,Fundamentals of Programming 2,2,5
+3334,Systems in Machine Learning 6,4,8
+3335,Systems in Database Systems 3,3,8
+3336,Fundamentals of Database Systems 3,3,2
+3337,Fundamentals of Ethical Hacking 8,4,5
+3338,Applied Ethical Hacking 1,2,2
+3339,Systems in Programming 2,4,7
+3340,Advanced Cloud Computing 7,3,3
+3341,Advanced Networks 5,2,6
+3342,Fundamentals of Machine Learning 4,4,4
+3343,Systems in Machine Learning 9,4,1
+3344,Applied Networks 4,2,3
+3345,Introduction to Database Systems 1,2,2
+3346,Fundamentals of Programming 5,4,5
+3347,Advanced Database Systems 1,2,6
+3348,Fundamentals of Networks 7,3,1
+3349,Introduction to Programming 2,2,7
+3350,Systems in Cloud Computing 2,4,1
+3351,Advanced Cloud Computing 7,3,6
+3352,Applied Programming 1,3,5
+3353,Introduction to Machine Learning 6,3,1
+3354,Advanced Data Structures 8,4,3
+3355,Applied Data Structures 2,4,4
+3356,Systems in Database Systems 6,3,7
+3357,Advanced Database Systems 3,3,1
+3358,Systems in Database Systems 9,3,5
+3359,Fundamentals of Cloud Computing 1,3,3
+3360,Fundamentals of Programming 3,3,1
+3361,Systems in Data Structures 9,3,4
+3362,Introduction to Networks 7,3,4
+3363,Advanced Database Systems 2,3,7
+3364,Advanced Machine Learning 9,2,3
+3365,Fundamentals of Programming 5,4,1
+3366,Advanced Programming 5,3,1
+3367,Fundamentals of Networks 1,4,4
+3368,Advanced Programming 7,3,6
+3369,Advanced Ethical Hacking 6,3,3
+3370,Systems in Networks 6,3,4
+3371,Advanced Programming 2,3,2
+3372,Applied Ethical Hacking 6,4,7
+3373,Advanced Data Structures 4,2,6
+3374,Fundamentals of Networks 8,3,5
+3375,Systems in Machine Learning 9,4,1
+3376,Fundamentals of Machine Learning 8,4,5
+3377,Introduction to Programming 8,2,3
+3378,Introduction to Cloud Computing 3,4,5
+3379,Applied Programming 6,4,6
+3380,Advanced Ethical Hacking 4,3,3
+3381,Fundamentals of Programming 7,4,1
+3382,Systems in Programming 6,3,6
+3383,Systems in Cloud Computing 9,3,1
+3384,Applied Database Systems 3,3,6
+3385,Systems in Programming 7,2,4
+3386,Systems in Networks 3,4,3
+3387,Introduction to Ethical Hacking 5,2,6
+3388,Advanced Cloud Computing 9,2,6
+3389,Applied Programming 1,4,3
+3390,Applied Database Systems 5,2,8
+3391,Introduction to Database Systems 3,4,1
+3392,Advanced Machine Learning 9,2,2
+3393,Applied Cloud Computing 3,3,5
+3394,Advanced Programming 1,3,6
+3395,Applied Ethical Hacking 1,3,7
+3396,Advanced Data Structures 2,4,5
+3397,Applied Networks 1,4,4
+3398,Systems in Cloud Computing 8,3,1
+3399,Applied Database Systems 9,2,6
+3400,Systems in Networks 8,3,4
+3401,Introduction to Machine Learning 8,2,2
+3402,Systems in Programming 2,4,5
+3403,Fundamentals of Ethical Hacking 8,3,8
+3404,Applied Ethical Hacking 8,3,7
+3405,Advanced Networks 6,2,3
+3406,Introduction to Machine Learning 1,4,1
+3407,Introduction to Programming 7,2,8
+3408,Systems in Networks 7,4,4
+3409,Systems in Networks 7,3,3
+3410,Applied Programming 3,2,3
+3411,Applied Networks 4,4,8
+3412,Applied Ethical Hacking 4,4,5
+3413,Applied Database Systems 9,2,8
+3414,Applied Data Structures 7,3,7
+3415,Advanced Database Systems 7,4,1
+3416,Introduction to Ethical Hacking 9,4,8
+3417,Introduction to Data Structures 1,4,4
+3418,Advanced Database Systems 3,4,4
+3419,Advanced Data Structures 8,2,4
+3420,Fundamentals of Ethical Hacking 4,3,2
+3421,Applied Networks 3,2,2
+3422,Introduction to Networks 6,3,2
+3423,Applied Ethical Hacking 9,2,5
+3424,Fundamentals of Cloud Computing 9,4,3
+3425,Introduction to Cloud Computing 4,2,7
+3426,Advanced Programming 2,2,8
+3427,Systems in Data Structures 3,4,2
+3428,Introduction to Cloud Computing 7,4,5
+3429,Fundamentals of Data Structures 2,2,4
+3430,Applied Database Systems 5,4,3
+3431,Advanced Networks 2,4,6
+3432,Introduction to Machine Learning 7,3,7
+3433,Advanced Programming 1,3,5
+3434,Fundamentals of Ethical Hacking 8,3,6
+3435,Systems in Machine Learning 1,4,8
+3436,Applied Programming 3,2,6
+3437,Systems in Database Systems 3,3,5
+3438,Advanced Machine Learning 6,4,1
+3439,Advanced Machine Learning 9,3,5
+3440,Systems in Networks 6,4,8
+3441,Systems in Programming 1,4,3
+3442,Fundamentals of Programming 9,2,4
+3443,Fundamentals of Networks 9,4,3
+3444,Introduction to Cloud Computing 5,2,1
+3445,Fundamentals of Cloud Computing 4,4,8
+3446,Advanced Cloud Computing 3,3,6
+3447,Advanced Ethical Hacking 2,3,1
+3448,Introduction to Cloud Computing 2,3,8
+3449,Systems in Networks 3,2,7
+3450,Introduction to Cloud Computing 5,3,7
+3451,Introduction to Networks 6,4,7
+3452,Applied Database Systems 9,3,5
+3453,Fundamentals of Cloud Computing 7,2,5
+3454,Introduction to Ethical Hacking 7,4,4
+3455,Systems in Networks 2,4,1
+3456,Systems in Ethical Hacking 3,4,4
+3457,Systems in Machine Learning 7,4,1
+3458,Fundamentals of Data Structures 9,2,5
+3459,Systems in Cloud Computing 2,4,1
+3460,Systems in Networks 5,4,5
+3461,Advanced Networks 3,3,8
+3462,Introduction to Database Systems 7,4,1
+3463,Applied Data Structures 3,2,1
+3464,Advanced Programming 1,4,1
+3465,Introduction to Networks 6,4,8
+3466,Applied Database Systems 6,3,6
+3467,Fundamentals of Database Systems 6,3,6
+3468,Applied Ethical Hacking 9,2,5
+3469,Applied Programming 8,4,6
+3470,Advanced Cloud Computing 4,3,7
+3471,Systems in Programming 3,3,4
+3472,Systems in Data Structures 7,4,6
+3473,Applied Machine Learning 2,2,6
+3474,Applied Networks 5,4,8
+3475,Applied Networks 3,2,5
+3476,Introduction to Cloud Computing 6,4,6
+3477,Applied Networks 5,3,3
+3478,Introduction to Machine Learning 2,3,4
+3479,Systems in Database Systems 4,2,4
+3480,Applied Ethical Hacking 6,2,3
+3481,Systems in Database Systems 6,3,3
+3482,Systems in Networks 4,2,6
+3483,Advanced Data Structures 4,4,1
+3484,Systems in Cloud Computing 3,3,2
+3485,Advanced Data Structures 5,2,3
+3486,Introduction to Ethical Hacking 7,3,8
+3487,Fundamentals of Machine Learning 3,3,4
+3488,Applied Networks 5,2,7
+3489,Applied Machine Learning 9,4,5
+3490,Applied Networks 9,2,4
+3491,Systems in Networks 1,3,7
+3492,Applied Networks 1,4,4
+3493,Fundamentals of Ethical Hacking 6,4,8
+3494,Advanced Networks 6,3,2
+3495,Systems in Programming 8,4,5
+3496,Advanced Cloud Computing 2,3,6
+3497,Advanced Programming 7,2,7
+3498,Introduction to Programming 9,2,6
+3499,Systems in Data Structures 8,3,6
+3500,Advanced Cloud Computing 1,2,8
+3501,Introduction to Ethical Hacking 7,4,6
+3502,Fundamentals of Networks 1,2,3
+3503,Applied Cloud Computing 7,4,6
+3504,Fundamentals of Programming 3,3,8
+3505,Advanced Database Systems 5,2,1
+3506,Fundamentals of Cloud Computing 2,4,5
+3507,Introduction to Machine Learning 6,3,6
+3508,Systems in Data Structures 6,2,1
+3509,Systems in Database Systems 9,3,6
+3510,Introduction to Database Systems 7,2,2
+3511,Applied Networks 4,2,7
+3512,Advanced Database Systems 9,3,8
+3513,Introduction to Machine Learning 8,2,2
+3514,Advanced Networks 5,3,7
+3515,Introduction to Data Structures 1,3,4
+3516,Applied Ethical Hacking 1,2,7
+3517,Systems in Cloud Computing 5,3,5
+3518,Fundamentals of Cloud Computing 8,3,4
+3519,Advanced Programming 8,4,8
+3520,Advanced Database Systems 1,3,4
+3521,Systems in Data Structures 4,3,7
+3522,Introduction to Data Structures 8,4,6
+3523,Introduction to Programming 7,4,6
+3524,Applied Programming 4,2,1
+3525,Systems in Programming 8,4,5
+3526,Applied Database Systems 5,4,4
+3527,Systems in Machine Learning 7,3,5
+3528,Applied Ethical Hacking 8,4,4
+3529,Applied Networks 7,3,7
+3530,Fundamentals of Ethical Hacking 5,2,6
+3531,Advanced Database Systems 5,4,2
+3532,Systems in Cloud Computing 9,3,1
+3533,Introduction to Ethical Hacking 7,4,1
+3534,Introduction to Programming 5,4,5
+3535,Applied Networks 3,3,8
+3536,Applied Machine Learning 7,2,7
+3537,Fundamentals of Data Structures 1,2,2
+3538,Applied Programming 5,2,1
+3539,Fundamentals of Machine Learning 6,3,1
+3540,Systems in Database Systems 9,4,6
+3541,Applied Ethical Hacking 6,3,1
+3542,Advanced Networks 2,2,8
+3543,Introduction to Cloud Computing 8,3,2
+3544,Introduction to Programming 2,3,5
+3545,Applied Data Structures 4,4,2
+3546,Applied Cloud Computing 6,3,5
+3547,Fundamentals of Networks 6,2,2
+3548,Systems in Database Systems 4,3,6
+3549,Advanced Ethical Hacking 8,2,2
+3550,Introduction to Database Systems 5,4,1
+3551,Systems in Ethical Hacking 9,2,4
+3552,Fundamentals of Ethical Hacking 9,4,7
+3553,Systems in Ethical Hacking 4,4,7
+3554,Fundamentals of Programming 2,3,7
+3555,Advanced Cloud Computing 2,2,5
+3556,Introduction to Cloud Computing 3,3,2
+3557,Systems in Ethical Hacking 2,4,2
+3558,Applied Machine Learning 4,3,6
+3559,Introduction to Cloud Computing 6,2,6
+3560,Fundamentals of Networks 4,3,8
+3561,Advanced Machine Learning 2,3,6
+3562,Applied Networks 6,3,7
+3563,Applied Programming 3,4,8
+3564,Systems in Cloud Computing 5,4,1
+3565,Fundamentals of Data Structures 6,2,7
+3566,Systems in Ethical Hacking 3,3,8
+3567,Fundamentals of Machine Learning 3,2,7
+3568,Applied Machine Learning 7,2,3
+3569,Introduction to Machine Learning 9,4,4
+3570,Applied Programming 9,3,1
+3571,Fundamentals of Programming 9,2,3
+3572,Systems in Networks 5,4,8
+3573,Advanced Ethical Hacking 7,3,8
+3574,Applied Programming 5,4,1
+3575,Applied Programming 1,4,1
+3576,Advanced Ethical Hacking 8,4,3
+3577,Applied Data Structures 9,2,5
+3578,Introduction to Networks 4,2,7
+3579,Introduction to Database Systems 1,4,7
+3580,Advanced Machine Learning 1,3,2
+3581,Introduction to Networks 2,3,4
+3582,Fundamentals of Data Structures 5,4,1
+3583,Advanced Networks 8,3,2
+3584,Systems in Cloud Computing 2,4,2
+3585,Introduction to Cloud Computing 7,3,8
+3586,Advanced Networks 3,4,5
+3587,Systems in Ethical Hacking 2,4,2
+3588,Introduction to Networks 6,2,3
+3589,Introduction to Cloud Computing 4,2,8
+3590,Fundamentals of Machine Learning 6,3,5
+3591,Fundamentals of Data Structures 1,4,1
+3592,Systems in Ethical Hacking 5,2,6
+3593,Systems in Programming 9,4,2
+3594,Advanced Cloud Computing 5,3,4
+3595,Introduction to Programming 8,3,8
+3596,Introduction to Ethical Hacking 2,4,6
+3597,Introduction to Networks 2,3,2
+3598,Advanced Cloud Computing 5,3,8
+3599,Applied Database Systems 2,3,8
+3600,Applied Database Systems 2,4,1
+3601,Fundamentals of Networks 7,3,2
+3602,Introduction to Ethical Hacking 7,2,1
+3603,Advanced Cloud Computing 1,3,1
+3604,Systems in Programming 4,3,7
+3605,Fundamentals of Database Systems 2,2,2
+3606,Advanced Cloud Computing 7,4,7
+3607,Introduction to Ethical Hacking 2,3,3
+3608,Systems in Cloud Computing 1,3,1
+3609,Advanced Programming 9,3,5
+3610,Systems in Cloud Computing 7,3,4
+3611,Introduction to Data Structures 5,3,6
+3612,Introduction to Cloud Computing 7,2,8
+3613,Fundamentals of Machine Learning 6,2,8
+3614,Advanced Data Structures 1,4,8
+3615,Fundamentals of Programming 8,3,3
+3616,Systems in Networks 1,4,3
+3617,Advanced Cloud Computing 2,2,8
+3618,Advanced Ethical Hacking 7,3,2
+3619,Systems in Networks 3,2,1
+3620,Applied Networks 5,4,5
+3621,Applied Programming 3,4,4
+3622,Fundamentals of Machine Learning 9,3,4
+3623,Advanced Programming 3,2,7
+3624,Advanced Cloud Computing 5,4,4
+3625,Introduction to Networks 6,3,8
+3626,Introduction to Database Systems 3,3,1
+3627,Applied Data Structures 2,4,1
+3628,Introduction to Programming 5,4,8
+3629,Fundamentals of Machine Learning 7,4,2
+3630,Fundamentals of Networks 4,2,3
+3631,Introduction to Programming 8,4,2
+3632,Systems in Data Structures 9,3,2
+3633,Advanced Database Systems 3,2,4
+3634,Advanced Networks 2,3,1
+3635,Advanced Programming 9,3,1
+3636,Introduction to Networks 8,3,8
+3637,Systems in Database Systems 6,3,5
+3638,Systems in Database Systems 7,4,7
+3639,Applied Programming 7,4,2
+3640,Fundamentals of Machine Learning 5,2,7
+3641,Applied Ethical Hacking 4,3,3
+3642,Advanced Database Systems 6,4,4
+3643,Advanced Cloud Computing 1,2,3
+3644,Applied Programming 1,2,8
+3645,Introduction to Data Structures 4,3,1
+3646,Advanced Machine Learning 7,4,6
+3647,Fundamentals of Networks 4,2,4
+3648,Advanced Programming 1,3,4
+3649,Fundamentals of Programming 1,3,2
+3650,Applied Networks 7,4,3
+3651,Introduction to Data Structures 1,3,8
+3652,Fundamentals of Data Structures 2,2,8
+3653,Introduction to Programming 6,2,3
+3654,Introduction to Cloud Computing 9,3,7
+3655,Fundamentals of Machine Learning 1,2,6
+3656,Applied Programming 2,4,5
+3657,Introduction to Programming 2,4,2
+3658,Systems in Database Systems 1,3,3
+3659,Introduction to Database Systems 4,3,5
+3660,Advanced Programming 6,2,1
+3661,Systems in Networks 5,4,4
+3662,Introduction to Data Structures 5,3,1
+3663,Systems in Machine Learning 6,4,4
+3664,Fundamentals of Ethical Hacking 7,3,2
+3665,Introduction to Database Systems 1,4,7
+3666,Applied Ethical Hacking 9,4,4
+3667,Fundamentals of Programming 2,2,3
+3668,Introduction to Ethical Hacking 5,2,8
+3669,Fundamentals of Programming 8,2,1
+3670,Fundamentals of Machine Learning 7,4,3
+3671,Systems in Cloud Computing 9,3,5
+3672,Systems in Networks 9,3,4
+3673,Introduction to Cloud Computing 4,4,6
+3674,Applied Ethical Hacking 1,3,3
+3675,Systems in Cloud Computing 4,3,3
+3676,Applied Cloud Computing 2,4,2
+3677,Advanced Database Systems 2,2,4
+3678,Applied Programming 9,3,6
+3679,Advanced Database Systems 6,3,6
+3680,Applied Machine Learning 8,4,3
+3681,Fundamentals of Cloud Computing 2,2,2
+3682,Advanced Programming 9,2,8
+3683,Introduction to Ethical Hacking 3,2,4
+3684,Fundamentals of Data Structures 4,2,2
+3685,Systems in Data Structures 4,3,2
+3686,Systems in Ethical Hacking 2,3,3
+3687,Fundamentals of Machine Learning 1,4,4
+3688,Systems in Database Systems 7,4,6
+3689,Systems in Networks 1,4,7
+3690,Introduction to Ethical Hacking 8,3,1
+3691,Introduction to Ethical Hacking 1,3,1
+3692,Introduction to Cloud Computing 4,2,7
+3693,Advanced Machine Learning 4,4,4
+3694,Systems in Data Structures 5,2,6
+3695,Applied Cloud Computing 4,3,3
+3696,Fundamentals of Data Structures 2,2,4
+3697,Systems in Ethical Hacking 1,3,3
+3698,Introduction to Programming 1,4,4
+3699,Advanced Cloud Computing 1,4,3
+3700,Systems in Ethical Hacking 3,4,6
+3701,Applied Networks 5,3,3
+3702,Applied Cloud Computing 7,4,2
+3703,Introduction to Cloud Computing 1,4,5
+3704,Systems in Ethical Hacking 7,2,8
+3705,Advanced Cloud Computing 3,4,5
+3706,Applied Cloud Computing 6,4,2
+3707,Systems in Ethical Hacking 5,3,1
+3708,Applied Networks 2,3,5
+3709,Applied Networks 6,3,3
+3710,Introduction to Machine Learning 4,2,6
+3711,Applied Machine Learning 5,2,5
+3712,Introduction to Data Structures 2,4,5
+3713,Systems in Machine Learning 7,3,2
+3714,Advanced Cloud Computing 2,3,7
+3715,Introduction to Cloud Computing 9,3,6
+3716,Advanced Database Systems 5,2,6
+3717,Advanced Ethical Hacking 1,4,2
+3718,Systems in Networks 1,2,6
+3719,Fundamentals of Data Structures 5,3,8
+3720,Fundamentals of Ethical Hacking 4,3,2
+3721,Advanced Database Systems 3,2,3
+3722,Introduction to Data Structures 2,4,7
+3723,Introduction to Database Systems 9,4,8
+3724,Advanced Machine Learning 5,3,2
+3725,Introduction to Ethical Hacking 1,3,1
+3726,Applied Data Structures 4,3,4
+3727,Systems in Data Structures 6,2,8
+3728,Systems in Ethical Hacking 2,2,6
+3729,Fundamentals of Database Systems 5,2,2
+3730,Systems in Database Systems 2,4,4
+3731,Systems in Machine Learning 1,3,6
+3732,Advanced Machine Learning 2,4,6
+3733,Introduction to Database Systems 1,4,1
+3734,Applied Database Systems 9,2,3
+3735,Introduction to Ethical Hacking 7,4,4
+3736,Systems in Networks 7,2,2
+3737,Systems in Data Structures 8,2,1
+3738,Systems in Data Structures 7,3,3
+3739,Fundamentals of Cloud Computing 8,2,5
+3740,Applied Database Systems 6,3,7
+3741,Advanced Machine Learning 5,3,1
+3742,Introduction to Data Structures 8,2,7
+3743,Systems in Machine Learning 7,2,3
+3744,Fundamentals of Database Systems 4,3,3
+3745,Fundamentals of Ethical Hacking 2,4,4
+3746,Advanced Data Structures 5,2,6
+3747,Introduction to Database Systems 7,2,8
+3748,Advanced Networks 5,3,6
+3749,Applied Ethical Hacking 7,3,5
+3750,Systems in Programming 4,4,5
+3751,Advanced Programming 6,3,1
+3752,Introduction to Database Systems 5,3,4
+3753,Systems in Data Structures 9,3,5
+3754,Fundamentals of Programming 4,4,7
+3755,Advanced Machine Learning 5,3,8
+3756,Introduction to Machine Learning 4,2,7
+3757,Introduction to Programming 7,4,3
+3758,Applied Ethical Hacking 2,3,6
+3759,Applied Ethical Hacking 9,2,2
+3760,Systems in Database Systems 8,3,1
+3761,Introduction to Programming 9,3,7
+3762,Advanced Cloud Computing 8,3,5
+3763,Advanced Programming 8,2,1
+3764,Advanced Cloud Computing 4,4,6
+3765,Advanced Database Systems 6,4,5
+3766,Applied Networks 2,4,6
+3767,Advanced Machine Learning 9,2,3
+3768,Applied Cloud Computing 6,2,7
+3769,Advanced Ethical Hacking 5,2,3
+3770,Applied Cloud Computing 5,4,5
+3771,Fundamentals of Database Systems 7,2,2
+3772,Advanced Ethical Hacking 2,2,4
+3773,Applied Ethical Hacking 8,3,4
+3774,Systems in Ethical Hacking 5,3,1
+3775,Systems in Networks 3,3,5
+3776,Applied Data Structures 7,4,7
+3777,Systems in Data Structures 9,3,3
+3778,Fundamentals of Ethical Hacking 1,2,7
+3779,Applied Networks 6,3,4
+3780,Systems in Ethical Hacking 7,4,8
+3781,Introduction to Machine Learning 9,3,8
+3782,Systems in Programming 3,2,7
+3783,Systems in Ethical Hacking 8,3,2
+3784,Introduction to Networks 9,4,2
+3785,Advanced Programming 2,2,8
+3786,Systems in Networks 8,3,7
+3787,Advanced Cloud Computing 2,4,8
+3788,Applied Cloud Computing 4,2,6
+3789,Fundamentals of Programming 6,3,8
+3790,Advanced Data Structures 8,2,3
+3791,Fundamentals of Programming 9,4,1
+3792,Introduction to Machine Learning 8,2,7
+3793,Applied Networks 8,3,1
+3794,Introduction to Networks 2,3,7
+3795,Introduction to Networks 8,4,6
+3796,Fundamentals of Cloud Computing 6,4,4
+3797,Systems in Programming 8,2,5
+3798,Applied Networks 4,2,5
+3799,Systems in Programming 8,4,7
+3800,Advanced Networks 1,4,8
+3801,Advanced Cloud Computing 8,4,7
+3802,Applied Machine Learning 5,2,3
+3803,Systems in Machine Learning 4,4,5
+3804,Fundamentals of Ethical Hacking 4,3,7
+3805,Introduction to Database Systems 3,2,6
+3806,Introduction to Database Systems 4,2,2
+3807,Introduction to Machine Learning 2,3,6
+3808,Applied Ethical Hacking 4,2,8
+3809,Fundamentals of Ethical Hacking 9,4,5
+3810,Advanced Networks 1,3,5
+3811,Fundamentals of Ethical Hacking 1,4,8
+3812,Fundamentals of Ethical Hacking 9,4,2
+3813,Fundamentals of Database Systems 4,3,4
+3814,Introduction to Data Structures 7,2,4
+3815,Fundamentals of Machine Learning 2,4,1
+3816,Fundamentals of Cloud Computing 4,3,3
+3817,Systems in Programming 9,4,3
+3818,Introduction to Database Systems 9,3,5
+3819,Advanced Machine Learning 5,4,8
+3820,Systems in Data Structures 6,4,5
+3821,Advanced Data Structures 2,4,2
+3822,Applied Database Systems 5,4,2
+3823,Systems in Machine Learning 5,2,5
+3824,Applied Ethical Hacking 6,3,5
+3825,Applied Networks 3,3,5
+3826,Systems in Programming 8,2,6
+3827,Fundamentals of Data Structures 5,3,4
+3828,Advanced Programming 7,3,6
+3829,Introduction to Cloud Computing 9,3,3
+3830,Introduction to Programming 1,4,4
+3831,Introduction to Networks 7,4,8
+3832,Fundamentals of Cloud Computing 6,3,1
+3833,Applied Ethical Hacking 6,4,7
+3834,Introduction to Data Structures 6,2,2
+3835,Applied Programming 7,2,2
+3836,Applied Machine Learning 3,4,4
+3837,Fundamentals of Machine Learning 4,3,2
+3838,Systems in Networks 6,2,1
+3839,Applied Cloud Computing 9,3,3
+3840,Introduction to Networks 7,3,2
+3841,Systems in Networks 5,2,8
+3842,Introduction to Database Systems 7,3,3
+3843,Fundamentals of Data Structures 4,2,6
+3844,Fundamentals of Database Systems 7,2,2
+3845,Fundamentals of Database Systems 8,3,8
+3846,Introduction to Cloud Computing 9,3,7
+3847,Applied Machine Learning 8,2,8
+3848,Advanced Networks 6,3,4
+3849,Fundamentals of Networks 9,3,5
+3850,Fundamentals of Networks 7,4,8
+3851,Applied Cloud Computing 3,2,7
+3852,Introduction to Machine Learning 3,2,1
+3853,Advanced Data Structures 1,4,5
+3854,Fundamentals of Networks 2,3,6
+3855,Fundamentals of Networks 4,4,2
+3856,Systems in Programming 8,4,6
+3857,Introduction to Programming 8,2,1
+3858,Advanced Cloud Computing 5,3,1
+3859,Advanced Machine Learning 7,2,7
+3860,Advanced Database Systems 8,3,1
+3861,Advanced Networks 3,2,1
+3862,Introduction to Machine Learning 2,4,6
+3863,Applied Data Structures 3,4,6
+3864,Introduction to Database Systems 7,4,1
+3865,Fundamentals of Machine Learning 4,2,8
+3866,Applied Data Structures 1,2,5
+3867,Introduction to Cloud Computing 9,3,8
+3868,Systems in Networks 4,2,7
+3869,Advanced Networks 8,2,7
+3870,Applied Cloud Computing 9,4,5
+3871,Introduction to Data Structures 9,4,5
+3872,Fundamentals of Networks 9,2,3
+3873,Fundamentals of Cloud Computing 8,3,5
+3874,Systems in Database Systems 3,4,6
+3875,Applied Ethical Hacking 4,4,1
+3876,Fundamentals of Database Systems 5,3,6
+3877,Systems in Networks 1,2,5
+3878,Systems in Data Structures 6,4,6
+3879,Systems in Networks 5,4,7
+3880,Introduction to Machine Learning 6,3,3
+3881,Introduction to Data Structures 7,3,7
+3882,Advanced Machine Learning 6,2,5
+3883,Systems in Machine Learning 2,3,6
+3884,Applied Ethical Hacking 2,2,4
+3885,Applied Networks 4,2,4
+3886,Fundamentals of Ethical Hacking 4,2,1
+3887,Systems in Ethical Hacking 9,4,5
+3888,Advanced Ethical Hacking 8,4,1
+3889,Applied Database Systems 9,4,1
+3890,Fundamentals of Cloud Computing 9,2,8
+3891,Introduction to Data Structures 7,2,2
+3892,Advanced Ethical Hacking 2,3,7
+3893,Introduction to Ethical Hacking 3,3,3
+3894,Fundamentals of Networks 9,4,2
+3895,Systems in Networks 8,2,5
+3896,Introduction to Machine Learning 8,3,2
+3897,Introduction to Data Structures 4,2,8
+3898,Systems in Cloud Computing 2,4,3
+3899,Applied Data Structures 9,2,7
+3900,Applied Programming 9,4,3
+3901,Fundamentals of Cloud Computing 3,2,6
+3902,Systems in Cloud Computing 3,2,4
+3903,Systems in Programming 6,2,4
+3904,Systems in Programming 8,4,1
+3905,Applied Database Systems 6,3,2
+3906,Advanced Cloud Computing 8,2,2
+3907,Advanced Machine Learning 3,2,5
+3908,Systems in Machine Learning 5,3,5
+3909,Advanced Ethical Hacking 8,3,2
+3910,Applied Ethical Hacking 1,4,8
+3911,Introduction to Data Structures 6,4,7
+3912,Systems in Machine Learning 9,2,3
+3913,Fundamentals of Machine Learning 6,3,8
+3914,Fundamentals of Data Structures 2,4,3
+3915,Systems in Data Structures 6,4,2
+3916,Introduction to Networks 7,3,5
+3917,Systems in Machine Learning 2,4,3
+3918,Applied Ethical Hacking 5,4,2
+3919,Advanced Networks 5,2,2
+3920,Applied Ethical Hacking 3,3,7
+3921,Systems in Networks 8,3,5
+3922,Applied Networks 4,4,7
+3923,Systems in Programming 9,3,8
+3924,Introduction to Database Systems 3,3,2
+3925,Fundamentals of Database Systems 3,2,7
+3926,Advanced Data Structures 7,2,4
+3927,Fundamentals of Ethical Hacking 8,3,1
+3928,Applied Cloud Computing 1,4,5
+3929,Advanced Programming 2,2,3
+3930,Fundamentals of Ethical Hacking 6,2,8
+3931,Introduction to Database Systems 8,4,1
+3932,Applied Cloud Computing 9,3,2
+3933,Introduction to Programming 3,2,6
+3934,Applied Ethical Hacking 3,3,1
+3935,Applied Ethical Hacking 5,4,4
+3936,Applied Ethical Hacking 8,4,1
+3937,Systems in Networks 4,4,6
+3938,Introduction to Machine Learning 5,3,2
+3939,Applied Machine Learning 2,4,3
+3940,Fundamentals of Database Systems 6,4,6
+3941,Introduction to Ethical Hacking 9,3,3
+3942,Introduction to Database Systems 6,3,3
+3943,Advanced Networks 7,3,6
+3944,Systems in Machine Learning 2,2,6
+3945,Introduction to Ethical Hacking 3,2,5
+3946,Fundamentals of Programming 5,4,8
+3947,Applied Programming 2,3,7
+3948,Applied Machine Learning 9,3,6
+3949,Advanced Ethical Hacking 3,4,8
+3950,Introduction to Programming 4,4,7
+3951,Systems in Networks 3,2,5
+3952,Introduction to Data Structures 2,2,8
+3953,Advanced Machine Learning 9,3,2
+3954,Fundamentals of Cloud Computing 4,4,4
+3955,Systems in Machine Learning 8,4,5
+3956,Advanced Networks 2,2,5
+3957,Introduction to Machine Learning 8,4,3
+3958,Systems in Data Structures 8,3,1
+3959,Advanced Data Structures 4,4,3
+3960,Applied Data Structures 6,2,4
+3961,Fundamentals of Ethical Hacking 4,4,3
+3962,Fundamentals of Ethical Hacking 6,3,1
+3963,Advanced Data Structures 8,4,3
+3964,Introduction to Cloud Computing 2,3,1
+3965,Introduction to Machine Learning 2,3,8
+3966,Introduction to Data Structures 5,2,6
+3967,Fundamentals of Ethical Hacking 8,3,2
+3968,Systems in Data Structures 6,2,5
+3969,Applied Networks 4,3,1
+3970,Advanced Programming 3,4,2
+3971,Systems in Networks 6,2,5
+3972,Systems in Cloud Computing 2,4,4
+3973,Fundamentals of Programming 2,3,5
+3974,Systems in Database Systems 1,4,6
+3975,Applied Programming 6,3,2
+3976,Introduction to Networks 2,2,7
+3977,Fundamentals of Data Structures 4,2,8
+3978,Applied Data Structures 5,4,7
+3979,Fundamentals of Database Systems 3,3,3
+3980,Introduction to Networks 8,4,5
+3981,Applied Programming 7,3,5
+3982,Introduction to Networks 5,2,2
+3983,Systems in Machine Learning 4,3,2
+3984,Applied Networks 9,2,8
+3985,Systems in Data Structures 8,3,4
+3986,Advanced Machine Learning 9,3,3
+3987,Advanced Database Systems 2,4,6
+3988,Systems in Ethical Hacking 3,3,8
+3989,Introduction to Cloud Computing 9,2,7
+3990,Introduction to Networks 2,4,2
+3991,Fundamentals of Data Structures 5,3,5
+3992,Advanced Machine Learning 5,3,5
+3993,Systems in Data Structures 4,2,8
+3994,Applied Cloud Computing 2,2,4
+3995,Advanced Machine Learning 5,2,5
+3996,Applied Database Systems 3,4,8
+3997,Introduction to Machine Learning 6,4,2
+3998,Advanced Data Structures 7,4,1
+3999,Advanced Cloud Computing 1,4,3
+4000,Systems in Networks 7,4,4
+4001,Advanced Database Systems 5,3,6
+4002,Systems in Machine Learning 2,4,2
+4003,Advanced Machine Learning 3,3,4
+4004,Introduction to Machine Learning 9,2,7
+4005,Introduction to Networks 9,2,1
+4006,Fundamentals of Database Systems 6,2,5
+4007,Advanced Ethical Hacking 9,2,3
+4008,Advanced Programming 4,4,5
+4009,Systems in Networks 2,2,4
+4010,Introduction to Programming 8,2,7
+4011,Advanced Cloud Computing 4,2,8
+4012,Fundamentals of Networks 9,2,7
+4013,Applied Data Structures 4,3,1
+4014,Applied Data Structures 6,3,1
+4015,Applied Data Structures 7,3,4
+4016,Systems in Machine Learning 7,4,3
+4017,Applied Programming 2,2,8
+4018,Fundamentals of Programming 2,2,4
+4019,Introduction to Ethical Hacking 8,4,3
+4020,Fundamentals of Ethical Hacking 3,4,6
+4021,Introduction to Networks 4,3,5
+4022,Fundamentals of Programming 3,4,6
+4023,Applied Data Structures 2,2,4
+4024,Advanced Networks 4,2,2
+4025,Introduction to Machine Learning 9,2,4
+4026,Fundamentals of Cloud Computing 4,4,5
+4027,Introduction to Programming 8,3,2
+4028,Applied Machine Learning 7,2,7
+4029,Systems in Networks 3,2,2
+4030,Advanced Machine Learning 7,2,3
+4031,Fundamentals of Database Systems 2,2,7
+4032,Systems in Programming 9,3,7
+4033,Systems in Machine Learning 5,4,8
+4034,Systems in Networks 4,2,1
+4035,Advanced Machine Learning 4,3,8
+4036,Advanced Machine Learning 7,2,5
+4037,Fundamentals of Networks 9,4,1
+4038,Applied Programming 7,3,1
+4039,Applied Machine Learning 7,2,7
+4040,Applied Programming 7,3,3
+4041,Systems in Programming 1,2,7
+4042,Fundamentals of Cloud Computing 9,2,1
+4043,Introduction to Data Structures 5,2,1
+4044,Introduction to Ethical Hacking 3,3,8
+4045,Systems in Programming 2,3,5
+4046,Systems in Cloud Computing 6,3,1
+4047,Applied Cloud Computing 2,3,2
+4048,Advanced Ethical Hacking 7,4,3
+4049,Applied Data Structures 6,3,6
+4050,Advanced Machine Learning 2,4,8
+4051,Advanced Machine Learning 1,4,6
+4052,Systems in Ethical Hacking 5,4,1
+4053,Applied Programming 6,2,8
+4054,Applied Cloud Computing 7,4,8
+4055,Systems in Programming 3,2,3
+4056,Introduction to Programming 2,3,2
+4057,Introduction to Cloud Computing 6,2,3
+4058,Applied Data Structures 5,2,8
+4059,Applied Programming 9,4,8
+4060,Systems in Cloud Computing 9,3,5
+4061,Applied Data Structures 7,3,8
+4062,Systems in Machine Learning 6,4,4
+4063,Applied Programming 7,3,1
+4064,Introduction to Programming 9,4,2
+4065,Systems in Cloud Computing 7,2,8
+4066,Systems in Cloud Computing 5,4,6
+4067,Systems in Database Systems 2,3,7
+4068,Advanced Data Structures 4,4,4
+4069,Fundamentals of Networks 3,4,4
+4070,Systems in Data Structures 7,2,1
+4071,Advanced Data Structures 4,3,1
+4072,Applied Programming 8,3,1
+4073,Introduction to Cloud Computing 1,4,6
+4074,Applied Machine Learning 2,2,8
+4075,Fundamentals of Data Structures 5,3,3
+4076,Systems in Data Structures 3,2,2
+4077,Introduction to Cloud Computing 1,3,3
+4078,Advanced Machine Learning 5,2,8
+4079,Systems in Data Structures 5,4,7
+4080,Systems in Machine Learning 3,4,2
+4081,Applied Ethical Hacking 4,4,5
+4082,Systems in Data Structures 4,4,1
+4083,Introduction to Networks 6,4,6
+4084,Systems in Database Systems 6,2,8
+4085,Advanced Cloud Computing 2,2,5
+4086,Introduction to Networks 1,4,7
+4087,Systems in Networks 7,2,3
+4088,Advanced Programming 8,2,2
+4089,Introduction to Data Structures 8,2,3
+4090,Advanced Data Structures 9,3,8
+4091,Systems in Cloud Computing 2,3,1
+4092,Systems in Data Structures 7,4,8
+4093,Fundamentals of Data Structures 6,3,4
+4094,Introduction to Database Systems 9,3,6
+4095,Advanced Cloud Computing 2,4,4
+4096,Introduction to Machine Learning 4,3,6
+4097,Applied Cloud Computing 6,3,8
+4098,Fundamentals of Networks 3,2,4
+4099,Fundamentals of Ethical Hacking 3,3,8
+4100,Applied Machine Learning 6,4,3
+4101,Advanced Data Structures 8,2,4
+4102,Systems in Ethical Hacking 8,4,3
+4103,Systems in Ethical Hacking 3,3,7
+4104,Applied Machine Learning 7,4,8
+4105,Applied Programming 7,2,6
+4106,Introduction to Ethical Hacking 7,3,5
+4107,Fundamentals of Database Systems 2,3,8
+4108,Advanced Cloud Computing 1,4,4
+4109,Advanced Programming 3,4,6
+4110,Fundamentals of Programming 6,2,5
+4111,Systems in Machine Learning 8,2,3
+4112,Systems in Ethical Hacking 8,3,8
+4113,Introduction to Ethical Hacking 4,4,2
+4114,Fundamentals of Ethical Hacking 5,2,7
+4115,Introduction to Data Structures 3,4,1
+4116,Advanced Programming 1,2,8
+4117,Introduction to Cloud Computing 7,2,5
+4118,Introduction to Data Structures 5,2,5
+4119,Advanced Database Systems 8,4,4
+4120,Advanced Database Systems 8,3,1
+4121,Introduction to Programming 9,3,1
+4122,Applied Machine Learning 9,4,3
+4123,Fundamentals of Database Systems 2,3,7
+4124,Fundamentals of Programming 1,2,5
+4125,Systems in Ethical Hacking 1,2,8
+4126,Fundamentals of Cloud Computing 4,4,1
+4127,Fundamentals of Networks 5,2,2
+4128,Systems in Ethical Hacking 7,4,4
+4129,Systems in Cloud Computing 1,2,2
+4130,Introduction to Networks 3,2,1
+4131,Applied Networks 3,3,8
+4132,Fundamentals of Ethical Hacking 7,4,4
+4133,Advanced Programming 7,3,6
+4134,Systems in Networks 7,2,6
+4135,Applied Machine Learning 4,2,8
+4136,Systems in Database Systems 3,3,8
+4137,Systems in Data Structures 2,2,1
+4138,Advanced Data Structures 8,2,6
+4139,Systems in Programming 6,3,8
+4140,Introduction to Machine Learning 7,3,3
+4141,Introduction to Networks 7,2,8
+4142,Applied Networks 9,4,2
+4143,Applied Ethical Hacking 3,4,6
+4144,Systems in Cloud Computing 1,3,1
+4145,Fundamentals of Cloud Computing 9,3,6
+4146,Introduction to Programming 6,2,6
+4147,Fundamentals of Ethical Hacking 2,4,6
+4148,Applied Data Structures 2,3,8
+4149,Introduction to Machine Learning 4,4,7
+4150,Introduction to Ethical Hacking 5,3,6
+4151,Advanced Data Structures 3,4,6
+4152,Systems in Cloud Computing 2,2,7
+4153,Fundamentals of Programming 8,2,8
+4154,Applied Ethical Hacking 7,3,1
+4155,Fundamentals of Cloud Computing 8,2,2
+4156,Introduction to Ethical Hacking 3,2,8
+4157,Advanced Machine Learning 6,4,6
+4158,Introduction to Database Systems 2,4,8
+4159,Fundamentals of Machine Learning 2,3,3
+4160,Advanced Networks 4,2,5
+4161,Introduction to Programming 7,4,7
+4162,Systems in Cloud Computing 2,3,6
+4163,Introduction to Database Systems 9,3,3
+4164,Introduction to Networks 3,2,6
+4165,Fundamentals of Programming 8,4,8
+4166,Fundamentals of Networks 5,3,2
+4167,Systems in Cloud Computing 3,4,6
+4168,Fundamentals of Database Systems 9,4,4
+4169,Advanced Programming 2,3,7
+4170,Advanced Cloud Computing 7,4,4
+4171,Introduction to Cloud Computing 6,4,2
+4172,Fundamentals of Cloud Computing 1,2,7
+4173,Applied Networks 1,2,3
+4174,Systems in Cloud Computing 1,3,1
+4175,Introduction to Networks 2,2,4
+4176,Systems in Data Structures 1,4,3
+4177,Advanced Programming 9,4,5
+4178,Applied Networks 2,4,1
+4179,Applied Programming 3,3,4
+4180,Systems in Ethical Hacking 9,3,5
+4181,Fundamentals of Cloud Computing 1,4,1
+4182,Systems in Data Structures 7,2,6
+4183,Systems in Machine Learning 3,3,7
+4184,Systems in Programming 4,2,2
+4185,Applied Programming 8,2,1
+4186,Advanced Machine Learning 6,4,5
+4187,Fundamentals of Ethical Hacking 3,4,4
+4188,Advanced Data Structures 6,2,1
+4189,Advanced Data Structures 7,2,1
+4190,Fundamentals of Programming 5,2,7
+4191,Introduction to Programming 5,3,3
+4192,Introduction to Machine Learning 3,4,8
+4193,Advanced Programming 9,2,8
+4194,Fundamentals of Data Structures 9,2,4
+4195,Systems in Machine Learning 9,2,4
+4196,Applied Database Systems 9,2,6
+4197,Systems in Database Systems 6,4,3
+4198,Fundamentals of Cloud Computing 6,4,1
+4199,Introduction to Programming 7,3,5
+4200,Advanced Cloud Computing 5,4,8
+4201,Introduction to Networks 1,4,2
+4202,Systems in Data Structures 2,3,6
+4203,Systems in Cloud Computing 8,4,8
+4204,Applied Machine Learning 2,4,1
+4205,Fundamentals of Ethical Hacking 2,2,7
+4206,Applied Machine Learning 3,3,5
+4207,Introduction to Database Systems 1,3,1
+4208,Advanced Programming 6,2,1
+4209,Introduction to Ethical Hacking 3,2,4
+4210,Introduction to Programming 2,2,1
+4211,Introduction to Cloud Computing 4,4,6
+4212,Advanced Programming 8,4,8
+4213,Advanced Programming 4,3,5
+4214,Applied Data Structures 9,4,1
+4215,Systems in Networks 6,2,6
+4216,Systems in Ethical Hacking 1,3,3
+4217,Introduction to Cloud Computing 1,3,5
+4218,Advanced Database Systems 9,4,3
+4219,Introduction to Ethical Hacking 2,4,1
+4220,Systems in Database Systems 7,3,1
+4221,Systems in Data Structures 9,2,7
+4222,Introduction to Networks 5,3,4
+4223,Advanced Programming 6,2,2
+4224,Fundamentals of Database Systems 2,3,2
+4225,Advanced Data Structures 9,3,3
+4226,Introduction to Networks 9,3,5
+4227,Applied Data Structures 2,4,5
+4228,Introduction to Networks 9,3,5
+4229,Advanced Cloud Computing 2,2,3
+4230,Systems in Data Structures 7,4,7
+4231,Fundamentals of Cloud Computing 8,4,4
+4232,Applied Data Structures 3,2,4
+4233,Introduction to Programming 8,3,8
+4234,Systems in Programming 2,3,8
+4235,Applied Networks 7,3,1
+4236,Applied Ethical Hacking 6,3,8
+4237,Fundamentals of Cloud Computing 9,2,7
+4238,Fundamentals of Data Structures 3,2,4
+4239,Fundamentals of Machine Learning 5,2,3
+4240,Applied Cloud Computing 5,3,3
+4241,Fundamentals of Data Structures 2,3,2
+4242,Applied Data Structures 5,4,6
+4243,Fundamentals of Ethical Hacking 6,4,8
+4244,Applied Programming 8,4,8
+4245,Fundamentals of Cloud Computing 6,2,6
+4246,Advanced Cloud Computing 6,2,6
+4247,Advanced Database Systems 4,4,3
+4248,Advanced Networks 9,2,7
+4249,Systems in Networks 5,4,7
+4250,Applied Programming 6,2,2
+4251,Advanced Machine Learning 4,3,8
+4252,Introduction to Machine Learning 5,3,3
+4253,Fundamentals of Data Structures 6,2,8
+4254,Systems in Networks 6,2,3
+4255,Applied Ethical Hacking 4,2,6
+4256,Fundamentals of Ethical Hacking 6,4,2
+4257,Introduction to Ethical Hacking 2,2,8
+4258,Advanced Machine Learning 5,2,2
+4259,Advanced Networks 4,4,1
+4260,Systems in Cloud Computing 1,3,1
+4261,Introduction to Cloud Computing 2,3,2
+4262,Introduction to Cloud Computing 8,2,5
+4263,Advanced Networks 6,4,3
+4264,Fundamentals of Machine Learning 4,3,5
+4265,Introduction to Networks 4,3,5
+4266,Applied Ethical Hacking 5,4,7
+4267,Fundamentals of Programming 2,3,1
+4268,Systems in Programming 8,4,4
+4269,Advanced Machine Learning 8,2,7
+4270,Systems in Networks 4,2,4
+4271,Advanced Programming 8,4,1
+4272,Applied Machine Learning 1,4,3
+4273,Advanced Machine Learning 8,4,3
+4274,Systems in Networks 8,3,2
+4275,Advanced Data Structures 3,3,5
+4276,Systems in Cloud Computing 9,4,2
+4277,Fundamentals of Cloud Computing 7,4,4
+4278,Fundamentals of Networks 1,3,2
+4279,Introduction to Database Systems 7,2,7
+4280,Fundamentals of Networks 1,3,8
+4281,Fundamentals of Database Systems 2,2,8
+4282,Introduction to Data Structures 1,2,3
+4283,Advanced Networks 3,2,6
+4284,Fundamentals of Data Structures 5,4,3
+4285,Advanced Programming 6,3,7
+4286,Fundamentals of Cloud Computing 7,3,1
+4287,Systems in Programming 4,2,6
+4288,Systems in Ethical Hacking 7,4,2
+4289,Advanced Ethical Hacking 2,4,1
+4290,Systems in Ethical Hacking 9,3,1
+4291,Applied Ethical Hacking 4,4,6
+4292,Applied Database Systems 8,2,1
+4293,Systems in Cloud Computing 9,4,1
+4294,Systems in Ethical Hacking 7,2,7
+4295,Advanced Programming 1,4,3
+4296,Fundamentals of Database Systems 4,4,5
+4297,Systems in Cloud Computing 2,3,5
+4298,Applied Machine Learning 9,2,6
+4299,Fundamentals of Machine Learning 7,4,1
+4300,Introduction to Machine Learning 7,3,8
+4301,Fundamentals of Machine Learning 8,3,5
+4302,Advanced Networks 8,2,2
+4303,Introduction to Networks 8,2,8
+4304,Fundamentals of Programming 7,4,2
+4305,Applied Cloud Computing 3,4,3
+4306,Applied Programming 3,4,8
+4307,Advanced Cloud Computing 8,3,5
+4308,Applied Networks 7,3,3
+4309,Applied Ethical Hacking 6,2,1
+4310,Applied Machine Learning 6,4,5
+4311,Advanced Machine Learning 6,4,3
+4312,Applied Ethical Hacking 4,2,7
+4313,Advanced Database Systems 6,3,3
+4314,Introduction to Database Systems 9,2,6
+4315,Applied Machine Learning 7,2,5
+4316,Advanced Database Systems 4,3,8
+4317,Applied Machine Learning 4,4,2
+4318,Advanced Ethical Hacking 6,2,7
+4319,Advanced Programming 1,4,3
+4320,Applied Programming 9,3,8
+4321,Applied Programming 7,4,8
+4322,Systems in Data Structures 3,4,2
+4323,Applied Database Systems 9,2,8
+4324,Fundamentals of Machine Learning 9,2,3
+4325,Advanced Database Systems 9,3,3
+4326,Applied Data Structures 2,3,1
+4327,Introduction to Ethical Hacking 4,4,8
+4328,Fundamentals of Machine Learning 6,2,3
+4329,Applied Database Systems 3,3,3
+4330,Applied Database Systems 1,3,8
+4331,Introduction to Networks 5,2,3
+4332,Introduction to Machine Learning 4,2,8
+4333,Fundamentals of Data Structures 1,2,4
+4334,Fundamentals of Programming 5,3,8
+4335,Systems in Database Systems 7,2,7
+4336,Applied Networks 9,2,7
+4337,Fundamentals of Cloud Computing 5,4,5
+4338,Advanced Cloud Computing 5,2,4
+4339,Applied Networks 6,3,8
+4340,Fundamentals of Cloud Computing 6,4,3
+4341,Introduction to Machine Learning 7,3,1
+4342,Fundamentals of Machine Learning 6,3,1
+4343,Introduction to Database Systems 7,3,7
+4344,Advanced Database Systems 5,4,4
+4345,Introduction to Database Systems 1,2,4
+4346,Advanced Data Structures 5,2,4
+4347,Introduction to Ethical Hacking 9,2,8
+4348,Applied Networks 9,4,3
+4349,Fundamentals of Networks 5,4,1
+4350,Applied Programming 8,3,4
+4351,Applied Ethical Hacking 5,3,4
+4352,Advanced Machine Learning 6,4,3
+4353,Fundamentals of Machine Learning 1,4,5
+4354,Applied Database Systems 8,4,2
+4355,Fundamentals of Networks 5,4,3
+4356,Systems in Ethical Hacking 6,3,4
+4357,Advanced Database Systems 3,4,3
+4358,Systems in Networks 4,4,7
+4359,Applied Programming 3,3,6
+4360,Systems in Database Systems 7,4,5
+4361,Applied Ethical Hacking 9,3,7
+4362,Systems in Data Structures 2,3,3
+4363,Applied Machine Learning 9,2,7
+4364,Introduction to Programming 4,2,2
+4365,Advanced Programming 3,2,2
+4366,Systems in Ethical Hacking 3,3,8
+4367,Introduction to Machine Learning 4,4,1
+4368,Fundamentals of Database Systems 4,4,3
+4369,Systems in Programming 7,2,5
+4370,Systems in Ethical Hacking 3,2,3
+4371,Introduction to Data Structures 5,3,2
+4372,Applied Data Structures 5,2,3
+4373,Systems in Networks 3,2,3
+4374,Fundamentals of Data Structures 4,4,8
+4375,Advanced Database Systems 3,3,5
+4376,Systems in Networks 8,3,8
+4377,Applied Database Systems 6,4,3
+4378,Introduction to Machine Learning 8,3,7
+4379,Applied Data Structures 1,4,6
+4380,Systems in Networks 8,3,7
+4381,Introduction to Data Structures 2,4,3
+4382,Systems in Networks 8,3,6
+4383,Systems in Ethical Hacking 6,2,1
+4384,Fundamentals of Database Systems 8,4,6
+4385,Advanced Ethical Hacking 2,4,7
+4386,Introduction to Machine Learning 2,4,3
+4387,Systems in Cloud Computing 8,3,3
+4388,Introduction to Ethical Hacking 3,2,6
+4389,Applied Data Structures 4,2,6
+4390,Systems in Programming 3,3,1
+4391,Introduction to Cloud Computing 5,2,2
+4392,Fundamentals of Cloud Computing 8,4,8
+4393,Advanced Data Structures 6,3,3
+4394,Advanced Programming 7,4,3
+4395,Advanced Programming 5,4,1
+4396,Applied Programming 2,2,8
+4397,Applied Database Systems 7,3,2
+4398,Applied Ethical Hacking 4,2,2
+4399,Fundamentals of Cloud Computing 1,4,2
+4400,Fundamentals of Networks 2,3,5
+4401,Systems in Data Structures 6,3,8
+4402,Advanced Data Structures 2,2,8
+4403,Systems in Machine Learning 4,3,1
+4404,Applied Machine Learning 9,3,8
+4405,Advanced Database Systems 9,3,3
+4406,Applied Networks 6,4,6
+4407,Advanced Database Systems 7,2,4
+4408,Advanced Database Systems 3,3,2
+4409,Advanced Data Structures 5,3,8
+4410,Introduction to Data Structures 7,2,7
+4411,Advanced Data Structures 9,2,4
+4412,Applied Programming 5,3,2
+4413,Advanced Programming 8,4,3
+4414,Introduction to Ethical Hacking 8,4,1
+4415,Fundamentals of Cloud Computing 5,2,5
+4416,Applied Ethical Hacking 7,4,4
+4417,Advanced Cloud Computing 8,4,4
+4418,Introduction to Cloud Computing 9,2,5
+4419,Advanced Data Structures 6,2,5
+4420,Systems in Networks 6,4,7
+4421,Applied Networks 8,2,2
+4422,Applied Machine Learning 2,4,2
+4423,Systems in Data Structures 5,4,1
+4424,Introduction to Ethical Hacking 5,4,2
+4425,Systems in Database Systems 7,3,3
+4426,Advanced Programming 6,2,1
+4427,Systems in Networks 7,3,3
+4428,Introduction to Ethical Hacking 1,3,1
+4429,Advanced Programming 9,3,7
+4430,Systems in Database Systems 9,3,8
+4431,Fundamentals of Data Structures 8,2,7
+4432,Advanced Machine Learning 9,3,7
+4433,Systems in Ethical Hacking 1,3,8
+4434,Introduction to Programming 3,4,3
+4435,Systems in Database Systems 6,2,7
+4436,Systems in Data Structures 8,3,8
+4437,Systems in Ethical Hacking 9,4,7
+4438,Advanced Machine Learning 6,2,5
+4439,Fundamentals of Ethical Hacking 9,3,4
+4440,Applied Database Systems 8,4,8
+4441,Fundamentals of Data Structures 9,3,3
+4442,Introduction to Ethical Hacking 9,3,3
+4443,Advanced Ethical Hacking 1,4,3
+4444,Fundamentals of Database Systems 5,2,3
+4445,Advanced Ethical Hacking 5,3,3
+4446,Introduction to Ethical Hacking 8,2,6
+4447,Systems in Cloud Computing 5,3,1
+4448,Advanced Ethical Hacking 1,3,8
+4449,Systems in Cloud Computing 1,4,3
+4450,Advanced Cloud Computing 5,2,7
+4451,Systems in Networks 9,4,6
+4452,Systems in Machine Learning 5,3,4
+4453,Fundamentals of Cloud Computing 9,3,3
+4454,Introduction to Cloud Computing 1,2,5
+4455,Systems in Programming 4,2,5
+4456,Advanced Data Structures 6,3,1
+4457,Advanced Machine Learning 9,4,8
+4458,Introduction to Data Structures 5,3,7
+4459,Introduction to Ethical Hacking 3,2,8
+4460,Applied Database Systems 1,4,2
+4461,Systems in Programming 1,3,1
+4462,Advanced Data Structures 6,4,5
+4463,Introduction to Data Structures 1,3,1
+4464,Introduction to Ethical Hacking 8,2,6
+4465,Fundamentals of Networks 7,2,7
+4466,Fundamentals of Machine Learning 7,2,8
+4467,Introduction to Machine Learning 7,2,6
+4468,Introduction to Ethical Hacking 2,3,8
+4469,Advanced Programming 2,3,8
+4470,Introduction to Ethical Hacking 2,3,5
+4471,Applied Programming 3,4,8
+4472,Fundamentals of Cloud Computing 9,4,1
+4473,Applied Database Systems 3,2,5
+4474,Introduction to Database Systems 6,3,6
+4475,Introduction to Ethical Hacking 8,2,7
+4476,Fundamentals of Data Structures 3,2,5
+4477,Introduction to Database Systems 1,3,7
+4478,Fundamentals of Database Systems 2,2,6
+4479,Applied Ethical Hacking 7,4,6
+4480,Introduction to Data Structures 3,2,2
+4481,Applied Cloud Computing 1,3,4
+4482,Systems in Ethical Hacking 8,4,4
+4483,Applied Machine Learning 7,2,3
+4484,Introduction to Cloud Computing 2,4,6
+4485,Systems in Database Systems 4,4,8
+4486,Advanced Ethical Hacking 1,3,5
+4487,Applied Networks 9,2,7
+4488,Introduction to Database Systems 8,4,5
+4489,Advanced Ethical Hacking 7,4,1
+4490,Systems in Programming 8,4,5
+4491,Introduction to Programming 6,4,7
+4492,Systems in Networks 9,2,6
+4493,Systems in Machine Learning 1,2,3
+4494,Advanced Cloud Computing 9,4,6
+4495,Advanced Ethical Hacking 2,3,7
+4496,Applied Database Systems 9,4,1
+4497,Fundamentals of Database Systems 4,3,1
+4498,Systems in Database Systems 5,2,4
+4499,Systems in Programming 4,3,6
+4500,Advanced Networks 6,3,4
+4501,Systems in Cloud Computing 9,4,6
+4502,Introduction to Ethical Hacking 7,2,2
+4503,Systems in Database Systems 8,3,8
+4504,Applied Networks 2,2,3
+4505,Fundamentals of Cloud Computing 2,4,4
+4506,Introduction to Programming 7,4,8
+4507,Introduction to Cloud Computing 2,4,7
+4508,Advanced Programming 6,4,5
+4509,Systems in Machine Learning 7,4,2
+4510,Applied Networks 8,4,3
+4511,Applied Networks 9,4,2
+4512,Applied Database Systems 3,3,5
+4513,Introduction to Data Structures 7,4,6
+4514,Systems in Database Systems 4,2,4
+4515,Fundamentals of Networks 3,4,8
+4516,Fundamentals of Machine Learning 6,4,3
+4517,Systems in Cloud Computing 7,3,4
+4518,Introduction to Data Structures 9,3,5
+4519,Applied Ethical Hacking 3,4,4
+4520,Introduction to Cloud Computing 1,2,2
+4521,Fundamentals of Networks 8,4,2
+4522,Introduction to Ethical Hacking 2,3,1
+4523,Introduction to Data Structures 4,3,8
+4524,Introduction to Programming 6,2,7
+4525,Applied Database Systems 2,2,3
+4526,Fundamentals of Networks 4,3,8
+4527,Fundamentals of Ethical Hacking 8,2,3
+4528,Advanced Data Structures 9,4,8
+4529,Applied Data Structures 8,2,6
+4530,Introduction to Database Systems 7,4,4
+4531,Systems in Programming 7,3,6
+4532,Introduction to Cloud Computing 7,4,2
+4533,Systems in Cloud Computing 2,2,8
+4534,Introduction to Ethical Hacking 8,2,6
+4535,Fundamentals of Programming 8,2,8
+4536,Applied Database Systems 1,2,3
+4537,Fundamentals of Database Systems 4,4,2
+4538,Advanced Database Systems 9,2,6
+4539,Fundamentals of Programming 6,2,2
+4540,Introduction to Machine Learning 1,2,1
+4541,Applied Ethical Hacking 7,2,7
+4542,Fundamentals of Database Systems 9,3,4
+4543,Systems in Cloud Computing 7,2,3
+4544,Fundamentals of Data Structures 8,3,1
+4545,Advanced Networks 1,2,7
+4546,Fundamentals of Machine Learning 8,2,5
+4547,Fundamentals of Data Structures 3,2,1
+4548,Applied Networks 6,3,1
+4549,Fundamentals of Data Structures 2,3,7
+4550,Systems in Data Structures 5,4,3
+4551,Fundamentals of Ethical Hacking 1,4,7
+4552,Advanced Programming 3,3,4
+4553,Introduction to Database Systems 3,2,1
+4554,Advanced Database Systems 2,2,3
+4555,Fundamentals of Cloud Computing 4,3,6
+4556,Fundamentals of Database Systems 8,3,1
+4557,Fundamentals of Networks 9,2,1
+4558,Applied Cloud Computing 1,3,8
+4559,Systems in Machine Learning 3,3,7
+4560,Fundamentals of Cloud Computing 3,3,3
+4561,Fundamentals of Database Systems 5,3,6
+4562,Applied Ethical Hacking 2,2,8
+4563,Applied Programming 2,2,8
+4564,Systems in Database Systems 9,2,5
+4565,Introduction to Database Systems 6,4,5
+4566,Fundamentals of Machine Learning 2,4,4
+4567,Systems in Ethical Hacking 7,2,1
+4568,Introduction to Cloud Computing 2,2,4
+4569,Applied Machine Learning 7,4,2
+4570,Fundamentals of Cloud Computing 9,3,6
+4571,Applied Programming 7,3,1
+4572,Advanced Ethical Hacking 2,2,4
+4573,Systems in Programming 6,3,3
+4574,Systems in Ethical Hacking 7,4,8
+4575,Applied Machine Learning 4,2,7
+4576,Advanced Networks 8,2,8
+4577,Applied Programming 6,2,2
+4578,Systems in Data Structures 7,4,2
+4579,Advanced Programming 3,3,5
+4580,Applied Database Systems 7,4,8
+4581,Applied Database Systems 1,2,6
+4582,Systems in Ethical Hacking 6,4,1
+4583,Applied Networks 2,2,7
+4584,Fundamentals of Networks 5,2,8
+4585,Introduction to Programming 1,3,5
+4586,Systems in Ethical Hacking 7,4,4
+4587,Fundamentals of Ethical Hacking 7,4,5
+4588,Fundamentals of Data Structures 1,3,1
+4589,Systems in Programming 7,2,8
+4590,Applied Ethical Hacking 2,2,3
+4591,Fundamentals of Data Structures 9,2,8
+4592,Systems in Data Structures 3,4,1
+4593,Introduction to Programming 5,2,3
+4594,Applied Database Systems 3,4,5
+4595,Advanced Networks 1,4,2
+4596,Applied Ethical Hacking 6,3,3
+4597,Introduction to Ethical Hacking 1,4,8
+4598,Fundamentals of Machine Learning 1,3,6
+4599,Fundamentals of Cloud Computing 1,2,8
+4600,Introduction to Data Structures 2,4,7
+4601,Applied Machine Learning 8,3,5
+4602,Systems in Data Structures 8,2,7
+4603,Fundamentals of Machine Learning 9,3,1
+4604,Fundamentals of Ethical Hacking 7,3,2
+4605,Systems in Machine Learning 1,4,7
+4606,Fundamentals of Database Systems 9,4,5
+4607,Systems in Cloud Computing 2,3,6
+4608,Advanced Machine Learning 5,4,8
+4609,Advanced Cloud Computing 5,3,5
+4610,Advanced Ethical Hacking 5,2,4
+4611,Introduction to Database Systems 6,2,1
+4612,Introduction to Networks 2,2,4
+4613,Systems in Data Structures 6,2,7
+4614,Fundamentals of Machine Learning 6,3,3
+4615,Advanced Programming 9,3,6
+4616,Introduction to Networks 5,3,8
+4617,Applied Machine Learning 2,2,7
+4618,Applied Ethical Hacking 9,3,8
+4619,Introduction to Machine Learning 5,2,3
+4620,Advanced Machine Learning 3,4,3
+4621,Advanced Database Systems 9,3,7
+4622,Fundamentals of Data Structures 3,4,2
+4623,Introduction to Data Structures 4,2,1
+4624,Applied Programming 2,2,6
+4625,Systems in Machine Learning 2,2,2
+4626,Systems in Data Structures 2,4,6
+4627,Fundamentals of Machine Learning 6,4,6
+4628,Introduction to Networks 8,4,5
+4629,Systems in Cloud Computing 3,3,8
+4630,Applied Cloud Computing 4,2,6
+4631,Applied Networks 8,4,1
+4632,Fundamentals of Ethical Hacking 3,2,3
+4633,Introduction to Cloud Computing 8,2,1
+4634,Applied Networks 5,2,3
+4635,Advanced Ethical Hacking 7,4,3
+4636,Systems in Data Structures 5,3,3
+4637,Advanced Data Structures 8,3,5
+4638,Fundamentals of Machine Learning 4,2,4
+4639,Systems in Data Structures 1,2,6
+4640,Fundamentals of Ethical Hacking 6,2,4
+4641,Advanced Data Structures 6,2,3
+4642,Fundamentals of Programming 6,3,6
+4643,Fundamentals of Cloud Computing 2,4,6
+4644,Applied Networks 3,3,1
+4645,Applied Cloud Computing 5,4,7
+4646,Fundamentals of Data Structures 7,2,2
+4647,Applied Database Systems 5,3,6
+4648,Introduction to Data Structures 6,4,4
+4649,Applied Ethical Hacking 3,3,6
+4650,Introduction to Cloud Computing 8,4,2
+4651,Fundamentals of Networks 5,4,1
+4652,Fundamentals of Data Structures 7,3,6
+4653,Applied Database Systems 6,4,5
+4654,Applied Machine Learning 8,2,4
+4655,Advanced Ethical Hacking 8,2,4
+4656,Applied Ethical Hacking 8,2,6
+4657,Applied Cloud Computing 7,4,3
+4658,Introduction to Database Systems 6,4,2
+4659,Introduction to Networks 7,2,7
+4660,Systems in Programming 9,3,3
+4661,Applied Networks 4,4,7
+4662,Applied Database Systems 6,3,1
+4663,Fundamentals of Networks 5,2,2
+4664,Introduction to Data Structures 8,4,7
+4665,Introduction to Data Structures 3,2,2
+4666,Fundamentals of Data Structures 1,4,8
+4667,Fundamentals of Ethical Hacking 9,4,5
+4668,Fundamentals of Data Structures 1,2,2
+4669,Advanced Networks 2,4,1
+4670,Applied Networks 8,4,4
+4671,Advanced Database Systems 7,4,1
+4672,Fundamentals of Machine Learning 8,3,1
+4673,Applied Machine Learning 2,2,5
+4674,Advanced Database Systems 9,4,1
+4675,Introduction to Ethical Hacking 3,4,8
+4676,Introduction to Ethical Hacking 9,4,1
+4677,Fundamentals of Ethical Hacking 7,2,3
+4678,Applied Data Structures 9,2,8
+4679,Applied Database Systems 9,3,8
+4680,Introduction to Ethical Hacking 7,3,8
+4681,Fundamentals of Ethical Hacking 4,3,2
+4682,Applied Cloud Computing 2,2,8
+4683,Fundamentals of Data Structures 6,3,7
+4684,Introduction to Programming 7,4,2
+4685,Fundamentals of Networks 3,2,3
+4686,Advanced Data Structures 9,3,6
+4687,Applied Machine Learning 6,4,6
+4688,Advanced Database Systems 1,4,7
+4689,Fundamentals of Data Structures 4,2,7
+4690,Introduction to Cloud Computing 7,3,6
+4691,Advanced Programming 4,3,3
+4692,Fundamentals of Cloud Computing 5,4,8
+4693,Fundamentals of Machine Learning 5,2,7
+4694,Introduction to Data Structures 7,2,2
+4695,Fundamentals of Database Systems 3,4,3
+4696,Fundamentals of Data Structures 3,2,4
+4697,Applied Programming 7,2,8
+4698,Advanced Cloud Computing 6,4,1
+4699,Systems in Data Structures 8,4,8
+4700,Advanced Ethical Hacking 6,3,2
+4701,Applied Ethical Hacking 1,3,3
+4702,Advanced Machine Learning 4,4,6
+4703,Introduction to Networks 9,2,6
+4704,Introduction to Networks 7,3,8
+4705,Advanced Machine Learning 3,2,3
+4706,Systems in Programming 6,2,6
+4707,Introduction to Programming 1,4,8
+4708,Advanced Networks 4,2,5
+4709,Applied Data Structures 7,3,3
+4710,Systems in Programming 9,2,4
+4711,Fundamentals of Programming 9,3,5
+4712,Applied Machine Learning 6,3,4
+4713,Fundamentals of Data Structures 5,3,7
+4714,Advanced Cloud Computing 5,2,6
+4715,Applied Cloud Computing 4,4,2
+4716,Systems in Ethical Hacking 5,2,2
+4717,Fundamentals of Ethical Hacking 4,3,2
+4718,Systems in Programming 7,4,3
+4719,Fundamentals of Ethical Hacking 2,4,5
+4720,Systems in Ethical Hacking 2,4,5
+4721,Fundamentals of Cloud Computing 4,4,2
+4722,Advanced Data Structures 3,3,3
+4723,Advanced Cloud Computing 1,3,2
+4724,Systems in Ethical Hacking 1,2,1
+4725,Fundamentals of Data Structures 2,4,8
+4726,Applied Data Structures 8,2,2
+4727,Advanced Machine Learning 4,3,1
+4728,Advanced Networks 8,3,8
+4729,Advanced Ethical Hacking 3,4,2
+4730,Introduction to Machine Learning 9,4,7
+4731,Systems in Networks 2,4,5
+4732,Advanced Cloud Computing 7,3,7
+4733,Advanced Networks 7,3,8
+4734,Introduction to Programming 5,2,2
+4735,Introduction to Cloud Computing 5,4,2
+4736,Fundamentals of Machine Learning 7,2,2
+4737,Fundamentals of Cloud Computing 9,4,7
+4738,Fundamentals of Machine Learning 9,2,7
+4739,Advanced Networks 7,3,3
+4740,Fundamentals of Programming 6,4,1
+4741,Advanced Database Systems 1,4,4
+4742,Systems in Machine Learning 7,3,2
+4743,Applied Programming 1,3,8
+4744,Systems in Cloud Computing 1,4,4
+4745,Fundamentals of Programming 5,4,2
+4746,Fundamentals of Programming 9,3,6
+4747,Applied Programming 3,3,1
+4748,Applied Ethical Hacking 3,4,4
+4749,Applied Data Structures 8,4,8
+4750,Systems in Ethical Hacking 9,3,8
+4751,Advanced Cloud Computing 2,3,8
+4752,Introduction to Networks 1,4,5
+4753,Advanced Networks 5,2,5
+4754,Introduction to Database Systems 8,2,1
+4755,Introduction to Cloud Computing 7,2,7
+4756,Fundamentals of Machine Learning 4,2,6
+4757,Systems in Machine Learning 1,3,4
+4758,Fundamentals of Networks 9,3,4
+4759,Fundamentals of Database Systems 7,3,1
+4760,Systems in Cloud Computing 5,3,7
+4761,Systems in Ethical Hacking 9,2,4
+4762,Introduction to Machine Learning 8,4,2
+4763,Fundamentals of Ethical Hacking 8,3,3
+4764,Systems in Machine Learning 7,2,8
+4765,Introduction to Ethical Hacking 1,4,7
+4766,Advanced Programming 7,2,1
+4767,Systems in Database Systems 3,3,7
+4768,Applied Networks 7,3,1
+4769,Systems in Data Structures 8,3,7
+4770,Introduction to Database Systems 2,3,3
+4771,Introduction to Data Structures 5,2,5
+4772,Introduction to Machine Learning 2,3,4
+4773,Fundamentals of Database Systems 5,3,8
+4774,Fundamentals of Machine Learning 7,2,6
+4775,Introduction to Database Systems 4,2,2
+4776,Fundamentals of Data Structures 2,3,1
+4777,Advanced Machine Learning 3,3,4
+4778,Introduction to Ethical Hacking 9,2,1
+4779,Applied Networks 5,3,5
+4780,Systems in Machine Learning 7,3,5
+4781,Systems in Machine Learning 8,3,1
+4782,Systems in Database Systems 4,3,1
+4783,Systems in Programming 6,4,7
+4784,Introduction to Programming 2,3,2
+4785,Fundamentals of Database Systems 3,2,3
+4786,Fundamentals of Programming 8,3,3
+4787,Introduction to Database Systems 7,2,7
+4788,Advanced Programming 8,4,6
+4789,Fundamentals of Cloud Computing 9,3,6
+4790,Advanced Machine Learning 4,2,2
+4791,Systems in Programming 2,4,5
+4792,Fundamentals of Ethical Hacking 1,4,5
+4793,Fundamentals of Machine Learning 6,4,6
+4794,Fundamentals of Machine Learning 4,4,3
+4795,Introduction to Networks 4,2,4
+4796,Applied Database Systems 6,4,6
+4797,Systems in Ethical Hacking 2,4,5
+4798,Systems in Data Structures 9,3,7
+4799,Advanced Cloud Computing 3,4,8
+4800,Advanced Database Systems 5,2,3
+4801,Applied Programming 7,3,4
+4802,Advanced Data Structures 7,4,6
+4803,Advanced Ethical Hacking 3,3,5
+4804,Applied Database Systems 1,4,8
+4805,Introduction to Cloud Computing 8,4,2
+4806,Advanced Networks 1,4,3
+4807,Applied Networks 7,3,3
+4808,Applied Database Systems 8,2,2
+4809,Introduction to Data Structures 6,4,8
+4810,Advanced Networks 8,4,2
+4811,Advanced Machine Learning 4,3,4
+4812,Applied Database Systems 8,3,2
+4813,Applied Networks 4,2,6
+4814,Introduction to Data Structures 8,4,1
+4815,Advanced Programming 9,3,4
+4816,Advanced Data Structures 6,3,7
+4817,Fundamentals of Data Structures 6,2,8
+4818,Advanced Data Structures 8,2,7
+4819,Advanced Data Structures 3,2,7
+4820,Advanced Data Structures 6,3,6
+4821,Systems in Networks 9,3,2
+4822,Applied Database Systems 9,2,7
+4823,Introduction to Networks 9,3,8
+4824,Introduction to Machine Learning 9,3,5
+4825,Systems in Cloud Computing 6,4,6
+4826,Advanced Machine Learning 2,3,7
+4827,Fundamentals of Data Structures 5,2,5
+4828,Introduction to Database Systems 5,2,2
+4829,Introduction to Cloud Computing 5,4,5
+4830,Fundamentals of Ethical Hacking 1,3,2
+4831,Fundamentals of Programming 2,3,1
+4832,Systems in Machine Learning 1,2,7
+4833,Systems in Networks 6,3,5
+4834,Fundamentals of Database Systems 2,3,1
+4835,Systems in Cloud Computing 3,4,5
+4836,Applied Machine Learning 9,2,1
+4837,Systems in Networks 3,3,4
+4838,Fundamentals of Cloud Computing 7,4,6
+4839,Systems in Machine Learning 1,4,7
+4840,Applied Ethical Hacking 8,3,3
+4841,Introduction to Machine Learning 5,3,8
+4842,Introduction to Data Structures 8,4,8
+4843,Applied Networks 7,3,7
+4844,Introduction to Ethical Hacking 2,4,5
+4845,Applied Data Structures 4,2,1
+4846,Introduction to Database Systems 2,2,8
+4847,Advanced Data Structures 2,3,8
+4848,Fundamentals of Machine Learning 8,3,8
+4849,Applied Ethical Hacking 6,3,6
+4850,Advanced Networks 2,3,4
+4851,Fundamentals of Cloud Computing 1,3,1
+4852,Systems in Data Structures 6,2,7
+4853,Introduction to Machine Learning 8,3,3
+4854,Fundamentals of Database Systems 4,2,6
+4855,Applied Cloud Computing 3,4,8
+4856,Systems in Cloud Computing 1,3,2
+4857,Applied Data Structures 2,3,5
+4858,Advanced Programming 1,2,3
+4859,Introduction to Networks 2,2,7
+4860,Advanced Database Systems 3,3,4
+4861,Introduction to Machine Learning 2,2,1
+4862,Fundamentals of Data Structures 9,2,2
+4863,Advanced Networks 1,3,5
+4864,Fundamentals of Machine Learning 7,2,5
+4865,Advanced Programming 3,2,8
+4866,Fundamentals of Data Structures 5,3,7
+4867,Systems in Cloud Computing 5,3,1
+4868,Fundamentals of Machine Learning 2,3,2
+4869,Systems in Cloud Computing 6,4,2
+4870,Applied Ethical Hacking 2,3,2
+4871,Introduction to Database Systems 9,4,4
+4872,Introduction to Networks 7,2,3
+4873,Fundamentals of Programming 9,3,2
+4874,Introduction to Ethical Hacking 6,2,4
+4875,Systems in Cloud Computing 7,4,4
+4876,Systems in Database Systems 3,4,2
+4877,Fundamentals of Cloud Computing 4,4,5
+4878,Applied Cloud Computing 8,4,5
+4879,Advanced Ethical Hacking 1,3,8
+4880,Fundamentals of Cloud Computing 6,3,8
+4881,Advanced Networks 1,2,3
+4882,Applied Networks 7,2,8
+4883,Introduction to Cloud Computing 4,3,7
+4884,Introduction to Data Structures 9,2,4
+4885,Systems in Programming 7,4,8
+4886,Systems in Machine Learning 1,3,2
+4887,Fundamentals of Networks 2,4,3
+4888,Applied Programming 6,2,8
+4889,Fundamentals of Programming 3,4,4
+4890,Fundamentals of Ethical Hacking 8,4,3
+4891,Fundamentals of Data Structures 7,4,3
+4892,Systems in Networks 1,3,1
+4893,Introduction to Machine Learning 2,3,7
+4894,Introduction to Programming 3,2,5
+4895,Advanced Networks 4,4,4
+4896,Advanced Machine Learning 2,3,7
+4897,Advanced Networks 9,2,8
+4898,Systems in Cloud Computing 8,3,8
+4899,Advanced Database Systems 7,4,2
+4900,Fundamentals of Programming 1,4,6
+4901,Fundamentals of Machine Learning 1,4,1
+4902,Systems in Data Structures 2,3,4
+4903,Applied Machine Learning 8,3,8
+4904,Systems in Ethical Hacking 3,3,2
+4905,Introduction to Machine Learning 3,2,6
+4906,Introduction to Ethical Hacking 2,2,5
+4907,Introduction to Cloud Computing 5,4,4
+4908,Systems in Programming 3,4,7
+4909,Applied Programming 2,2,6
+4910,Applied Data Structures 3,2,4
+4911,Applied Networks 2,3,2
+4912,Introduction to Networks 8,3,6
+4913,Applied Machine Learning 3,2,3
+4914,Systems in Data Structures 3,4,4
+4915,Introduction to Cloud Computing 5,4,2
+4916,Advanced Database Systems 3,2,7
+4917,Fundamentals of Machine Learning 4,2,1
+4918,Introduction to Ethical Hacking 9,3,5
+4919,Introduction to Database Systems 5,4,6
+4920,Introduction to Cloud Computing 9,3,5
+4921,Systems in Programming 6,3,8
+4922,Applied Data Structures 4,3,7
+4923,Introduction to Database Systems 9,2,2
+4924,Advanced Networks 3,3,7
+4925,Introduction to Cloud Computing 2,2,1
+4926,Systems in Cloud Computing 4,4,2
+4927,Applied Cloud Computing 2,3,3
+4928,Fundamentals of Cloud Computing 8,2,5
+4929,Systems in Data Structures 7,3,2
+4930,Applied Machine Learning 6,2,8
+4931,Advanced Database Systems 4,4,3
+4932,Applied Programming 9,2,6
+4933,Applied Machine Learning 2,4,5
+4934,Applied Programming 1,3,3
+4935,Introduction to Database Systems 3,4,6
+4936,Advanced Networks 4,2,2
+4937,Introduction to Programming 8,2,6
+4938,Introduction to Machine Learning 4,2,2
+4939,Systems in Networks 1,3,8
+4940,Fundamentals of Ethical Hacking 4,2,3
+4941,Introduction to Data Structures 9,2,2
+4942,Advanced Cloud Computing 1,2,1
+4943,Systems in Machine Learning 2,3,3
+4944,Advanced Networks 2,4,2
+4945,Advanced Database Systems 2,3,8
+4946,Systems in Cloud Computing 3,3,4
+4947,Applied Machine Learning 8,2,2
+4948,Fundamentals of Cloud Computing 2,4,4
+4949,Fundamentals of Machine Learning 2,2,7
+4950,Systems in Machine Learning 2,2,4
+4951,Fundamentals of Cloud Computing 4,4,2
+4952,Systems in Networks 4,2,4
+4953,Fundamentals of Machine Learning 9,2,6
+4954,Applied Data Structures 4,4,1
+4955,Systems in Programming 2,4,5
+4956,Introduction to Ethical Hacking 4,4,2
+4957,Introduction to Programming 2,4,4
+4958,Fundamentals of Ethical Hacking 2,2,8
+4959,Introduction to Cloud Computing 9,2,2
+4960,Systems in Database Systems 7,4,5
+4961,Applied Networks 9,4,6
+4962,Introduction to Ethical Hacking 8,3,3
+4963,Systems in Networks 1,3,5
+4964,Introduction to Ethical Hacking 8,3,4
+4965,Introduction to Data Structures 7,3,2
+4966,Fundamentals of Networks 3,3,3
+4967,Applied Ethical Hacking 6,3,8
+4968,Applied Cloud Computing 1,4,8
+4969,Applied Machine Learning 6,3,1
+4970,Introduction to Data Structures 4,4,1
+4971,Introduction to Programming 3,2,8
+4972,Introduction to Cloud Computing 6,4,7
+4973,Applied Database Systems 5,2,3
+4974,Fundamentals of Machine Learning 2,4,2
+4975,Applied Ethical Hacking 6,3,3
+4976,Applied Networks 3,3,3
+4977,Advanced Data Structures 4,2,4
+4978,Fundamentals of Machine Learning 3,4,1
+4979,Introduction to Programming 2,2,5
+4980,Applied Machine Learning 2,2,3
+4981,Applied Programming 4,2,3
+4982,Applied Machine Learning 7,4,4
+4983,Applied Database Systems 6,4,6
+4984,Applied Ethical Hacking 2,4,5
+4985,Introduction to Data Structures 6,4,6
+4986,Systems in Database Systems 1,2,7
+4987,Advanced Database Systems 1,2,5
+4988,Advanced Cloud Computing 3,3,7
+4989,Introduction to Cloud Computing 4,4,5
+4990,Fundamentals of Networks 9,3,1
+4991,Fundamentals of Ethical Hacking 7,4,2
+4992,Advanced Cloud Computing 2,2,3
+4993,Applied Ethical Hacking 5,2,2
+4994,Advanced Networks 6,3,7
+4995,Introduction to Data Structures 7,3,5
+4996,Applied Networks 1,3,2
+4997,Advanced Networks 9,2,3
+4998,Advanced Database Systems 3,3,5
+4999,Introduction to Machine Learning 8,3,3
+5000,Introduction to Ethical Hacking 5,4,6
+5001,Fundamentals of Database Systems 7,2,8
+5002,Fundamentals of Data Structures 9,3,4
+5003,Fundamentals of Cloud Computing 6,2,8
